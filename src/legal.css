@@ -1,0 +1,23 @@
+@import './fonts.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Former inline <style> blocks of privacy.html, terms.html and cookies.html (kept after utilities, as the Play CDN emitted them). */
+html { scroll-behavior: smooth; }
+body { background-color: #131313; color: #e5e2e1; }
+[data-lang][hidden] { display: none !important; }
+
+.legal-card { @apply bg-[#181818] border border-[#262626] p-6 md:p-8; }
+.sec { @apply border-b border-[#262626] pb-3 mb-4 font-mono text-xs uppercase tracking-wider text-[#8E8E8E] font-normal; }
+.box { @apply p-4 bg-[#141414] border border-[#262626]; }
+.box h3 { @apply text-white font-semibold mb-2; }
+.meta { @apply text-xs text-[#8E8E8E] font-mono mb-2; }
+.kv { @apply space-y-2 border-l-2 border-primary-container pl-4 font-mono text-xs text-white; }
+.dots { @apply list-disc pl-5 space-y-2; }
+.lnk { @apply text-primary-container underline underline-offset-2; }
+.lang-btn { @apply px-2.5 py-1.5 border border-[#333333] text-[#8E8E8E] hover:text-white aria-pressed:bg-primary-container aria-pressed:text-black aria-pressed:border-primary-container; }
+.steps { @apply list-decimal pl-5 space-y-2; }
+.spec { @apply grid grid-cols-1 sm:grid-cols-[180px_1fr] gap-x-4 gap-y-1 sm:gap-y-3 font-mono text-xs; }
+.spec dt { @apply text-[#8E8E8E] uppercase mt-2 sm:mt-0; }
+.spec dd { @apply text-white; }

@@ -1,0 +1,576 @@
+<!DOCTYPE html><html class="dark" lang="en"><head><meta charset="utf-8"><meta content="width=device-width, initial-scale=1.0" name="viewport"><title>Jordi Mora | Web Design &amp; AI Automation</title><meta name="description" content="Custom websites and practical AI automations that help your business win more enquiries, simplify bookings and save time."><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="assets/css/site.css"></head><body class="bg-background font-body-md text-on-surface antialiased selection:bg-primary-container selection:text-on-primary-fixed"><header class="fixed top-0 left-0 right-0 z-50 bg-surface-container-lowest border-b border-outline-variant/30"><div class="h-20 max-w-[1440px] mx-auto px-margin-mobile md:px-margin flex items-center justify-between"><div class="flex items-center gap-space-lg"><a class="font-label-ui text-label-ui uppercase tracking-[0.25em] text-on-surface hover:text-primary-container transition-colors" data-path="work" href="#">JORDI MORA</a><span class="hidden lg:inline-block font-label-code text-label-code uppercase text-outline tracking-widest pl-space-sm border-l border-outline-variant/40" data-i18n="nav_tagline">Web Design &amp; AI</span></div><nav class="hidden xl:flex items-center gap-space-lg" data-active-classes="text-on-surface border-b-2 border-primary-container font-semibold"><a class="font-label-ui text-label-ui py-1 border-b-2 border-transparent text-on-surface-variant hover:text-on-surface transition-colors aria-[current=true]:border-primary-container aria-[current=true]:text-on-surface" data-path="work" data-i18n="nav_work" href="#work">Work</a><a class="font-label-ui text-label-ui py-1 border-b-2 border-transparent text-on-surface-variant hover:text-on-surface transition-colors aria-[current=true]:border-primary-container aria-[current=true]:text-on-surface" data-path="services" data-i18n="nav_services" href="#services">Services</a><a class="font-label-ui text-label-ui py-1 border-b-2 border-transparent text-on-surface-variant hover:text-on-surface transition-colors aria-[current=true]:border-primary-container aria-[current=true]:text-on-surface" data-path="process" data-i18n="nav_process" href="#process">Process</a><a class="font-label-ui text-label-ui py-1 border-b-2 border-transparent text-on-surface-variant hover:text-on-surface transition-colors aria-[current=true]:border-primary-container aria-[current=true]:text-on-surface" data-path="about" data-i18n="nav_about" href="#about">About</a></nav><div class="flex items-center gap-space-md"><div class="flex items-center border border-outline-variant/40 px-2 py-1 gap-2 font-label-code text-label-code uppercase"><a class="relative after:absolute after:-inset-x-2 after:-inset-y-[15px] after:content-[''] hover:text-on-surface transition-colors text-primary-container font-semibold" href="#">EN</a><span class="text-outline-variant">/</span><a class="relative after:absolute after:-inset-x-2 after:-inset-y-[15px] after:content-[''] text-on-surface-variant hover:text-on-surface transition-colors" href="#">ES</a><span class="text-outline-variant">/</span><a class="relative after:absolute after:-inset-x-2 after:-inset-y-[15px] after:content-[''] text-on-surface-variant hover:text-on-surface transition-colors" href="#">DE</a></div><a class="hidden sm:inline-flex items-center justify-center bg-primary-container text-on-primary-fixed font-label-ui text-label-ui uppercase tracking-wider px-5 py-3 hover:bg-on-surface hover:text-background transition-colors" data-path="book-discovery-call" data-i18n="nav_cta" href="#booking-calendar">Book a discovery call →</a><button aria-controls="mobile-menu" aria-expanded="false" aria-label="Open menu" class="xl:hidden inline-flex items-center justify-center w-11 h-11 border border-outline-variant/40 text-on-surface hover:border-primary-container" data-i18n-aria="nav_menu_open" id="menu-toggle" type="button"><span aria-hidden="true" class="material-symbols-outlined text-[24px]" id="menu-icon">menu</span></button></div></div>
+<div class="hidden xl:hidden border-t border-outline-variant/30 bg-surface-container-lowest" id="mobile-menu">
+<nav class="max-w-[1440px] mx-auto px-margin-mobile md:px-margin py-4 flex flex-col">
+<a class="py-4 border-b border-outline-variant/20 font-headline-sm text-headline-sm text-on-surface-variant hover:text-on-surface aria-[current=true]:text-primary-container" data-i18n="nav_work" href="#work">Work</a>
+<a class="py-4 border-b border-outline-variant/20 font-headline-sm text-headline-sm text-on-surface-variant hover:text-on-surface aria-[current=true]:text-primary-container" data-i18n="nav_services" href="#services">Services</a>
+<a class="py-4 border-b border-outline-variant/20 font-headline-sm text-headline-sm text-on-surface-variant hover:text-on-surface aria-[current=true]:text-primary-container" data-i18n="nav_process" href="#process">Process</a>
+<a class="py-4 border-b border-outline-variant/20 font-headline-sm text-headline-sm text-on-surface-variant hover:text-on-surface aria-[current=true]:text-primary-container" data-i18n="nav_about" href="#about">About</a>
+<a class="mt-6 mb-2 inline-flex items-center justify-center bg-primary-container text-on-primary-fixed font-label-ui text-label-ui uppercase tracking-wider px-5 py-4" data-i18n="nav_cta" href="#booking-calendar">Book a discovery call →</a>
+</nav>
+</div>
+</header><main class="w-full pt-20 bg-background min-h-screen"><div class="flex flex-col w-full text-on-surface antialiased">
+<!-- HERO SECTION (Black Ground) -->
+<section class="hero w-full bg-[#0A0A0A] text-[#FAFAFA] border-b border-[#262626] pt-12 md:pt-20 pb-20 md:pb-28">
+<div class="max-w-[1440px] mx-auto px-margin-mobile md:px-margin">
+<!-- Top Meta Track -->
+<div class="flex flex-col items-center sm:flex-row justify-between gap-4 border-b border-[#262626] pb-6 mb-12 md:mb-16">
+<div class="flex items-center gap-3">
+<span class="w-2 h-2 bg-[#C6FF3D] inline-block"></span>
+<span class="font-label-code text-label-code tracking-[0.2em] uppercase text-[#8E8E8E]" data-i18n="hero_tag">WEB DESIGN &amp; AI AUTOMATION</span>
+</div>
+<div class="font-label-code text-label-code text-[#8E8E8E] uppercase tracking-widest flex items-center gap-2">
+<span data-i18n="hero_loc">Location: Remote · Worldwide</span>
+<span class="text-[#404040]">/</span>
+<span data-i18n="hero_worldwide">Clients worldwide</span>
+</div>
+</div>
+<!-- Centered Hero Content -->
+<div class="max-w-5xl mx-auto flex flex-col items-center text-center md:py-8">
+<h1 class="font-display-xl text-[38px] leading-[42px] sm:text-[44px] sm:leading-[48px] md:text-[84px] md:leading-[88px] tracking-[-0.04em] font-semibold text-[#FAFAFA] uppercase [text-wrap:balance]" data-i18n="hero_headline">Turn clicks into clients.</h1>
+<p class="font-body-lg text-body-lg text-[#C6C6C7] max-w-2xl mt-8 leading-relaxed [text-wrap:pretty]" data-i18n="hero_subtitle">Custom websites and practical AI automations that help your business win more enquiries, simplify bookings and save time. Built with precision, down to the last detail.</p>
+<!-- Action Stack -->
+<div class="mt-10 w-full flex flex-col sm:flex-row items-center justify-center gap-6">
+<a id="hero-cta" class="w-full sm:w-auto inline-flex items-center justify-center text-center bg-[#C6FF3D] hover:bg-[#FAFAFA] text-[#0A0A0A] font-label-ui text-label-ui uppercase tracking-wider px-8 py-4 min-h-[52px] border border-[#C6FF3D] transition-none" data-i18n="hero_cta" href="#booking-calendar">Book a discovery call →</a>
+<a class="relative after:absolute after:inset-x-0 after:-inset-y-3 after:content-[''] font-label-ui text-label-ui uppercase tracking-wider text-[#FAFAFA] hover:text-[#C6FF3D] border-b border-[#FAFAFA] hover:border-[#C6FF3D] pb-1 transition-none" data-i18n="hero_explore" href="#work">Explore my work →</a>
+</div>
+<p class="mt-6 font-label-code text-label-code uppercase tracking-wider text-[#8E8E8E]" data-i18n="hero_microcopy">20 minutes to discuss your goals, scope and timeline.</p>
+<div class="mt-12 w-full max-w-3xl border-t border-[#262626] pt-6">
+<p class="font-label-code text-label-code text-[#8E8E8E] uppercase tracking-widest leading-relaxed" data-i18n="hero_trust">Personalised quote · Design approved before you pay · Work directly with me</p>
+</div>
+</div>
+</div>
+</section>
+<!-- 01 — WORK SECTION (Inverted White Floor) -->
+<section class="w-full bg-[#FAFAFA] text-[#0A0A0A] border-b border-[#E5E5E5] py-20 md:py-32" id="work">
+<div class="max-w-[1440px] mx-auto px-margin-mobile md:px-margin">
+<!-- Section Header -->
+<div class="border-b border-[#E5E5E5] pb-8 mb-12">
+<span class="font-label-code text-label-code tracking-[0.2em] uppercase text-[#6B6B6B] block mb-3" data-i18n="sec_work">01 — Work</span>
+<h2 class="font-headline-lg text-headline-lg-mobile md:text-headline-lg font-semibold tracking-tight uppercase text-[#0A0A0A]" data-i18n="work_headline">See what your business could look like.</h2>
+<p class="font-body-lg text-body-lg text-[#6B6B6B] mt-2 max-w-xl" data-i18n="work_subtitle">Concept projects that show what I can build for you.</p>
+</div>
+<!-- Projects Grid (3 Sharp Columns) -->
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+<!-- Concept Card 1 -->
+<div class="bg-[#FFFFFF] border border-[#E5E5E5] flex flex-col p-8">
+<div>
+<div class="flex items-center justify-between border-b border-[#E5E5E5] pb-4 mb-6">
+<span class="font-label-code text-label-code uppercase tracking-wider text-[#6B6B6B]" data-i18n="work_card_tag">CONCEPT PROJECT</span>
+<span class="font-label-code text-label-code font-bold text-[#0A0A0A]">01 // 03</span>
+</div>
+<h3 class="font-headline-md text-[24px] leading-[30px] tracking-[-0.02em] xl:text-headline-md font-semibold text-[#0A0A0A] mb-6" data-i18n="work_card1_title">Booking website</h3>
+<div class="space-y-4 font-body-md text-body-md">
+<div class="border-l-2 border-[#0A0A0A] pl-3 py-0.5">
+<span class="font-label-code text-label-code uppercase text-[#6B6B6B] block" data-i18n="work_need_label">Need</span>
+<p class="text-[#2F3131]" data-i18n="work_card1_need">Too many bookings handled by message.</p>
+</div>
+<div class="border-l-2 border-[#C6FF3D] pl-3 py-0.5 bg-[#F4F4F4]">
+<span class="font-label-code text-label-code uppercase text-[#6B6B6B] block" data-i18n="work_solution_label">Solution</span>
+<p class="text-[#0A0A0A] font-medium" data-i18n="work_card1_solution">Online booking with automatic confirmations.</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Concept Card 2 -->
+<div class="bg-[#FFFFFF] border border-[#E5E5E5] flex flex-col p-8">
+<div>
+<div class="flex items-center justify-between border-b border-[#E5E5E5] pb-4 mb-6">
+<span class="font-label-code text-label-code uppercase tracking-wider text-[#6B6B6B]" data-i18n="work_card_tag">CONCEPT PROJECT</span>
+<span class="font-label-code text-label-code font-bold text-[#0A0A0A]">02 // 03</span>
+</div>
+<h3 class="font-headline-md text-[24px] leading-[30px] tracking-[-0.02em] xl:text-headline-md font-semibold text-[#0A0A0A] mb-6" data-i18n="work_card2_title">Service website</h3>
+<div class="space-y-4 font-body-md text-body-md">
+<div class="border-l-2 border-[#0A0A0A] pl-3 py-0.5">
+<span class="font-label-code text-label-code uppercase text-[#6B6B6B] block" data-i18n="work_need_label">Need</span>
+<p class="text-[#2F3131]" data-i18n="work_card2_need">Services that were hard to understand online.</p>
+</div>
+<div class="border-l-2 border-[#C6FF3D] pl-3 py-0.5 bg-[#F4F4F4]">
+<span class="font-label-code text-label-code uppercase text-[#6B6B6B] block" data-i18n="work_solution_label">Solution</span>
+<p class="text-[#0A0A0A] font-medium" data-i18n="work_card2_solution">Clear service pages with one clear next step.</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Concept Card 3 -->
+<div class="bg-[#FFFFFF] border border-[#E5E5E5] flex flex-col p-8">
+<div>
+<div class="flex items-center justify-between border-b border-[#E5E5E5] pb-4 mb-6">
+<span class="font-label-code text-label-code uppercase tracking-wider text-[#6B6B6B]" data-i18n="work_card_tag">CONCEPT PROJECT</span>
+<span class="font-label-code text-label-code font-bold text-[#0A0A0A]">03 // 03</span>
+</div>
+<h3 class="font-headline-md text-[24px] leading-[30px] tracking-[-0.02em] xl:text-headline-md font-semibold text-[#0A0A0A] mb-6" data-i18n="work_card3_title">Lead-generation page</h3>
+<div class="space-y-4 font-body-md text-body-md">
+<div class="border-l-2 border-[#0A0A0A] pl-3 py-0.5">
+<span class="font-label-code text-label-code uppercase text-[#6B6B6B] block" data-i18n="work_need_label">Need</span>
+<p class="text-[#2F3131]" data-i18n="work_card3_need">Visitors left without getting in touch.</p>
+</div>
+<div class="border-l-2 border-[#C6FF3D] pl-3 py-0.5 bg-[#F4F4F4]">
+<span class="font-label-code text-label-code uppercase text-[#6B6B6B] block" data-i18n="work_solution_label">Solution</span>
+<p class="text-[#0A0A0A] font-medium" data-i18n="work_card3_solution">A focused page with a short enquiry form and automated AI follow-up.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 02 — SERVICES SECTION (Black Ground) -->
+<section class="w-full bg-[#0A0A0A] text-[#FAFAFA] border-b border-[#262626] py-20 md:py-32" id="services">
+<div class="max-w-[1440px] mx-auto px-margin-mobile md:px-margin">
+<!-- Section Header -->
+<div class="border-b border-[#262626] pb-8 mb-16">
+<span class="font-label-code text-label-code tracking-[0.2em] uppercase text-[#8E8E8E] block mb-3" data-i18n="sec_services">02 — Services</span>
+<h2 class="font-headline-lg text-headline-lg-mobile md:text-headline-lg font-semibold tracking-tight uppercase text-[#FAFAFA]" data-i18n="services_headline">Make it easier for customers to choose you.</h2>
+<p class="font-body-lg text-body-lg text-[#C6C6C7] mt-4 max-w-2xl" data-i18n="services_subtitle">Three services, explained without jargon. Choose the one you need, or combine them.</p>
+</div>
+<!-- 3 Service Cards in Plain Language -->
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+<!-- Service 01 -->
+<article class="border border-[#262626] bg-[#141414] p-8 flex flex-col">
+<div class="flex items-center justify-between mb-8">
+<span aria-hidden="true" class="material-symbols-outlined text-[36px] text-[#C6FF3D]">language</span>
+<span class="font-label-code text-label-code text-[#8E8E8E]">01</span>
+</div>
+<h3 class="font-headline-md text-[24px] leading-[30px] tracking-[-0.02em] xl:text-headline-md font-semibold text-[#FAFAFA] mb-6" data-i18n="serv1_title">A website for your business</h3>
+<div class="space-y-6 font-body-md text-[16px] leading-[26px] flex-1">
+<div>
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_for_label">This is for you if…</span>
+<p class="text-[#FAFAFA]" data-i18n="serv1_for">…your business has no website, or the one you have doesn't bring you customers.</p>
+</div>
+<div>
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_do_label">What I do</span>
+<p class="text-[#C6C6C7]" data-i18n="serv1_do">I design and build your website so people quickly understand what you offer and can contact you easily.</p>
+</div>
+<div class="pt-6 border-t border-[#262626]">
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_inc_label">What's included</span>
+<ul class="space-y-3 text-[#FAFAFA]">
+<li class="flex items-start gap-3"><span aria-hidden="true" class="material-symbols-outlined text-[20px] text-[#C6FF3D] mt-0.5">check</span><span data-i18n="serv1_i1">Looks great on mobile, tablet and computer</span></li>
+<li class="flex items-start gap-3"><span aria-hidden="true" class="material-symbols-outlined text-[20px] text-[#C6FF3D] mt-0.5">check</span><span data-i18n="serv1_i2">Ready to appear on Google</span></li>
+<li class="flex items-start gap-3"><span aria-hidden="true" class="material-symbols-outlined text-[20px] text-[#C6FF3D] mt-0.5">check</span><span data-i18n="serv1_i3">Buttons to call you or message you on WhatsApp</span></li>
+</ul>
+</div>
+</div>
+<div class="mt-8 pt-6 border-t border-[#262626]">
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_result_label">What you get</span>
+<p class="font-body-md text-[16px] leading-[26px] font-semibold text-[#FAFAFA]" data-i18n="serv1_result">More people understand what you do and get in touch.</p>
+</div>
+</article>
+<!-- Service 02 -->
+<article class="border border-[#262626] bg-[#141414] p-8 flex flex-col">
+<div class="flex items-center justify-between mb-8">
+<span aria-hidden="true" class="material-symbols-outlined text-[36px] text-[#C6FF3D]">event_available</span>
+<span class="font-label-code text-label-code text-[#8E8E8E]">02</span>
+</div>
+<h3 class="font-headline-md text-[24px] leading-[30px] tracking-[-0.02em] xl:text-headline-md font-semibold text-[#FAFAFA] mb-6" data-i18n="serv2_title">Online bookings and payments</h3>
+<div class="space-y-6 font-body-md text-[16px] leading-[26px] flex-1">
+<div>
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_for_label">This is for you if…</span>
+<p class="text-[#FAFAFA]" data-i18n="serv2_for">…you spend a lot of time arranging appointments by phone or message.</p>
+</div>
+<div>
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_do_label">What I do</span>
+<p class="text-[#C6C6C7]" data-i18n="serv2_do">I add a calendar to your website where customers book on their own, and pay if you want them to.</p>
+</div>
+<div class="pt-6 border-t border-[#262626]">
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_inc_label">What's included</span>
+<ul class="space-y-3 text-[#FAFAFA]">
+<li class="flex items-start gap-3"><span aria-hidden="true" class="material-symbols-outlined text-[20px] text-[#C6FF3D] mt-0.5">check</span><span data-i18n="serv2_i1">Customers pick the day and time themselves</span></li>
+<li class="flex items-start gap-3"><span aria-hidden="true" class="material-symbols-outlined text-[20px] text-[#C6FF3D] mt-0.5">check</span><span data-i18n="serv2_i2">Card payment when booking (optional)</span></li>
+<li class="flex items-start gap-3"><span aria-hidden="true" class="material-symbols-outlined text-[20px] text-[#C6FF3D] mt-0.5">check</span><span data-i18n="serv2_i3">Automatic confirmation by email or SMS</span></li>
+</ul>
+</div>
+</div>
+<div class="mt-8 pt-6 border-t border-[#262626]">
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_result_label">What you get</span>
+<p class="font-body-md text-[16px] leading-[26px] font-semibold text-[#FAFAFA]" data-i18n="serv2_result">Fewer messages to answer and a calendar that stays organised.</p>
+</div>
+</article>
+<!-- Service 03 -->
+<article class="border border-[#262626] bg-[#141414] p-8 flex flex-col">
+<div class="flex items-center justify-between mb-8">
+<span aria-hidden="true" class="material-symbols-outlined text-[36px] text-[#C6FF3D]">smart_toy</span>
+<span class="font-label-code text-label-code text-[#8E8E8E]">03</span>
+</div>
+<h3 class="font-headline-md text-[24px] leading-[30px] tracking-[-0.02em] xl:text-headline-md font-semibold text-[#FAFAFA] mb-6" data-i18n="serv3_title">An automatic assistant (AI)</h3>
+<div class="space-y-6 font-body-md text-[16px] leading-[26px] flex-1">
+<div>
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_for_label">This is for you if…</span>
+<p class="text-[#FAFAFA]" data-i18n="serv3_for">…you answer the same questions over and over, or some customers slip through the cracks.</p>
+</div>
+<div>
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_do_label">What I do</span>
+<p class="text-[#C6C6C7]" data-i18n="serv3_do">I set up an assistant that answers common questions for you and saves the details of every interested customer.</p>
+</div>
+<div class="pt-6 border-t border-[#262626]">
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_inc_label">What's included</span>
+<ul class="space-y-3 text-[#FAFAFA]">
+<li class="flex items-start gap-3"><span aria-hidden="true" class="material-symbols-outlined text-[20px] text-[#C6FF3D] mt-0.5">check</span><span data-i18n="serv3_i1">Replies instantly, even at night and on weekends</span></li>
+<li class="flex items-start gap-3"><span aria-hidden="true" class="material-symbols-outlined text-[20px] text-[#C6FF3D] mt-0.5">check</span><span data-i18n="serv3_i2">Lets you know when someone wants to hire you</span></li>
+<li class="flex items-start gap-3"><span aria-hidden="true" class="material-symbols-outlined text-[20px] text-[#C6FF3D] mt-0.5">check</span><span data-i18n="serv3_i3">Follows up with customers who don't reply</span></li>
+</ul>
+</div>
+</div>
+<div class="mt-8 pt-6 border-t border-[#262626]">
+<span class="block font-label-ui text-label-ui uppercase tracking-wider text-[#C6FF3D] mb-2" data-i18n="serv_result_label">What you get</span>
+<p class="font-body-md text-[16px] leading-[26px] font-semibold text-[#FAFAFA]" data-i18n="serv3_result">You look after more customers without being glued to your phone.</p>
+</div>
+</article>
+</div>
+<!-- Help Choosing -->
+<div class="mt-12 border border-[#262626] p-6 md:p-8 flex flex-col md:flex-row md:items-center justify-between gap-6">
+<div>
+<p class="font-headline-sm text-headline-sm font-semibold text-[#FAFAFA]" data-i18n="serv_help_title">Not sure which one you need?</p>
+<p class="font-body-md text-[16px] leading-[26px] text-[#C6C6C7] mt-1" data-i18n="serv_help_text">Tell me about your business in a 20-minute call and I'll recommend the best option.</p>
+</div>
+<a class="shrink-0 inline-flex items-center justify-center text-center bg-[#C6FF3D] hover:bg-[#FAFAFA] text-[#0A0A0A] font-label-ui text-label-ui uppercase tracking-wider px-8 py-4 min-h-[52px] border border-[#C6FF3D] transition-none" data-i18n="nav_cta" href="#booking-calendar">Book a discovery call →</a>
+</div>
+</div>
+</section>
+<!-- 03 — PROCESS SECTION (White Floor) -->
+<section class="w-full bg-[#FAFAFA] text-[#0A0A0A] border-b border-[#E5E5E5] py-20 md:py-32" id="process">
+<div class="max-w-[1440px] mx-auto px-margin-mobile md:px-margin">
+<!-- Section Header -->
+<div class="border-b border-[#E5E5E5] pb-8 mb-16">
+<span class="font-label-code text-label-code tracking-[0.2em] uppercase text-[#6B6B6B] block mb-3" data-i18n="sec_process">03 — Process</span>
+<h2 class="font-headline-lg text-headline-lg-mobile md:text-headline-lg font-semibold tracking-tight uppercase text-[#0A0A0A]" data-i18n="proc_headline">From first idea to launch.</h2>
+</div>
+<!-- 3-Step Horizontal Structured Flow with 1px Dividers -->
+<div class="grid grid-cols-1 lg:grid-cols-3 border border-[#E5E5E5] bg-[#FFFFFF]">
+<!-- Step 01 -->
+<div class="p-8 md:p-10 border-b lg:border-b-0 lg:border-r border-[#E5E5E5] flex flex-col justify-between">
+<div>
+<div class="font-label-code text-label-code font-bold uppercase text-[#6B6B6B] mb-8" data-i18n="proc1_step">Step 01 // Scoping</div>
+<h3 class="font-headline-md text-[24px] leading-[30px] tracking-[-0.02em] xl:text-headline-md font-semibold text-[#0A0A0A] mb-4" data-i18n="proc1_title">Discovery</h3>
+<p class="font-body-md text-body-md text-[#2F3131]" data-i18n="proc1_desc">A 20-minute call to define your goals, scope and timeline.</p>
+</div>
+<div class="pt-8 mt-8 border-t border-[#E5E5E5] font-label-code text-label-code uppercase text-[#6B6B6B]" data-i18n="proc1_foot">No commitment · 20 min</div>
+</div>
+<!-- Step 02 -->
+<div class="p-8 md:p-10 border-b lg:border-b-0 lg:border-r border-[#E5E5E5] flex flex-col justify-between">
+<div>
+<div class="font-label-code text-label-code font-bold uppercase text-[#6B6B6B] mb-8" data-i18n="proc2_step">Step 02 // Validation</div>
+<h3 class="font-headline-md text-[24px] leading-[30px] tracking-[-0.02em] xl:text-headline-md font-semibold text-[#0A0A0A] mb-4" data-i18n="proc2_title">Design &amp; feedback</h3>
+<p class="font-body-md text-body-md text-[#2F3131]" data-i18n="proc2_desc">You review and approve the design before you pay.</p>
+</div>
+<div class="pt-8 mt-8 border-t border-[#E5E5E5] font-label-code text-label-code uppercase text-[#6B6B6B]" data-i18n="proc2_foot">Full transparency · You approve</div>
+</div>
+<!-- Step 03 -->
+<div class="p-8 md:p-10 flex flex-col justify-between">
+<div>
+<div class="font-label-code text-label-code font-bold uppercase text-[#6B6B6B] mb-8" data-i18n="proc3_step">Step 03 // Launch</div>
+<h3 class="font-headline-md text-[24px] leading-[30px] tracking-[-0.02em] xl:text-headline-md font-semibold text-[#0A0A0A] mb-4" data-i18n="proc3_title">Build &amp; launch</h3>
+<p class="font-body-md text-body-md text-[#2F3131]" data-i18n="proc3_desc">Built detail by detail, tested and ready to bring in clients.</p>
+</div>
+<div class="pt-8 mt-8 border-t border-[#E5E5E5] font-label-code text-label-code uppercase text-[#6B6B6B]" data-i18n="proc3_foot">Tested on real devices · Live handover</div>
+</div>
+</div>
+<!-- Flow Action -->
+<div class="mt-12 flex flex-col sm:flex-row items-center justify-between border-t border-[#E5E5E5] pt-8 gap-6">
+<p class="font-label-code text-label-code uppercase text-[#6B6B6B] tracking-wider" data-i18n="proc_guarantee_note">RISK FREE: NO DEPOSIT REQUIRED UNTIL DESIGN ACCEPTANCE.</p>
+<a class="inline-flex items-center justify-center bg-[#C6FF3D] hover:bg-[#0A0A0A] text-[#0A0A0A] hover:text-[#FAFAFA] font-label-ui text-label-ui uppercase tracking-wider px-8 h-[52px] border border-[#C6FF3D] hover:border-[#0A0A0A] transition-none" data-i18n="proc_cta" href="#booking-calendar">Book a discovery call →</a>
+</div>
+</div>
+</section>
+<!-- 04 — ABOUT SECTION (Black Ground) -->
+<section class="w-full bg-[#0A0A0A] text-[#FAFAFA] border-b border-[#262626] py-20 md:py-32" id="about">
+<div class="max-w-[1440px] mx-auto px-margin-mobile md:px-margin">
+<!-- Section Header -->
+<div class="border-b border-[#262626] pb-8 mb-16">
+<span class="font-label-code text-label-code tracking-[0.2em] uppercase text-[#8E8E8E] block mb-3" data-i18n="sec_about">04 — About</span>
+<h2 class="font-headline-lg text-headline-lg-mobile md:text-headline-lg font-semibold tracking-tight uppercase text-[#FAFAFA]" data-i18n="about_headline">Done right, not done fast.</h2>
+</div>
+<!-- Main Layout: Portrait Framing + Bio (Desktop 12 cols) -->
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start mb-20">
+<!-- Stylized B&W Minimalist Portrait Framing (4 cols) -->
+<div class="lg:col-span-4 border border-[#262626] bg-[#141414] p-3">
+<div class="relative overflow-hidden bg-[#0A0A0A] aspect-[4/5] border border-[#262626]">
+<img alt="Portrait of Jordi Mora, web designer" class="w-full h-full object-cover object-[50%_35%] filter grayscale contrast-125" data-i18n-alt="about_photo_alt" decoding="async" height="1599" loading="lazy" src="jordi-mora.jpg" width="900">
+<div class="absolute bottom-0 left-0 right-0 bg-[#0A0A0A]/90 p-4 border-t border-[#262626]">
+<div class="font-label-code text-label-code text-[#C6FF3D] uppercase" data-i18n="about_partner">Direct partner</div>
+<div class="font-label-ui text-label-ui text-[#FAFAFA] uppercase mt-0.5 tracking-wider">Jordi Miguel Mora Romero</div>
+</div>
+</div>
+<div class="p-4 font-label-code text-[11px] text-[#8E8E8E] flex justify-between uppercase">
+<span data-i18n="about_based">100% remote</span>
+<span data-i18n="about_worldwide">Working worldwide</span>
+</div>
+</div>
+<!-- Personal Narrative & Statement (8 cols) -->
+<div class="lg:col-span-8 space-y-8 lg:pl-6">
+<div class="border-b border-[#262626] pb-8">
+<p class="font-headline-sm md:font-headline-md text-headline-sm md:text-headline-md text-[#FAFAFA] font-normal leading-relaxed" data-i18n="about_bio">I'm Jordi. I'd rather take the time to make something perfect than deliver something rushed. You work directly with me from the first call to launch: clear communication, personal attention and a website built around what your business actually needs.</p>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-2 font-label-code text-label-code uppercase text-[#8E8E8E]">
+<div class="border-l border-[#262626] pl-4">
+<span class="text-[#FAFAFA] block mb-1" data-i18n="about_f1_title">Founder &amp; builder</span>
+<span data-i18n="about_f1_desc">No account managers, no delegation.</span>
+            </div>
+<div class="border-l border-[#262626] pl-4">
+<span class="text-[#FAFAFA] block mb-1" data-i18n="about_f2_title">Quality guarantee</span>
+<span data-i18n="about_f2_desc">Swiss typographic standards and precision in every detail.</span>
+            </div>
+</div>
+<!-- Direct contact buttons -->
+<div class="pt-8 border-t border-[#262626]">
+<p class="font-label-code text-label-code uppercase tracking-[0.2em] text-[#8E8E8E] mb-4" data-i18n="about_contact_title">Let's talk?</p>
+<div class="flex flex-wrap gap-3">
+<a class="inline-flex items-center justify-center gap-2 font-label-ui text-label-ui uppercase tracking-wider px-5 py-3 min-h-[48px] transition-none bg-[#C6FF3D] text-[#0A0A0A] border border-[#C6FF3D] hover:bg-[#FAFAFA] hover:border-[#FAFAFA]" href="#booking-calendar"><span aria-hidden="true" class="material-symbols-outlined text-[20px]">event_available</span><span data-i18n="nav_cta">Book a discovery call →</span></a>
+<a class="inline-flex items-center justify-center gap-2 font-label-ui text-label-ui uppercase tracking-wider px-5 py-3 min-h-[48px] transition-none border border-[#404040] text-[#FAFAFA] hover:border-[#C6FF3D] hover:text-[#C6FF3D]" href="https://wa.me/41779039164" rel="noopener noreferrer" target="_blank"><span aria-hidden="true" class="material-symbols-outlined text-[20px]">chat</span>WhatsApp</a>
+<a class="inline-flex items-center justify-center gap-2 font-label-ui text-label-ui uppercase tracking-wider px-5 py-3 min-h-[48px] transition-none border border-[#404040] text-[#FAFAFA] hover:border-[#C6FF3D] hover:text-[#C6FF3D]" href="https://www.instagram.com/jordimoradesign/" rel="noopener noreferrer" target="_blank"><span aria-hidden="true" class="material-symbols-outlined text-[20px]">photo_camera</span>Instagram</a>
+<a class="inline-flex items-center justify-center gap-2 font-label-ui text-label-ui uppercase tracking-wider px-5 py-3 min-h-[48px] transition-none border border-[#404040] text-[#FAFAFA] hover:border-[#C6FF3D] hover:text-[#C6FF3D] normal-case tracking-normal" href="mailto:info@moradesign.shop"><span aria-hidden="true" class="material-symbols-outlined text-[20px]">mail</span>info@moradesign.shop</a>
+</div>
+</div>
+</div>
+</div>
+<!-- 4 Numbered Core Principles (Separated by Fine Lines) -->
+<div class="border-t border-[#262626]">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 divide-y md:divide-y-0 md:divide-x divide-[#262626]">
+<div class="py-8 md:px-6 first:pl-0">
+<div class="font-label-code text-label-code text-[#C6FF3D] uppercase mb-4">01 // <span data-i18n="about_principle">Principle</span></div>
+<h3 class="font-headline-sm text-headline-sm font-semibold text-[#FAFAFA] mb-2" data-i18n="about_p1_title">Detail over speed</h3>
+<p class="font-body-md text-body-md text-[#C6C6C7]" data-i18n="about_p1_desc">Quality is never rushed.</p>
+</div>
+<div class="py-8 md:px-6">
+<div class="font-label-code text-label-code text-[#C6FF3D] uppercase mb-4">02 // <span data-i18n="about_principle">Principle</span></div>
+<h3 class="font-headline-sm text-headline-sm font-semibold text-[#FAFAFA] mb-2" data-i18n="about_p2_title">Always improving</h3>
+<p class="font-body-md text-body-md text-[#C6C6C7]" data-i18n="about_p2_desc">I learn what I don't know yet, and every project raises the bar.</p>
+</div>
+<div class="py-8 md:px-6">
+<div class="font-label-code text-label-code text-[#C6FF3D] uppercase mb-4">03 // <span data-i18n="about_principle">Principle</span></div>
+<h3 class="font-headline-sm text-headline-sm font-semibold text-[#FAFAFA] mb-2" data-i18n="about_p3_title">Failure is feedback</h3>
+<p class="font-body-md text-body-md text-[#C6C6C7]" data-i18n="about_p3_desc">Every mistake becomes a lesson. The attitude stays positive.</p>
+</div>
+<div class="py-8 md:px-6 last:pr-0">
+<div class="font-label-code text-label-code text-[#C6FF3D] uppercase mb-4">04 // <span data-i18n="about_principle">Principle</span></div>
+<h3 class="font-headline-sm text-headline-sm font-semibold text-[#FAFAFA] mb-2" data-i18n="about_p4_title">Effort wins</h3>
+<p class="font-body-md text-body-md text-[#C6C6C7]" data-i18n="about_p4_desc">With hard work, there's nothing we can't take on.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 05 — FAQ SECTION (Black Ground) -->
+<section class="w-full bg-[#0A0A0A] text-[#FAFAFA] border-b border-[#262626] py-20 md:py-32" id="faq">
+<div class="max-w-[1440px] mx-auto px-margin-mobile md:px-margin">
+<!-- Section Header -->
+<div class="border-b border-[#262626] pb-8 mb-16">
+<span class="font-label-code text-label-code tracking-[0.2em] uppercase text-[#8E8E8E] block mb-3" data-i18n="sec_faq">05 — FAQ</span>
+<h2 class="font-headline-lg text-headline-lg-mobile md:text-headline-lg font-semibold tracking-tight uppercase text-[#FAFAFA]" data-i18n="faq_headline">Frequently asked questions.</h2>
+</div>
+<!-- Accordion Grid (One Open at a Time) -->
+<div class="max-w-4xl border-t border-[#262626] divide-y divide-[#262626]" id="faq-accordion">
+<!-- Q1 -->
+<div class="faq-item group">
+<button aria-expanded="false" class="faq-trigger w-full py-6 flex justify-between items-center text-left text-[#FAFAFA] hover:text-[#C6FF3D] transition-none">
+<span class="font-headline-sm text-headline-sm font-medium pr-4" data-i18n="faq_q1">How much does a website cost?</span>
+<span class="faq-icon font-headline-sm text-headline-sm font-light text-[#8E8E8E] group-hover:text-[#C6FF3D]">+</span>
+</button>
+<div class="faq-content hidden pb-6 text-[#C6C6C7] font-body-md text-body-md pr-12">
+<p data-i18n="faq_a1" class="">Every project is different, and pricing varies by country and scope. After our discovery call, I'll send you a personalised quote.</p>
+</div>
+</div>
+<!-- Q2 -->
+<div class="faq-item group">
+<button aria-expanded="false" class="faq-trigger w-full py-6 flex justify-between items-center text-left text-[#FAFAFA] hover:text-[#C6FF3D] transition-none">
+<span class="font-headline-sm text-headline-sm font-medium pr-4" data-i18n="faq_q2">How long does a project take?</span>
+<span class="faq-icon font-headline-sm text-headline-sm font-light text-[#8E8E8E] group-hover:text-[#C6FF3D]">+</span>
+</button>
+<div class="faq-content hidden pb-6 text-[#C6C6C7] font-body-md text-body-md pr-12">
+<p data-i18n="faq_a2" class="">Between 2 and 8 weeks, depending on the scope of the project. The timeline starts once the scope is confirmed and all content has been received.</p>
+</div>
+</div>
+<!-- Q3 -->
+<div class="faq-item group">
+<button aria-expanded="false" class="faq-trigger w-full py-6 flex justify-between items-center text-left text-[#FAFAFA] hover:text-[#C6FF3D] transition-none">
+<span class="font-headline-sm text-headline-sm font-medium pr-4" data-i18n="faq_q3">What do I need to provide?</span>
+<span class="faq-icon font-headline-sm text-headline-sm font-light text-[#8E8E8E] group-hover:text-[#C6FF3D]">+</span>
+</button>
+<div class="faq-content hidden pb-6 text-[#C6C6C7] font-body-md text-body-md pr-12">
+<p data-i18n="faq_a3" class="">Your logo, texts, photos and service details. Anything missing, we define together on the discovery call.</p>
+</div>
+</div>
+<!-- Q4 -->
+<div class="faq-item group">
+<button aria-expanded="false" class="faq-trigger w-full py-6 flex justify-between items-center text-left text-[#FAFAFA] hover:text-[#C6FF3D] transition-none">
+<span class="font-headline-sm text-headline-sm font-medium pr-4" data-i18n="faq_q4">Can you connect my booking, payment or other tools?</span>
+<span class="faq-icon font-headline-sm text-headline-sm font-light text-[#8E8E8E] group-hover:text-[#C6FF3D]">+</span>
+</button>
+<div class="faq-content hidden pb-6 text-[#C6C6C7] font-body-md text-body-md pr-12">
+<p data-i18n="faq_a4" class="">It depends on the tools you use. I review each integration on the discovery call and confirm what's possible before we start.</p>
+</div>
+</div>
+<!-- Q5 -->
+<div class="faq-item group">
+<button aria-expanded="false" class="faq-trigger w-full py-6 flex justify-between items-center text-left text-[#FAFAFA] hover:text-[#C6FF3D] transition-none">
+<span class="font-headline-sm text-headline-sm font-medium pr-4" data-i18n="faq_q5">Do you offer maintenance?</span>
+<span class="faq-icon font-headline-sm text-headline-sm font-light text-[#8E8E8E] group-hover:text-[#C6FF3D]">+</span>
+</button>
+<div class="faq-content hidden pb-6 text-[#C6C6C7] font-body-md text-body-md pr-12">
+<p data-i18n="faq_a5" class="">Yes. I offer optional support and maintenance to keep your website secure and up to date; if you need it, I include it in your quote.</p>
+</div>
+</div>
+<!-- Q6 -->
+<div class="faq-item group">
+<button aria-expanded="false" class="faq-trigger w-full py-6 flex justify-between items-center text-left text-[#FAFAFA] hover:text-[#C6FF3D] transition-none">
+<span class="font-headline-sm text-headline-sm font-medium pr-4" data-i18n="faq_q6">Do you work remotely?</span>
+<span class="faq-icon font-headline-sm text-headline-sm font-light text-[#8E8E8E] group-hover:text-[#C6FF3D]">+</span>
+</button>
+<div class="faq-content hidden pb-6 text-[#C6C6C7] font-body-md text-body-md pr-12">
+<p data-i18n="faq_a6" class="">Yes, 100%. I work remotely with businesses worldwide, in English, Spanish and German.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 06 — CONTACT & FINAL CTA (White Floor) -->
+<section class="w-full bg-[#FAFAFA] text-[#0A0A0A] py-20 md:py-32" id="contact">
+<div class="max-w-[1440px] mx-auto px-margin-mobile md:px-margin">
+<!-- Section Header -->
+<div class="border-b border-[#E5E5E5] pb-8 mb-16">
+<span class="font-label-code text-label-code tracking-[0.2em] uppercase text-[#6B6B6B] block mb-3" data-i18n="sec_contact">06 — Contact</span>
+<h2 class="font-display-xl text-[38px] leading-[42px] sm:text-[44px] sm:leading-[48px] md:text-[84px] md:leading-[88px] font-semibold tracking-tight uppercase text-[#0A0A0A]" data-i18n="contact_headline">Let's build it right.</h2>
+<p class="font-body-lg text-body-lg text-[#6B6B6B] mt-4 max-w-xl" data-i18n="contact_subtitle">Book a 20-minute discovery call, or send me a short message.</p>
+</div>
+<!-- 2-Column Working Layout (Desktop 12 cols) -->
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+<!-- Column 1: Interactive Discovery Call Calendar Module (6 cols) -->
+<div class="lg:col-span-6 bg-[#FFFFFF] border border-[#E5E5E5] p-6 md:p-8" id="booking-calendar">
+<div class="flex flex-col sm:flex-row sm:items-end justify-between gap-2 border-b border-[#E5E5E5] pb-4 mb-6">
+<div>
+<span class="font-label-code text-label-code uppercase tracking-wider text-[#6B6B6B]" data-i18n="cal_eyebrow">Direct call</span>
+<h3 class="font-headline-sm text-headline-sm font-semibold text-[#0A0A0A] mt-1" data-i18n="cal_title">Select a 20-Min Slot</h3>
+</div>
+<div class="font-label-code text-label-code uppercase text-[#6B6B6B] sm:text-right"><span data-i18n="bk_tz_label">Your time zone:</span> <span class="text-[#0A0A0A] font-semibold" id="bk-tz"></span></div>
+</div>
+<!-- Booking widget: real availability and bookings from Cal.com (script at the end of the page) -->
+<div id="bk-panel">
+<div class="space-y-8">
+<div>
+<p class="block font-label-code text-label-code uppercase text-[#6B6B6B] mb-3" data-i18n="bk_step_day">1. Choose a day</p>
+<div class="flex gap-2 overflow-x-auto pb-1 font-body-md text-body-md text-[#6B6B6B]" id="bk-days" role="group"></div>
+</div>
+<div id="bk-time-block">
+<div class="flex items-end justify-between gap-4 mb-4">
+<label class="block font-label-code text-label-code uppercase text-[#6B6B6B] mb-3 !mb-0" data-i18n="bk_step_time" for="bk-time">2. Slide to choose a time</label>
+<span class="font-headline-md text-[32px] leading-none font-semibold text-[#0A0A0A] tabular-nums" id="bk-time-label">--:--</span>
+</div>
+<input class="bk-range" id="bk-time" max="1" min="0" step="1" type="range" value="0">
+<div aria-hidden="true" class="flex gap-px mt-2" id="bk-marks"></div>
+<div aria-hidden="true" class="flex justify-between mt-2 font-label-code text-label-code text-[#6B6B6B]"><span id="bk-min"></span><span id="bk-mid"></span><span id="bk-max"></span></div>
+<p class="mt-3 font-body-md text-[15px] leading-[22px] text-[#2F3131]" id="bk-time-note" aria-live="polite"></p>
+</div>
+</div>
+<form class="space-y-5 border-t border-[#E5E5E5] pt-6 mt-8" id="bk-form" novalidate="">
+<fieldset>
+<legend class="block font-label-code text-label-code uppercase text-[#6B6B6B] mb-3" data-i18n="bk_step_service">3. What are you interested in?</legend>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-2" id="bk-services">
+<label class="flex items-center gap-3 border border-[#E5E5E5] bg-[#FAFAFA] text-[#0A0A0A] p-4 cursor-pointer hover:border-[#0A0A0A] has-[:checked]:border-[#0A0A0A] has-[:checked]:bg-[#0A0A0A] has-[:checked]:text-[#FAFAFA] has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2"><input class="sr-only" name="service" type="radio" value="web"><span aria-hidden="true" class="material-symbols-outlined text-[22px]">language</span><span class="font-body-md text-[15px] leading-[22px] font-medium" data-i18n="serv1_title">A website for your business</span></label>
+<label class="flex items-center gap-3 border border-[#E5E5E5] bg-[#FAFAFA] text-[#0A0A0A] p-4 cursor-pointer hover:border-[#0A0A0A] has-[:checked]:border-[#0A0A0A] has-[:checked]:bg-[#0A0A0A] has-[:checked]:text-[#FAFAFA] has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2"><input class="sr-only" name="service" type="radio" value="booking"><span aria-hidden="true" class="material-symbols-outlined text-[22px]">event_available</span><span class="font-body-md text-[15px] leading-[22px] font-medium" data-i18n="serv2_title">Online bookings and payments</span></label>
+<label class="flex items-center gap-3 border border-[#E5E5E5] bg-[#FAFAFA] text-[#0A0A0A] p-4 cursor-pointer hover:border-[#0A0A0A] has-[:checked]:border-[#0A0A0A] has-[:checked]:bg-[#0A0A0A] has-[:checked]:text-[#FAFAFA] has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2"><input class="sr-only" name="service" type="radio" value="ai"><span aria-hidden="true" class="material-symbols-outlined text-[22px]">smart_toy</span><span class="font-body-md text-[15px] leading-[22px] font-medium" data-i18n="serv3_title">An automatic assistant (AI)</span></label>
+<label class="flex items-center gap-3 border border-[#E5E5E5] bg-[#FAFAFA] text-[#0A0A0A] p-4 cursor-pointer hover:border-[#0A0A0A] has-[:checked]:border-[#0A0A0A] has-[:checked]:bg-[#0A0A0A] has-[:checked]:text-[#FAFAFA] has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2"><input class="sr-only" name="service" type="radio" value="help"><span aria-hidden="true" class="material-symbols-outlined text-[22px]">help</span><span class="font-body-md text-[15px] leading-[22px] font-medium" data-i18n="bk_service_help">I'm not sure yet, I need help</span></label>
+</div>
+</fieldset>
+<p class="block font-label-code text-label-code uppercase text-[#6B6B6B] mb-3 !mb-0 pt-2" data-i18n="bk_step_data">4. Your details</p>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_name" for="bk-name">Your Name *</label>
+<input autocomplete="name" class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" data-i18n-ph="form_ph_name" id="bk-name" name="name" placeholder="Jane Smith" required="" type="text">
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_email" for="bk-email">Your Email Address *</label>
+<input autocomplete="email" class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" data-i18n-ph="form_ph_email" id="bk-email" name="email" placeholder="name@company.com" required="" type="email">
+</div>
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="bk_phone_label" for="bk-phone">Your phone / WhatsApp *</label>
+<input autocomplete="tel" class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" id="bk-phone" inputmode="tel" name="phone" placeholder="+41 79 123 45 67" required="" type="tel">
+<p class="mt-1 font-body-md text-[13px] leading-[20px] text-[#6B6B6B]" data-i18n="bk_phone_hint">Include your country code, e.g. +41 or +1.</p>
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="bk_notes_label" for="bk-notes">What would you like to talk about? (optional)</label>
+<textarea class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" id="bk-notes" name="notes" rows="2"></textarea>
+</div>
+<div class="flex flex-wrap items-center justify-between gap-2 font-label-code text-label-code uppercase">
+<span class="text-[#6B6B6B]" data-i18n="bk_selected">Selected time:</span>
+<span class="font-bold text-[#0A0A0A]" id="bk-summary">—</span>
+</div>
+<button class="w-full bg-[#0A0A0A] hover:bg-[#C6FF3D] hover:text-[#0A0A0A] text-[#FAFAFA] font-label-ui text-label-ui uppercase tracking-wider py-4 transition-none border border-[#0A0A0A] font-semibold disabled:opacity-40 disabled:pointer-events-none" data-i18n="bk_submit" disabled="" id="bk-submit" type="submit">Confirm call →</button>
+<div class="hidden p-3 bg-[#FFE9E6] border border-[#93000A] text-[#690005] font-label-code text-label-code uppercase text-center font-medium" id="bk-msg" role="alert"></div>
+</form>
+</div>
+<div class="hidden border border-[#0A0A0A] p-6 md:p-8 text-center" id="bk-success" role="status">
+<span aria-hidden="true" class="material-symbols-outlined text-[48px] text-[#0A0A0A] bg-[#C6FF3D] p-2">check</span>
+<p class="font-headline-sm text-headline-sm font-semibold text-[#0A0A0A] mt-4" data-i18n="bk_success_title">Call booked!</p>
+<p class="font-body-md text-[16px] leading-[26px] text-[#2F3131] mt-2" id="bk-success-text"></p>
+</div>
+<p class="mt-6 font-body-md text-[14px] leading-[22px] text-[#6B6B6B]"><span data-i18n="bk_fallback">Prefer the full calendar?</span> <a class="font-semibold text-[#0A0A0A] underline underline-offset-4" data-i18n="bk_fallback_link" href="https://cal.com" id="bk-fallback" rel="noopener noreferrer" target="_blank">Open it on Cal.com →</a></p>
+</div>
+<!-- Column 2: Sleek Contact Form & Direct Channels (6 cols) -->
+<div class="lg:col-span-6 flex flex-col justify-between h-full space-y-8">
+<div class="bg-[#FFFFFF] border border-[#E5E5E5] p-6 md:p-8">
+<div class="border-b border-[#E5E5E5] pb-4 mb-6">
+<span class="font-label-code text-label-code uppercase tracking-wider text-[#6B6B6B]" data-i18n="form_eyebrow">Written message</span>
+<h3 class="font-headline-sm text-headline-sm font-semibold text-[#0A0A0A] mt-1" data-i18n="form_heading">Or send me a short message</h3>
+</div>
+<form action="https://formspree.io/f/xvkgdkrn" class="space-y-4" id="contact-form" method="POST">
+<input name="_subject" type="hidden" value="Nueva consulta desde la web">
+<input aria-hidden="true" autocomplete="off" class="hidden" name="_gotcha" tabindex="-1" type="text">
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_name" for="input-name">Your Name *</label>
+<input class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" autocomplete="name" id="input-name" name="name" data-i18n-ph="form_ph_name" placeholder="Jane Smith" required="" type="text">
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_email" for="input-email">Your Email Address *</label>
+<input class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" autocomplete="email" id="input-email" name="email" data-i18n-ph="form_ph_email" placeholder="name@company.com" required="" type="email">
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="bk_phone_label" for="input-phone">Your phone / WhatsApp *</label>
+<input autocomplete="tel" class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" id="input-phone" inputmode="tel" name="phone" placeholder="+41 79 123 45 67" required="" type="tel">
+<p class="mt-1 font-body-md text-[13px] leading-[20px] text-[#6B6B6B]" data-i18n="bk_phone_hint">Include your country code, e.g. +41 or +1.</p>
+<p class="hidden mt-1 font-body-md text-[13px] leading-[20px] text-[#93000A]" data-i18n="bk_err_phone" id="form-phone-error" role="alert">Enter your phone number with the country code, e.g. +41 79 123 45 67.</p>
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_web" for="input-web">Website or Instagram</label>
+<input class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" autocomplete="url" inputmode="url" id="input-web" name="website" data-i18n-ph="form_ph_web" placeholder="https://yourcompany.com" type="text">
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_msg" for="input-msg">What would you like to improve?</label>
+<textarea class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" id="input-msg" name="message" data-i18n-ph="form_ph_msg" placeholder="Tell me about your services, how you handle bookings or what you&#x27;d like to automate..." rows="3"></textarea>
+</div>
+<div class="flex items-start gap-2.5 pt-1 pb-1">
+<input class="mt-1 h-4 w-4 rounded-none border-[#E5E5E5] text-[#0A0A0A] accent-[#0A0A0A] focus:ring-0 cursor-pointer" id="contact-consent" name="privacy_consent" required="" type="checkbox">
+<label class="font-body-md text-[13px] leading-[19px] text-[#6B6B6B] cursor-pointer" for="contact-consent">
+<span data-i18n="form_privacy_notice">I agree to the processing of my details according to the</span>
+<a class="font-medium text-[#0A0A0A] underline underline-offset-2 hover:text-[#C6FF3D]" href="privacy.html" target="_blank" rel="noopener" data-i18n="form_privacy_link">Privacy Policy</a>.
+</label>
+</div>
+<button class="w-full bg-[#0A0A0A] hover:bg-[#C6FF3D] hover:text-[#0A0A0A] text-[#FAFAFA] font-label-ui text-label-ui uppercase tracking-wider py-4 transition-none border border-[#0A0A0A] font-semibold" data-i18n="form_submit" id="form-submit" type="submit">Send my enquiry →</button>
+<div class="hidden p-3 bg-[#EAF8D0] border border-[#A2D801] text-[#263500] font-label-code text-label-code uppercase text-center font-medium" id="form-feedback" data-i18n="form_feedback" role="status">Thank you. Your message was received. I will reply within 24 business hours.</div>
+<div class="hidden p-3 bg-[#FFE9E6] border border-[#93000A] text-[#690005] font-label-code text-label-code uppercase text-center font-medium" id="form-error" data-i18n="form_error" role="alert">Couldn't send your message. Please try again or message me on WhatsApp.</div>
+</form>
+</div>
+<!-- Direct Wire WhatsApp -->
+<div class="p-6 bg-[#FFFFFF] border border-[#E5E5E5] flex items-center justify-between">
+<div>
+<span class="font-label-code text-label-code uppercase text-[#6B6B6B] block" data-i18n="whatsapp_eyebrow">Fastest response</span>
+<span class="font-headline-sm text-headline-sm font-medium text-[#0A0A0A]" data-i18n="whatsapp_prompt">Prefer WhatsApp?</span>
+</div>
+<a class="inline-flex items-center gap-2 border border-[#0A0A0A] hover:bg-[#0A0A0A] hover:text-[#FAFAFA] text-[#0A0A0A] font-label-ui text-label-ui uppercase tracking-wider px-5 py-3 transition-none" data-i18n="whatsapp_link" href="https://wa.me/41779039164" rel="noopener noreferrer" target="_blank">Message me →</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- STICKY FLOATING CTA BAR (Mobile/Tablet Viewports, Hides near contact) -->
+<div class="fixed bottom-0 left-0 right-0 z-40 bg-[#0A0A0A] border-t border-[#262626] p-3 md:hidden flex items-center justify-between transition-transform duration-200 translate-y-full" id="sticky-cta-bar">
+<div class="flex flex-col">
+<span class="font-label-code text-[10px] text-[#8E8E8E] uppercase" data-i18n="sticky_label">Jordi Mora</span>
+<span class="font-label-code text-[11px] text-[#C6FF3D] uppercase font-bold" data-i18n="sticky_sub">Custom quote</span>
+</div>
+<a class="bg-[#C6FF3D] text-[#0A0A0A] font-label-ui text-label-ui uppercase tracking-wider px-4 py-3.5 font-bold border border-[#C6FF3D]" data-i18n="sticky_cta" href="#booking-calendar">Book Call →</a>
+</div>
+<!-- MULTILINGUAL ENGINE SCRIPT & UI CONTROLLERS -->
+<script src="assets/js/main.js"></script>
+  <script src="assets/js/booking.js"></script>
+</div></main><footer class="w-full bg-surface-container-lowest border-t border-outline-variant/30 text-on-surface"><div class="max-w-[1440px] mx-auto px-margin-mobile md:px-margin pt-space-2xl pb-space-xl"><div class="grid grid-cols-1 md:grid-cols-12 gap-space-lg pb-space-xl border-b border-outline-variant/20"><div class="md:col-span-5 flex flex-col justify-between"><div class="space-y-space-sm"><div class="font-label-ui text-label-ui uppercase tracking-[0.25em] text-on-surface">JORDI MORA</div><p class="font-body-md text-body-md text-secondary max-w-sm" data-i18n="footer_desc">Custom websites built with Swiss precision, bespoke interfaces and AI integrations for design-led businesses.</p></div></div><div class="md:col-span-3 space-y-space-sm"><div class="font-label-code text-label-code uppercase text-outline tracking-widest" data-i18n="footer_nav">Navigation</div><ul class="space-y-space-xs"><li class="border-b border-outline-variant/10 pb-1"><a class="inline-block py-1.5 font-label-ui text-label-ui text-on-surface-variant hover:text-primary-container transition-colors" data-path="work" href="#work">01 // <span data-i18n="nav_work">Work</span></a></li><li class="border-b border-outline-variant/10 pb-1"><a class="inline-block py-1.5 font-label-ui text-label-ui text-on-surface-variant hover:text-primary-container transition-colors" data-path="services" href="#services">02 // <span data-i18n="nav_services">Services</span></a></li><li class="border-b border-outline-variant/10 pb-1"><a class="inline-block py-1.5 font-label-ui text-label-ui text-on-surface-variant hover:text-primary-container transition-colors" data-path="process" href="#process">03 // <span data-i18n="nav_process">Process</span></a></li><li class="border-b border-outline-variant/10 pb-1"><a class="inline-block py-1.5 font-label-ui text-label-ui text-on-surface-variant hover:text-primary-container transition-colors" data-path="about" href="#about">04 // <span data-i18n="nav_about">About</span></a></li></ul></div><div class="md:col-span-4 space-y-space-sm"><div class="font-label-code text-label-code uppercase text-outline tracking-widest" data-i18n="footer_channels">Direct channels</div><ul class="space-y-space-xs font-body-md text-body-md text-secondary"><li class="border-b border-outline-variant/10 pb-1 flex justify-between items-center"><span class="text-outline font-label-code text-label-code uppercase" data-i18n="footer_email">Email</span><a class="py-1.5 text-on-surface hover:text-primary-container transition-colors" href="mailto:info@moradesign.shop">info@moradesign.shop</a></li><li class="border-b border-outline-variant/10 pb-1 flex justify-between items-center"><span class="text-outline font-label-code text-label-code uppercase">WhatsApp</span><a class="py-1.5 text-on-surface hover:text-primary-container transition-colors" href="https://wa.me/41779039164" rel="noopener noreferrer" target="_blank" data-i18n="footer_whatsapp_link">+41 Direct line →</a></li><li class="border-b border-outline-variant/10 pb-1 flex justify-between items-center"><span class="text-outline font-label-code text-label-code uppercase" data-i18n="footer_social">Social</span><a class="py-1.5 text-on-surface hover:text-primary-container transition-colors" href="https://www.instagram.com/jordimoradesign/" rel="noopener noreferrer" target="_blank">@jordimoradesign</a></li><li class="border-b border-outline-variant/10 pb-1 flex justify-between items-center"><span class="text-outline font-label-code text-label-code uppercase" data-i18n="footer_meeting">Meeting</span><a class="py-1.5 text-primary-container hover:text-on-surface transition-colors font-semibold" data-path="book-discovery-call" href="#booking-calendar" data-i18n="footer_call">Discovery call →</a></li></ul></div></div><div class="pt-space-lg flex flex-col md:flex-row items-start md:items-center justify-between gap-space-md font-label-code text-label-code uppercase tracking-wider text-outline"><div data-i18n="footer_rights">© 2026 Jordi Miguel Mora Romero. All rights reserved.</div><div class="flex items-center gap-space-lg"><a class="text-outline hover:text-on-surface transition-colors legal-modal-trigger" data-legal="privacy" href="privacy.html" data-i18n="footer_privacy">Privacy policy</a><a class="text-outline hover:text-on-surface transition-colors legal-modal-trigger" data-legal="terms" href="terms.html" data-i18n="footer_terms">Terms of service</a><a class="text-outline hover:text-on-surface transition-colors legal-modal-trigger" data-legal="cookies" href="cookies.html" data-i18n="footer_cookies">Cookie policy</a><div class="flex items-center gap-1 text-outline"><span class="text-primary-container">EN</span><span class="">/</span><span class="">ES</span><span class="">/</span><span class="">DE</span></div></div></div></div></footer>
+</body></html>
