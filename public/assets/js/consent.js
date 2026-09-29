@@ -2,7 +2,7 @@
 // localStorage ('consent' = 'granted' | 'denied') and can be changed from "Cookie settings".
 // While GA_ID is empty nothing is shown or loaded. If you change the domains, update the CSP in .htaccess.
 (function () {
-  var GA_ID = ''; // Google Analytics 4 measurement ID, e.g. 'G-XXXXXXXXXX'
+  var GA_ID = 'G-F6NX2E4K1Y'; // Google Analytics 4 measurement ID; '' switches analytics and the banner off
   var TEXT = {
     en: { label: 'Cookie consent', msg: 'With your consent I use Google Analytics to measure visits and see which pages lead to enquiries. It sets cookies and sends usage data to Google, including to the USA.', accept: 'Accept', reject: 'Reject', policy: 'Cookie policy' },
     de: { label: 'Cookie-Einwilligung', msg: 'Mit Ihrer Einwilligung nutze ich Google Analytics, um Besuche zu messen und zu sehen, welche Seiten zu Anfragen führen. Dabei werden Cookies gesetzt und Nutzungsdaten an Google übermittelt, auch in die USA.', accept: 'Akzeptieren', reject: 'Ablehnen', policy: 'Cookie-Richtlinie' },
