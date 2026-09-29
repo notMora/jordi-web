@@ -14,8 +14,11 @@ npm run build
 ```
 Run it after changing classes in `public/*.html` or `public/assets/js/*.js`, and commit the generated CSS.
 
-## Deploy (Hostinger)
-Upload the **contents** of `public/` (including the hidden `.htaccess`) into `public_html`. Never upload the repository root.
+## Branches and deploy (Hostinger Git)
+- `source` — this full project. Work and commit here.
+- `main` — **only the website** (the contents of `public/` at the root). Hostinger Git deploys `main` into `public_html`.
+
+To publish: commit on `source`, then run `./deploy.sh`. It creates a commit on `main` whose files are exactly `public/`, and pushes both branches. Never merge `source` into `main`.
 
 External services: Cal.com (availability + bookings, public API, no key) and Formspree (contact form).
 If you add a third-party script, font or API, update the `Content-Security-Policy` in `public/.htaccess` and the privacy/cookie policies.
