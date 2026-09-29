@@ -106,6 +106,8 @@ const i18nData = {
     bk_notes_label: "What would you like to talk about? (optional)",
     bk_selected: "Selected time:",
     bk_submit: "Confirm call →",
+    bk_privacy_notice: "By confirming, your details are sent to Cal.com to schedule the call. How I handle your data:",
+    bk_privacy_link: "Privacy Policy",
     bk_booking: "Booking…",
     bk_loading: "Loading available times…",
     bk_no_slots: "There are no free times right now. Message me on WhatsApp and we'll find one.",
@@ -155,7 +157,7 @@ const i18nData = {
     about_f1_title: "Founder & builder",
     about_f1_desc: "No account managers, no delegation.",
     about_f2_title: "Quality guarantee",
-    about_f2_desc: "Swiss typographic standards and precision in every detail.",
+    about_f2_desc: "Typography inspired by Swiss design and precision in every detail.",
     about_principle: "Principle",
     cal_eyebrow: "Direct call",
     form_eyebrow: "Written message",
@@ -167,7 +169,7 @@ const i18nData = {
     whatsapp_eyebrow: "Fastest response",
     sticky_label: "Jordi Mora",
     sticky_sub: "Custom quote",
-    footer_desc: "Custom websites built with Swiss precision, bespoke interfaces and AI integrations for design-led businesses.",
+    footer_desc: "Custom websites built with precision, bespoke interfaces and AI integrations for design-led businesses.",
     footer_nav: "Navigation",
     footer_channels: "Direct channels",
     footer_email: "Email",
@@ -179,7 +181,7 @@ const i18nData = {
     footer_privacy: "Privacy policy",
     footer_terms: "Terms of service",
     footer_cookies: "Cookie policy",
-    form_privacy_notice: "I agree to the processing of my details according to the",
+    form_privacy_notice: "I have read the",
     form_privacy_link: "Privacy Policy"
   },
   es: {
@@ -187,7 +189,7 @@ const i18nData = {
     page_desc: "Sitios web a medida y automatizaciones de IA prácticas que ayudan a tu negocio a captar más consultas, simplificar reservas y ahorrar tiempo.",
     hero_tag: "DISEÑO WEB Y AUTOMATIZACIÓN IA",
     hero_headline: "Convierte visitas en clientes.",
-    hero_subtitle: "Sitios web a medida y automatizaciones de IA prácticas que ayudan a tu negocio a captar más consultas, simplificar reservas y ahorrar tiempo. Construido con precisión suiza.",
+    hero_subtitle: "Sitios web a medida y automatizaciones de IA prácticas que ayudan a tu negocio a captar más consultas, simplificar reservas y ahorrar tiempo. Construido con precisión, hasta el último detalle.",
     hero_cta: "Reservar llamada de descubrimiento →",
     hero_explore: "Explorar mis proyectos →",
     hero_microcopy: "20 minutos para definir objetivos, alcance y plazos.",
@@ -288,6 +290,8 @@ const i18nData = {
     bk_notes_label: "¿De qué te gustaría hablar? (opcional)",
     bk_selected: "Horario elegido:",
     bk_submit: "Confirmar llamada →",
+    bk_privacy_notice: "Al confirmar, tus datos se envían a Cal.com para agendar la llamada. Cómo trato tus datos:",
+    bk_privacy_link: "Política de Privacidad",
     bk_booking: "Reservando…",
     bk_loading: "Cargando horarios disponibles…",
     bk_no_slots: "Ahora mismo no hay horarios libres. Escríbeme por WhatsApp y buscamos uno.",
@@ -337,7 +341,7 @@ const i18nData = {
     about_f1_title: "Fundador y desarrollador",
     about_f1_desc: "Sin intermediarios ni tareas delegadas.",
     about_f2_title: "Garantía de calidad",
-    about_f2_desc: "Estándares tipográficos suizos y precisión en cada detalle.",
+    about_f2_desc: "Tipografía inspirada en el diseño suizo y precisión en cada detalle.",
     about_principle: "Principio",
     cal_eyebrow: "Llamada directa",
     form_eyebrow: "Mensaje escrito",
@@ -349,7 +353,7 @@ const i18nData = {
     whatsapp_eyebrow: "Respuesta más rápida",
     sticky_label: "Jordi Mora",
     sticky_sub: "Presupuesto a medida",
-    footer_desc: "Sitios web a medida con precisión suiza, interfaces personalizadas e integraciones de IA para negocios que cuidan su imagen.",
+    footer_desc: "Sitios web a medida hechos con precisión, interfaces personalizadas e integraciones de IA para negocios que cuidan su imagen.",
     footer_nav: "Navegación",
     footer_channels: "Canales directos",
     footer_email: "Correo",
@@ -361,7 +365,7 @@ const i18nData = {
     footer_privacy: "Política de privacidad",
     footer_terms: "Términos del servicio",
     footer_cookies: "Política de cookies",
-    form_privacy_notice: "Acepto el tratamiento de mis datos según la",
+    form_privacy_notice: "He leído la",
     form_privacy_link: "Política de Privacidad"
   },
   de: {
@@ -369,7 +373,7 @@ const i18nData = {
     page_desc: "Maßgeschneiderte Websites und praktische KI-Automatisierungen, die Ihrem Unternehmen helfen, mehr Anfragen zu gewinnen, Buchungen zu vereinfachen und Zeit zu sparen.",
     hero_tag: "WEBDESIGN & KI-AUTOMATISIERUNG",
     hero_headline: "Besucher in Kunden verwandeln.",
-    hero_subtitle: "Maßgeschneiderte Websites und praktische KI-Automatisierungen, die Ihrem Unternehmen helfen, mehr Anfragen zu gewinnen, Buchungen zu vereinfachen und Zeit zu sparen. Mit Schweizer Präzision gebaut.",
+    hero_subtitle: "Maßgeschneiderte Websites und praktische KI-Automatisierungen, die Ihrem Unternehmen helfen, mehr Anfragen zu gewinnen, Buchungen zu vereinfachen und Zeit zu sparen. Mit Präzision gebaut – bis ins letzte Detail.",
     hero_cta: "Erstgespräch buchen →",
     hero_explore: "Projekte entdecken →",
     hero_microcopy: "20 Minuten zur Besprechung Ihrer Ziele, Ihres Umfangs und Zeitplans.",
@@ -470,6 +474,8 @@ const i18nData = {
     bk_notes_label: "Worüber möchten Sie sprechen? (optional)",
     bk_selected: "Gewählter Termin:",
     bk_submit: "Gespräch bestätigen →",
+    bk_privacy_notice: "Mit der Bestätigung werden Ihre Angaben zur Terminplanung an Cal.com übermittelt. Wie ich Ihre Daten verarbeite:",
+    bk_privacy_link: "Datenschutzerklärung",
     bk_booking: "Wird gebucht…",
     bk_loading: "Verfügbare Zeiten werden geladen…",
     bk_no_slots: "Im Moment sind keine Termine frei. Schreiben Sie mir per WhatsApp und wir finden einen.",
@@ -519,7 +525,7 @@ const i18nData = {
     about_f1_title: "Gründer & Entwickler",
     about_f1_desc: "Keine Vermittler, keine Delegation.",
     about_f2_title: "Qualitätsversprechen",
-    about_f2_desc: "Schweizer Typografie-Standards und Präzision im Detail.",
+    about_f2_desc: "Typografie nach dem Vorbild des Schweizer Designs und Präzision im Detail.",
     about_principle: "Prinzip",
     cal_eyebrow: "Direktes Gespräch",
     form_eyebrow: "Schriftliche Anfrage",
@@ -531,7 +537,7 @@ const i18nData = {
     whatsapp_eyebrow: "Schnellste Antwort",
     sticky_label: "Jordi Mora",
     sticky_sub: "Individuelles Angebot",
-    footer_desc: "Maßgeschneiderte Websites mit Schweizer Präzision, individuelle Interfaces und KI-Integrationen für designorientierte Unternehmen.",
+    footer_desc: "Präzise gebaute, maßgeschneiderte Websites, individuelle Interfaces und KI-Integrationen für designorientierte Unternehmen.",
     footer_nav: "Navigation",
     footer_channels: "Direkte Kanäle",
     footer_email: "E-Mail",
@@ -543,8 +549,8 @@ const i18nData = {
     footer_privacy: "Datenschutz",
     footer_terms: "AGB",
     footer_cookies: "Cookie-Richtlinie",
-    form_privacy_notice: "Ich stimme der Datenverarbeitung gemäß der",
-    form_privacy_link: "Datenschutzerklärung zu"
+    form_privacy_notice: "Ich habe die",
+    form_privacy_link: "Datenschutzerklärung gelesen"
   }
 };
 
@@ -556,10 +562,11 @@ try {
   if (i18nData[savedLang]) currentLang = savedLang;
 } catch (e) {}
 
-function setLanguage(lang) {
+function setLanguage(lang, remember) {
   if (!i18nData[lang]) return;
   currentLang = lang;
-  try { localStorage.setItem('lang', lang); } catch (e) {}
+  // Saved only on an explicit choice, so it stays consent-exempt technical storage
+  if (remember) { try { localStorage.setItem('lang', lang); } catch (e) {} }
   document.documentElement.lang = lang;
 
   const dict = i18nData[lang];
@@ -617,9 +624,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.querySelectorAll('a').forEach(link => {
     const txt = link.textContent.trim().toUpperCase();
-    if (txt === 'EN') link.addEventListener('click', (e) => { e.preventDefault(); setLanguage('en'); });
-    if (txt === 'ES') link.addEventListener('click', (e) => { e.preventDefault(); setLanguage('es'); });
-    if (txt === 'DE') link.addEventListener('click', (e) => { e.preventDefault(); setLanguage('de'); });
+    if (txt === 'EN') link.addEventListener('click', (e) => { e.preventDefault(); setLanguage('en', true); });
+    if (txt === 'ES') link.addEventListener('click', (e) => { e.preventDefault(); setLanguage('es', true); });
+    if (txt === 'DE') link.addEventListener('click', (e) => { e.preventDefault(); setLanguage('de', true); });
   });
 
   // Accordion JS (Exclusive one-at-a-time)

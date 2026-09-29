@@ -142,33 +142,42 @@
   window.renderBooking = render;
   elTime.addEventListener('input', function () { showMsg(''); updateTime(); });
 
-  // Load real availability (next 30 days) in the visitor's time zone, keeping :00 and :30 slots
-  var from = new Date(), to = new Date();
-  to.setDate(to.getDate() + 30);
-  fetch(API + '/slots?eventTypeId=' + CAL_EVENT_TYPE_ID +
-    '&start=' + from.toISOString().slice(0, 10) + '&end=' + to.toISOString().slice(0, 10) +
-    '&timeZone=' + encodeURIComponent(TZ), { headers: { 'cal-api-version': '2024-09-04' } })
-    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(function (j) {
-      var data = (j && j.data) || {}, lo = Infinity, hi = -Infinity;
-      Object.keys(data).forEach(function (day) {
-        var map = {}, n = 0;
-        (data[day] || []).forEach(function (s) {
-          var m = minutesOf(s.start);
-          if (m % STEP) return;
-          map[m] = s.start; n++;
-          lo = Math.min(lo, m); hi = Math.max(hi, m);
+  // Load real availability (next 30 days) in the visitor's time zone, keeping :00 and :30 slots.
+  // Only once the visitor approaches the booking section, so Cal.com is not contacted on every page view.
+  function loadSlots() {
+    var from = new Date(), to = new Date();
+    to.setDate(to.getDate() + 30);
+    fetch(API + '/slots?eventTypeId=' + CAL_EVENT_TYPE_ID +
+      '&start=' + from.toISOString().slice(0, 10) + '&end=' + to.toISOString().slice(0, 10) +
+      '&timeZone=' + encodeURIComponent(TZ), { headers: { 'cal-api-version': '2024-09-04' } })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (j) {
+        var data = (j && j.data) || {}, lo = Infinity, hi = -Infinity;
+        Object.keys(data).forEach(function (day) {
+          var map = {}, n = 0;
+          (data[day] || []).forEach(function (s) {
+            var m = minutesOf(s.start);
+            if (m % STEP) return;
+            map[m] = s.start; n++;
+            lo = Math.min(lo, m); hi = Math.max(hi, m);
+          });
+          if (n) slotsByDay[day] = map;
         });
-        if (n) slotsByDay[day] = map;
-      });
-      if (isFinite(lo)) {
-        rangeStart = lo; rangeEnd = hi;
-        elTime.max = Math.max(1, (hi - lo) / STEP);
-      }
-      state = Object.keys(slotsByDay).length ? 'ready' : 'empty';
-      render();
-    })
-    .catch(function () { state = 'error'; render(); });
+        if (isFinite(lo)) {
+          rangeStart = lo; rangeEnd = hi;
+          elTime.max = Math.max(1, (hi - lo) / STEP);
+        }
+        state = Object.keys(slotsByDay).length ? 'ready' : 'empty';
+        render();
+      })
+      .catch(function () { state = 'error'; render(); });
+  }
+  var slotsObserver = new IntersectionObserver(function (entries) {
+    if (!entries[0].isIntersecting) return;
+    slotsObserver.disconnect();
+    loadSlots();
+  }, { rootMargin: '800px 0px' });
+  slotsObserver.observe($('booking-calendar'));
 
   // Validate and create the booking in Cal.com (Cal.com emails the confirmation to the client)
   elForm.addEventListener('submit', function (e) {
