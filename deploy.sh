@@ -14,7 +14,7 @@ if [ "$TREE" = "$(git rev-parse origin/main^{tree})" ]; then
   echo "main already matches source:public — nothing to deploy"; exit 0
 fi
 
-COMMIT=$(git commit-tree "$TREE" -p origin/main -m "Deploy website from source $(git rev-parse --short source)")
+COMMIT=$(git commit-tree "$TREE" -p origin/main -m "Deploy website from source $(git rev-parse --short source)" -m "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>")
 git update-ref refs/heads/main "$COMMIT"
 git push -q origin main
 echo "Deployed $(git rev-parse --short "$COMMIT") to main"
