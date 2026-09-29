@@ -5,7 +5,8 @@ module.exports = {
     "./public/privacy.html",
     "./public/terms.html",
     "./public/cookies.html",
-    "./public/assets/js/legal.js"
+    "./public/assets/js/legal.js",
+    "./public/assets/js/consent.js"
   ],
   darkMode: "class",
   theme: {

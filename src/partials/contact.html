@@ -1,0 +1,149 @@
+<!-- 06 — CONTACT & FINAL CTA (White Floor) -->
+<section class="w-full bg-[#FAFAFA] text-[#0A0A0A] py-20 md:py-32" id="contact">
+<div class="max-w-[1440px] mx-auto px-margin-mobile md:px-margin">
+<!-- Section Header -->
+<div class="border-b border-[#E5E5E5] pb-8 mb-16">
+<span class="font-label-code text-label-code tracking-[0.2em] uppercase text-[#6B6B6B] block mb-3" data-i18n="sec_contact">06 — Contact</span>
+<h2 class="font-display-xl text-[38px] leading-[42px] sm:text-[44px] sm:leading-[48px] md:text-[84px] md:leading-[88px] font-semibold tracking-tight uppercase text-[#0A0A0A]" data-i18n="contact_headline">Let's build it right.</h2>
+<p class="font-body-lg text-body-lg text-[#6B6B6B] mt-4 max-w-xl" data-i18n="contact_subtitle">Book a 20-minute discovery call, or send me a short message.</p>
+</div>
+<!-- 2-Column Working Layout (Desktop 12 cols) -->
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+<!-- Column 1: Interactive Discovery Call Calendar Module (6 cols) -->
+<div class="lg:col-span-6 bg-[#FFFFFF] border border-[#E5E5E5] p-6 md:p-8" id="booking-calendar">
+<div class="flex flex-col sm:flex-row sm:items-end justify-between gap-2 border-b border-[#E5E5E5] pb-4 mb-6">
+<div>
+<span class="font-label-code text-label-code uppercase tracking-wider text-[#6B6B6B]" data-i18n="cal_eyebrow">Direct call</span>
+<h3 class="font-headline-sm text-headline-sm font-semibold text-[#0A0A0A] mt-1" data-i18n="cal_title">Select a 20-Min Slot</h3>
+</div>
+<div class="font-label-code text-label-code uppercase text-[#6B6B6B] sm:text-right"><span data-i18n="bk_tz_label">Your time zone:</span> <span class="text-[#0A0A0A] font-semibold" id="bk-tz"></span></div>
+</div>
+<!-- Booking widget: real availability and bookings from Cal.com (script at the end of the page) -->
+<div id="bk-panel">
+<div class="space-y-8">
+<div>
+<p class="block font-label-code text-label-code uppercase text-[#6B6B6B] mb-3" data-i18n="bk_step_day">1. Choose a day</p>
+<div class="flex gap-2 overflow-x-auto pb-1 font-body-md text-body-md text-[#6B6B6B]" id="bk-days" role="group"></div>
+</div>
+<div id="bk-time-block">
+<div class="flex items-end justify-between gap-4 mb-4">
+<label class="block font-label-code text-label-code uppercase text-[#6B6B6B] mb-3 !mb-0" data-i18n="bk_step_time" for="bk-time">2. Slide to choose a time</label>
+<span class="font-headline-md text-[32px] leading-none font-semibold text-[#0A0A0A] tabular-nums" id="bk-time-label">--:--</span>
+</div>
+<input class="bk-range" id="bk-time" max="1" min="0" step="1" type="range" value="0">
+<div aria-hidden="true" class="flex gap-px mt-2" id="bk-marks"></div>
+<div aria-hidden="true" class="flex justify-between mt-2 font-label-code text-label-code text-[#6B6B6B]"><span id="bk-min"></span><span id="bk-mid"></span><span id="bk-max"></span></div>
+<p class="mt-3 font-body-md text-[15px] leading-[22px] text-[#2F3131]" id="bk-time-note" aria-live="polite"></p>
+</div>
+</div>
+<form class="space-y-5 border-t border-[#E5E5E5] pt-6 mt-8" id="bk-form" novalidate="">
+<fieldset>
+<legend class="block font-label-code text-label-code uppercase text-[#6B6B6B] mb-3" data-i18n="bk_step_service">3. What are you interested in?</legend>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-2" id="bk-services">
+<label class="flex items-center gap-3 border border-[#E5E5E5] bg-[#FAFAFA] text-[#0A0A0A] p-4 cursor-pointer hover:border-[#0A0A0A] has-[:checked]:border-[#0A0A0A] has-[:checked]:bg-[#0A0A0A] has-[:checked]:text-[#FAFAFA] has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2"><input class="sr-only" name="service" type="radio" value="web"><span aria-hidden="true" class="material-symbols-outlined text-[22px]">language</span><span class="font-body-md text-[15px] leading-[22px] font-medium" data-i18n="serv1_title">A website for your business</span></label>
+<label class="flex items-center gap-3 border border-[#E5E5E5] bg-[#FAFAFA] text-[#0A0A0A] p-4 cursor-pointer hover:border-[#0A0A0A] has-[:checked]:border-[#0A0A0A] has-[:checked]:bg-[#0A0A0A] has-[:checked]:text-[#FAFAFA] has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2"><input class="sr-only" name="service" type="radio" value="booking"><span aria-hidden="true" class="material-symbols-outlined text-[22px]">event_available</span><span class="font-body-md text-[15px] leading-[22px] font-medium" data-i18n="serv2_title">Online bookings and payments</span></label>
+<label class="flex items-center gap-3 border border-[#E5E5E5] bg-[#FAFAFA] text-[#0A0A0A] p-4 cursor-pointer hover:border-[#0A0A0A] has-[:checked]:border-[#0A0A0A] has-[:checked]:bg-[#0A0A0A] has-[:checked]:text-[#FAFAFA] has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2"><input class="sr-only" name="service" type="radio" value="ai"><span aria-hidden="true" class="material-symbols-outlined text-[22px]">smart_toy</span><span class="font-body-md text-[15px] leading-[22px] font-medium" data-i18n="serv3_title">An automatic assistant (AI)</span></label>
+<label class="flex items-center gap-3 border border-[#E5E5E5] bg-[#FAFAFA] text-[#0A0A0A] p-4 cursor-pointer hover:border-[#0A0A0A] has-[:checked]:border-[#0A0A0A] has-[:checked]:bg-[#0A0A0A] has-[:checked]:text-[#FAFAFA] has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2"><input class="sr-only" name="service" type="radio" value="help"><span aria-hidden="true" class="material-symbols-outlined text-[22px]">help</span><span class="font-body-md text-[15px] leading-[22px] font-medium" data-i18n="bk_service_help">I'm not sure yet, I need help</span></label>
+</div>
+</fieldset>
+<p class="block font-label-code text-label-code uppercase text-[#6B6B6B] mb-3 !mb-0 pt-2" data-i18n="bk_step_data">4. Your details</p>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_name" for="bk-name">Your Name *</label>
+<input autocomplete="name" class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" data-i18n-ph="form_ph_name" id="bk-name" name="name" placeholder="Jane Smith" required="" type="text">
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_email" for="bk-email">Your Email Address *</label>
+<input autocomplete="email" class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" data-i18n-ph="form_ph_email" id="bk-email" name="email" placeholder="name@company.com" required="" type="email">
+</div>
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="bk_phone_label" for="bk-phone">Your phone / WhatsApp *</label>
+<input autocomplete="tel" class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" id="bk-phone" inputmode="tel" name="phone" placeholder="+41 79 123 45 67" required="" type="tel">
+<p class="mt-1 font-body-md text-[13px] leading-[20px] text-[#6B6B6B]" data-i18n="bk_phone_hint">Include your country code, e.g. +41 or +1.</p>
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="bk_notes_label" for="bk-notes">What would you like to talk about? (optional)</label>
+<textarea class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" id="bk-notes" name="notes" rows="2"></textarea>
+</div>
+<div class="flex flex-wrap items-center justify-between gap-2 font-label-code text-label-code uppercase">
+<span class="text-[#6B6B6B]" data-i18n="bk_selected">Selected time:</span>
+<span class="font-bold text-[#0A0A0A]" id="bk-summary">—</span>
+</div>
+<button class="w-full bg-[#0A0A0A] hover:bg-[#C6FF3D] hover:text-[#0A0A0A] text-[#FAFAFA] font-label-ui text-label-ui uppercase tracking-wider py-4 transition-none border border-[#0A0A0A] font-semibold disabled:opacity-40 disabled:pointer-events-none" data-i18n="bk_submit" disabled="" id="bk-submit" type="submit">Confirm call →</button>
+<p class="text-[13px] leading-[19px] text-[#6B6B6B]"><span data-i18n="bk_privacy_notice">By confirming, your details are sent to Cal.com to schedule the call. How I handle your data:</span> <a class="font-medium text-[#0A0A0A] underline underline-offset-2 hover:text-[#C6FF3D]" href="/privacy.html?lang={{lang}}" target="_blank" rel="noopener" data-i18n="bk_privacy_link">Privacy Policy</a>.</p>
+<div class="hidden p-3 bg-[#FFE9E6] border border-[#93000A] text-[#690005] font-label-code text-label-code uppercase text-center font-medium" id="bk-msg" role="alert"></div>
+</form>
+</div>
+<div class="hidden border border-[#0A0A0A] p-6 md:p-8 text-center" id="bk-success" role="status">
+<span aria-hidden="true" class="material-symbols-outlined text-[48px] text-[#0A0A0A] bg-[#C6FF3D] p-2">check</span>
+<p class="font-headline-sm text-headline-sm font-semibold text-[#0A0A0A] mt-4" data-i18n="bk_success_title">Call booked!</p>
+<p class="font-body-md text-[16px] leading-[26px] text-[#2F3131] mt-2" id="bk-success-text"></p>
+</div>
+<p class="mt-6 font-body-md text-[14px] leading-[22px] text-[#6B6B6B]"><span data-i18n="bk_fallback">Prefer the full calendar?</span> <a class="font-semibold text-[#0A0A0A] underline underline-offset-4" data-i18n="bk_fallback_link" href="https://cal.com" id="bk-fallback" rel="noopener noreferrer" target="_blank">Open it on Cal.com →</a></p>
+</div>
+<!-- Column 2: Sleek Contact Form & Direct Channels (6 cols) -->
+<div class="lg:col-span-6 flex flex-col justify-between h-full space-y-8">
+<div class="bg-[#FFFFFF] border border-[#E5E5E5] p-6 md:p-8">
+<div class="border-b border-[#E5E5E5] pb-4 mb-6">
+<span class="font-label-code text-label-code uppercase tracking-wider text-[#6B6B6B]" data-i18n="form_eyebrow">Written message</span>
+<h3 class="font-headline-sm text-headline-sm font-semibold text-[#0A0A0A] mt-1" data-i18n="form_heading">Or send me a short message</h3>
+</div>
+<form action="https://formspree.io/f/xvkgdkrn" class="space-y-4" id="contact-form" method="POST">
+<input name="_subject" type="hidden" value="{{lead_subject}}">
+<input name="page" type="hidden" value="{{canonical}}">
+<input aria-hidden="true" autocomplete="off" class="hidden" name="_gotcha" tabindex="-1" type="text">
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_name" for="input-name">Your Name *</label>
+<input class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" autocomplete="name" id="input-name" name="name" data-i18n-ph="form_ph_name" placeholder="Jane Smith" required="" type="text">
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_email" for="input-email">Your Email Address *</label>
+<input class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" autocomplete="email" id="input-email" name="email" data-i18n-ph="form_ph_email" placeholder="name@company.com" required="" type="email">
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="bk_phone_label" for="input-phone">Your phone / WhatsApp *</label>
+<input autocomplete="tel" class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" id="input-phone" inputmode="tel" name="phone" placeholder="+41 79 123 45 67" required="" type="tel">
+<p class="mt-1 font-body-md text-[13px] leading-[20px] text-[#6B6B6B]" data-i18n="bk_phone_hint">Include your country code, e.g. +41 or +1.</p>
+<p class="hidden mt-1 font-body-md text-[13px] leading-[20px] text-[#93000A]" data-i18n="bk_err_phone" id="form-phone-error" role="alert">Enter your phone number with the country code, e.g. +41 79 123 45 67.</p>
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_web" for="input-web">Website or Instagram</label>
+<input class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" autocomplete="url" inputmode="url" id="input-web" name="website" data-i18n-ph="form_ph_web" placeholder="https://yourcompany.com" type="text">
+</div>
+<div>
+<label class="block font-label-code text-label-code uppercase text-[#0A0A0A] mb-1" data-i18n="form_label_msg" for="input-msg">What would you like to improve?</label>
+<textarea class="w-full bg-[#FAFAFA] border border-[#E5E5E5] focus:border-[#0A0A0A] text-[#0A0A0A] font-body-md text-body-md px-4 py-3 rounded-none outline-none" id="input-msg" name="message" data-i18n-ph="form_ph_msg" placeholder="Tell me about your services, how you handle bookings or what you&#x27;d like to automate..." rows="3"></textarea>
+</div>
+<div class="flex items-start gap-2.5 pt-1 pb-1">
+<input class="mt-1 h-4 w-4 rounded-none border-[#E5E5E5] text-[#0A0A0A] accent-[#0A0A0A] focus:ring-0 cursor-pointer" id="contact-consent" name="privacy_consent" required="" type="checkbox">
+<label class="font-body-md text-[13px] leading-[19px] text-[#6B6B6B] cursor-pointer" for="contact-consent">
+<span data-i18n="form_privacy_notice">I have read the</span>
+<a class="font-medium text-[#0A0A0A] underline underline-offset-2 hover:text-[#C6FF3D]" href="/privacy.html?lang={{lang}}" target="_blank" rel="noopener" data-i18n="form_privacy_link">Privacy Policy</a>.
+</label>
+</div>
+<button class="w-full bg-[#0A0A0A] hover:bg-[#C6FF3D] hover:text-[#0A0A0A] text-[#FAFAFA] font-label-ui text-label-ui uppercase tracking-wider py-4 transition-none border border-[#0A0A0A] font-semibold" data-i18n="form_submit" id="form-submit" type="submit">Send my enquiry →</button>
+<div class="hidden p-3 bg-[#EAF8D0] border border-[#A2D801] text-[#263500] font-label-code text-label-code uppercase text-center font-medium" id="form-feedback" data-i18n="form_feedback" role="status">Thank you. Your message was received. I will reply within 24 business hours.</div>
+<div class="hidden p-3 bg-[#FFE9E6] border border-[#93000A] text-[#690005] font-label-code text-label-code uppercase text-center font-medium" id="form-error" data-i18n="form_error" role="alert">Couldn't send your message. Please try again or message me on WhatsApp.</div>
+</form>
+</div>
+<!-- Direct Wire WhatsApp -->
+<div class="p-6 bg-[#FFFFFF] border border-[#E5E5E5] flex items-center justify-between">
+<div>
+<span class="font-label-code text-label-code uppercase text-[#6B6B6B] block" data-i18n="whatsapp_eyebrow">Fastest response</span>
+<span class="font-headline-sm text-headline-sm font-medium text-[#0A0A0A]" data-i18n="whatsapp_prompt">Prefer WhatsApp?</span>
+</div>
+<a class="inline-flex items-center gap-2 border border-[#0A0A0A] hover:bg-[#0A0A0A] hover:text-[#FAFAFA] text-[#0A0A0A] font-label-ui text-label-ui uppercase tracking-wider px-5 py-3 transition-none" data-i18n="whatsapp_link" href="https://wa.me/41779039164" rel="noopener noreferrer" target="_blank">Message me →</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- STICKY FLOATING CTA BAR (Mobile/Tablet Viewports, Hides near contact) -->
+<div class="fixed bottom-0 left-0 right-0 z-40 bg-[#0A0A0A] border-t border-[#262626] p-3 md:hidden flex items-center justify-between transition-transform duration-200 translate-y-full" id="sticky-cta-bar">
+<div class="flex flex-col">
+<span class="font-label-code text-[10px] text-[#8E8E8E] uppercase" data-i18n="sticky_label">Jordi Mora</span>
+<span class="font-label-code text-[11px] text-[#C6FF3D] uppercase font-bold" data-i18n="sticky_sub">Custom quote</span>
+</div>
+<a class="bg-[#C6FF3D] text-[#0A0A0A] font-label-ui text-label-ui uppercase tracking-wider px-4 py-3.5 font-bold border border-[#C6FF3D]" data-i18n="sticky_cta" href="#booking-calendar">Book Call →</a>
+</div>

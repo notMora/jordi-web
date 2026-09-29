@@ -1,0 +1,217 @@
+{
+  "order": 3,
+  "type": "service",
+  "slug": {
+    "en": "services/ai-assistant",
+    "de": "leistungen/ki-chatbot",
+    "es": "servicios/chatbot-ia"
+  },
+  "related": ["online-booking", "tradespeople", "physiotherapy"],
+  "en": {
+    "nav": "AI assistant for your website",
+    "teaser": "An AI assistant on your website that answers common questions 24/7, saves interested customers' details and tells you when someone wants to hire you.",
+    "title": "AI Assistant for Small Businesses | Jordi Mora",
+    "desc": "An AI assistant on your website that answers questions 24/7, saves leads and tells you when someone wants to hire you. Book a free 20-minute call.",
+    "h1": "AI assistant for small businesses, set up on your website",
+    "intro": "This is an AI assistant for small business owners who can't answer every message straight away. It sits on your website, answers common questions 24/7 using information you provide, saves the details of interested customers and lets you know when someone wants to hire you. I set it up for SMEs across Switzerland, and you work directly with me, remotely, in English, German or Spanish. The first step is a free 20-minute call.",
+    "pains_title": "Too many messages, too little time?",
+    "pains": [
+      "You answer the same questions every day: opening hours, prices, whether you offer a certain service, how to get an appointment. Each reply only takes a minute, but together they eat into the time you need for your actual work.",
+      "Someone visits your website at 10 pm with a question. There's nobody to answer, so they close the tab and contact whoever replies first, and you never find out they were interested.",
+      "People browse your site and leave without getting in touch or leaving their details. You don't know who was interested or what they were missing, so there's no way to follow up with them later.",
+      "Someone asks for a quote, you send it, and then there's silence. You mean to follow up, but a busy week gets in the way, and an enquiry that was warm quietly goes cold."
+    ],
+    "included_title": "What your AI chatbot for small business does",
+    "included": [
+      {
+        "title": "Answers common questions 24/7",
+        "text": "Opening hours, services, how booking works, the area you cover: the assistant answers the questions you hear again and again, at any time of day, so visitors get a reply even when you're busy or closed."
+      },
+      {
+        "title": "Works from your information",
+        "text": "It's set up to answer from the information you provide about your business. When a question goes beyond that, it passes the conversation over to you rather than trying to handle everything on its own."
+      },
+      {
+        "title": "Saves interested customers' details",
+        "text": "When a visitor shows interest, the assistant saves their details, such as their name and how to reach them. The conversation doesn't simply end when they close the page, and you can get back to them."
+      },
+      {
+        "title": "Notifies you when someone's ready to hire",
+        "text": "When someone is ready to hire you, or asks something only you can answer, you get notified. You step in personally at the right moment instead of keeping an eye on your website all day."
+      },
+      {
+        "title": "Follows up when people go quiet",
+        "text": "If someone showed interest but then stops replying, the assistant follows up with them. A friendly nudge at the right time helps keep enquiries from getting lost just because nobody had time to chase them."
+      },
+      {
+        "title": "On your website, careful with data",
+        "text": "The assistant runs on your website. It's set up so it doesn't ask for more personal data than it needs, and I explain transparently how it's configured, so you know what it does before it goes live."
+      }
+    ],
+    "faq": [
+      {
+        "q": "How much does an AI chatbot cost?",
+        "a": "There's no fixed price: after the free call, you get a personalised quote based on what the assistant should do. The main factors are how many topics and questions it needs to cover, whether it's combined with a new website or online booking, and how much of your business information is already written down. That way you only pay for the setup your business needs."
+      },
+      {
+        "q": "What can an AI assistant do for a small business?",
+        "a": "On your website, it answers common questions at any hour, saves the details of people who are interested, lets you know when someone wants to hire you and follows up with people who don't reply. It takes repetitive messages off your plate so you can focus on your work. It runs on your website; if you're thinking about other channels, we can look at that on the free call."
+      },
+      {
+        "q": "Is it compliant with Swiss data protection?",
+        "a": "I don't make blanket promises about compliance, because it also depends on how your business uses the data. What I can tell you: the assistant is set up so it doesn't ask for more personal data than it needs, and I explain transparently how it's configured and what it saves. If you have specific requirements, bring them to the free call and we'll go through them."
+      },
+      {
+        "q": "How does it learn about my business?",
+        "a": "It answers from information you provide: your services, opening hours, the area you serve, how booking works and the questions customers ask you most. We gather that together, and I set up the assistant to use it. If something changes in your business, that information needs updating too, so the answers stay correct."
+      },
+      {
+        "q": "What if it can't answer a question?",
+        "a": "That's expected, and it's covered. When a question goes beyond the information you've provided, the assistant passes it over to you: it saves the person's details and lets you know, so you can reply yourself. Like any AI, it can occasionally get something wrong, which is why it's set up to stick to your information and hand over when a question goes beyond it."
+      },
+      {
+        "q": "Does it follow up with leads who don't reply?",
+        "a": "Yes. If someone showed interest and left their details but then goes quiet, the assistant follows up with them. That way an enquiry isn't lost just because you had a busy week. When the person is ready to go ahead, it lets you know, and you take over the conversation personally."
+      }
+    ],
+    "service_type": "AI assistant setup"
+  },
+  "de": {
+    "nav": "KI-Chatbot für Websites",
+    "teaser": "Ein KI-Chatbot auf Ihrer Website, der häufige Fragen rund um die Uhr beantwortet, Kontaktdaten von Interessenten speichert und Sie benachrichtigt, wenn jemand Sie beauftragen möchte.",
+    "title": "KI-Chatbot für Ihre KMU-Website | Jordi Mora",
+    "desc": "Ein KI-Chatbot auf Ihrer Website: beantwortet Fragen rund um die Uhr, speichert Anfragen und fasst nach. Für KMU eingerichtet. Kostenloses Erstgespräch.",
+    "h1": "KI-Chatbot für Ihre Website – beantwortet Fragen rund um die Uhr",
+    "intro": "Ein KI-Chatbot für die Website entlastet Sie genau dort, wo Anfragen hereinkommen: Er beantwortet häufige Fragen rund um die Uhr auf Basis der Informationen, die Sie ihm geben, speichert die Kontaktdaten von Interessenten und meldet sich bei Ihnen, wenn jemand Sie beauftragen möchte. Ich richte ihn für KMU in der ganzen Schweiz ein, und Sie arbeiten direkt mit mir, remote. Der erste Schritt ist ein kostenloses 20-minütiges Erstgespräch.",
+    "pains_title": "Zu viele Nachrichten, zu wenig Zeit?",
+    "pains": [
+      "Jeden Tag dieselben Fragen: Öffnungszeiten, Preise, ob Sie eine bestimmte Leistung anbieten, wie man zu einem Termin kommt. Jede Antwort dauert nur eine Minute, doch zusammen fressen sie die Zeit, die Sie für Ihre eigentliche Arbeit brauchen.",
+      "Jemand besucht um 22 Uhr Ihre Website und hat eine Frage. Niemand antwortet, also schliesst die Person die Seite und meldet sich bei dem, der zuerst reagiert. Dass sie interessiert war, erfahren Sie nie.",
+      "Besucherinnen und Besucher schauen sich um und gehen wieder, ohne sich zu melden oder Kontaktdaten zu hinterlassen. Sie wissen nicht, wer interessiert war oder was gefehlt hat, und können später auch nicht nachfassen.",
+      "Jemand fragt eine Offerte an, Sie schicken sie – und dann herrscht Funkstille. Eigentlich wollten Sie nachhaken, aber eine volle Woche kommt dazwischen, und aus einer heissen Anfrage wird still und leise eine kalte."
+    ],
+    "included_title": "Was Ihr KI-Assistent für die Website übernimmt",
+    "included": [
+      {
+        "title": "Beantwortet häufige Fragen rund um die Uhr",
+        "text": "Öffnungszeiten, Leistungen, Ablauf einer Buchung, Einzugsgebiet: Der Assistent beantwortet die Fragen, die Sie immer wieder hören, zu jeder Tageszeit. So bekommen Besucher auch dann eine Antwort, wenn Sie beschäftigt sind oder geschlossen haben."
+      },
+      {
+        "title": "Arbeitet mit Ihren Informationen",
+        "text": "Er ist so eingerichtet, dass er auf Basis der Informationen antwortet, die Sie zu Ihrem Geschäft liefern. Geht eine Frage darüber hinaus, übergibt er das Gespräch an Sie, statt alles selbst lösen zu wollen."
+      },
+      {
+        "title": "Speichert Kontaktdaten von Interessenten",
+        "text": "Zeigt jemand Interesse, speichert der Assistent die Angaben, etwa den Namen und wie man die Person erreicht. So endet das Gespräch nicht einfach, sobald die Seite geschlossen wird, und Sie können sich später melden."
+      },
+      {
+        "title": "Meldet sich, wenn jemand Sie beauftragen will",
+        "text": "Möchte jemand Sie beauftragen oder hat eine Frage, die nur Sie beantworten können, werden Sie benachrichtigt. So steigen Sie im richtigen Moment persönlich ein, statt den ganzen Tag Ihre Website im Auge zu behalten."
+      },
+      {
+        "title": "Fasst nach, wenn es still wird",
+        "text": "Hat jemand Interesse gezeigt, meldet sich dann aber nicht mehr, fasst der Assistent nach. Ein freundlicher Anstoss zur richtigen Zeit hilft, dass Anfragen nicht verloren gehen, nur weil niemand Zeit zum Nachhaken hatte."
+      },
+      {
+        "title": "Auf Ihrer Website, sparsam mit Daten",
+        "text": "Der Assistent läuft auf Ihrer Website. Er ist so eingerichtet, dass er nicht mehr Personendaten abfragt als nötig, und ich erkläre Ihnen transparent, wie er konfiguriert ist, bevor er live geht."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Was kostet ein KI-Chatbot für die Website?",
+        "a": "Einen Fixpreis gibt es nicht: Nach dem kostenlosen Erstgespräch erhalten Sie eine persönliche Offerte, je nachdem, was der Assistent können soll. Die wichtigsten Faktoren: wie viele Themen und Fragen er abdecken soll, ob er mit einer neuen Website oder einer Online-Terminbuchung kombiniert wird und wie viele Informationen zu Ihrem Geschäft schon schriftlich vorliegen. So bezahlen Sie nur, was Sie wirklich brauchen."
+      },
+      {
+        "q": "Ist ein KI-Chatbot datenschutzkonform?",
+        "a": "Pauschale Versprechen dazu mache ich nicht, denn es hängt auch davon ab, wie Ihr Geschäft mit den Daten umgeht. Was ich Ihnen sagen kann: Der Assistent ist so eingerichtet, dass er nicht mehr Personendaten abfragt als nötig, und ich erkläre transparent, wie er konfiguriert ist und was er speichert. Haben Sie besondere Anforderungen, besprechen wir diese im Erstgespräch."
+      },
+      {
+        "q": "Wie wird der Chatbot in meine Website integriert?",
+        "a": "Der Assistent erscheint auf Ihrer Website als Chatfenster. Baue ich Ihre Website, plane ich ihn von Anfang an mit ein. Haben Sie bereits eine Website, schauen wir im kostenlosen Gespräch, ob und wie er sich dort einbauen lässt. Er läuft auf Ihrer Website; falls Sie an weitere Kanäle denken, können wir auch das dabei besprechen."
+      },
+      {
+        "q": "Woher kennt der Assistent die Antworten zu meinem Geschäft?",
+        "a": "Er antwortet auf Basis der Informationen, die Sie liefern: Leistungen, Öffnungszeiten, Einzugsgebiet, Ablauf einer Buchung und die Fragen, die Ihre Kundschaft am häufigsten stellt. Diese Informationen sammeln wir gemeinsam, und ich richte den Assistenten damit ein. Ändert sich etwas in Ihrem Geschäft, müssen auch die Informationen angepasst werden, damit die Antworten stimmen."
+      },
+      {
+        "q": "Was passiert, wenn er eine Frage nicht beantworten kann?",
+        "a": "Das ist vorgesehen. Geht eine Frage über Ihre Informationen hinaus, übergibt der Assistent an Sie: Er speichert die Angaben der Person und benachrichtigt Sie, damit Sie selbst antworten können. Wie jede KI kann er sich auch einmal irren – deshalb ist er so eingerichtet, dass er sich an Ihre Informationen hält und an Sie übergibt, wenn eine Frage darüber hinausgeht."
+      },
+      {
+        "q": "Fasst der Assistent bei Interessenten nach, die nicht antworten?",
+        "a": "Ja. Hat jemand Interesse gezeigt und Kontaktdaten hinterlassen, meldet sich dann aber nicht mehr, fasst der Assistent nach. So geht eine Anfrage nicht verloren, nur weil Sie in dieser Woche viel zu tun hatten. Ist die Person bereit für den nächsten Schritt, werden Sie benachrichtigt und übernehmen das Gespräch persönlich."
+      }
+    ],
+    "service_type": "KI-Chatbot für Websites"
+  },
+  "es": {
+    "nav": "Chatbot con IA para empresas",
+    "teaser": "Un chatbot con IA en tu web que responde dudas frecuentes las 24 horas, guarda datos de interesados y te avisa cuando alguien quiere contratarte.",
+    "title": "Chatbot con IA para empresas en Suiza | Jordi Mora",
+    "desc": "Un chatbot con IA en tu web que responde las 24 horas, guarda los datos de interesados y hace seguimiento. Para pymes en Suiza. Llamada gratis de 20 min.",
+    "h1": "Chatbot con IA para empresas: responde a tus clientes las 24 horas",
+    "intro": "Un chatbot con IA para empresas te quita de encima los mensajes repetitivos: está en tu web, responde las preguntas frecuentes las 24 horas con la información que tú le das, guarda los datos de quien se interesa y te avisa cuando alguien quiere contratarte. Lo configuro para pymes de toda Suiza, y trabajas directamente conmigo, en remoto y en español. Empezamos con una llamada gratuita de 20 minutos.",
+    "pains_title": "¿Demasiados mensajes y poco tiempo?",
+    "pains": [
+      "Cada día respondes las mismas preguntas: horarios, precios, si ofreces tal servicio, cómo pedir cita. Cada respuesta es un minuto, pero todas juntas se comen el tiempo que necesitas para tu trabajo de verdad.",
+      "Alguien entra en tu web a las diez de la noche con una duda. No hay nadie para responder, así que cierra la página y escribe a quien conteste primero. Tú ni te enteras de que estaba interesado.",
+      "La gente mira tu web y se va sin escribirte ni dejar sus datos. No sabes quién estaba interesado ni qué le faltó, así que tampoco puedes volver a contactar con esas personas más adelante.",
+      "Alguien te pide un presupuesto, se lo mandas… y silencio. Querías hacer seguimiento, pero se te complica la semana, y un cliente que estaba interesado se enfría sin que te des cuenta."
+    ],
+    "included_title": "Qué hace por ti este asistente IA para empresas",
+    "included": [
+      {
+        "title": "Responde las 24 horas",
+        "text": "Horarios, servicios, cómo reservar, la zona en la que trabajas: el asistente responde las preguntas que te hacen una y otra vez, a cualquier hora, para que tus visitantes tengan respuesta aunque estés ocupado o tengas cerrado."
+      },
+      {
+        "title": "Trabaja con tu información",
+        "text": "Está configurado para responder con la información que tú le das sobre tu negocio. Cuando una pregunta va más allá, te pasa la conversación a ti en lugar de intentar resolverlo todo por su cuenta."
+      },
+      {
+        "title": "Guarda los datos de interesados",
+        "text": "Cuando alguien muestra interés, el asistente guarda sus datos, como el nombre y cómo contactar con esa persona. Así la conversación no se pierde al cerrar la página y puedes retomarla tú más tarde."
+      },
+      {
+        "title": "Te avisa cuando quieren contratarte",
+        "text": "Cuando alguien quiere contratarte o pregunta algo que solo tú puedes responder, recibes un aviso. Así entras en la conversación en el momento justo, sin tener que vigilar tu web todo el día."
+      },
+      {
+        "title": "Hace seguimiento si no contestan",
+        "text": "Si alguien mostró interés y luego deja de responder, el asistente le hace seguimiento. Un mensaje amable en el momento adecuado ayuda a que no se pierdan consultas solo porque nadie tuvo tiempo de insistir."
+      },
+      {
+        "title": "En tu web, sin datos de más",
+        "text": "El asistente funciona en tu web. Está configurado para no pedir más datos personales de los necesarios, y te explico con transparencia cómo está montado antes de ponerlo en marcha."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto cuesta un chatbot con IA?",
+        "a": "No hay un precio fijo: después de la llamada gratuita recibes un presupuesto personalizado según lo que tenga que hacer el asistente. Lo que más influye: cuántos temas y preguntas debe cubrir, si se combina con una web nueva o con reservas online, y cuánta información de tu negocio tienes ya por escrito. Así pagas solo por la configuración que tu negocio necesita."
+      },
+      {
+        "q": "¿Qué puede hacer un asistente de IA por mi empresa?",
+        "a": "En tu web responde las preguntas frecuentes a cualquier hora, guarda los datos de quien se interesa, te avisa cuando alguien quiere contratarte y hace seguimiento de quien no responde. Te quita de encima los mensajes repetitivos para que te centres en tu trabajo. Funciona en tu web; si te interesan otros canales, lo vemos en la llamada inicial."
+      },
+      {
+        "q": "¿Cómo se integra en mi web?",
+        "a": "El asistente aparece en tu web como una ventana de chat. Si te hago la web, lo tengo en cuenta desde el principio. Si ya tienes una, en la llamada gratuita vemos si se puede añadir y cómo. Funciona dentro de tu propia web, así que tus visitantes no tienen que instalar nada ni ir a otra página para hacer sus preguntas."
+      },
+      {
+        "q": "¿Qué pasa si no sabe responder?",
+        "a": "Está previsto. Cuando una pregunta va más allá de la información que le has dado, el asistente te la pasa: guarda los datos de la persona y te avisa para que respondas tú. Como cualquier IA, puede equivocarse alguna vez; por eso está configurado para ceñirse a tu información y pasarte las preguntas que van más allá."
+      },
+      {
+        "q": "¿Cumple con la protección de datos?",
+        "a": "No hago promesas generales, porque también depende de cómo tu negocio use esos datos. Lo que sí te puedo decir: el asistente está configurado para no pedir más datos personales de los necesarios, y te explico con transparencia cómo está montado y qué guarda. Si tienes requisitos concretos, los vemos juntos en la llamada."
+      },
+      {
+        "q": "¿Hace seguimiento de clientes que no responden?",
+        "a": "Sí. Si alguien mostró interés y dejó sus datos, pero luego no contesta, el asistente le hace seguimiento. Así una consulta no se pierde solo porque tuviste una semana complicada. Cuando esa persona está lista para dar el siguiente paso, te avisa y tú sigues la conversación personalmente."
+      }
+    ],
+    "service_type": "Chatbot con IA para empresas"
+  }
+}

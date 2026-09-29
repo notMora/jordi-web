@@ -1,0 +1,217 @@
+{
+  "order": 11,
+  "type": "industry",
+  "slug": {
+    "en": "website-for-beauty-salons",
+    "de": "website-fuer-kosmetikstudios",
+    "es": "diseno-web-para-centros-de-estetica"
+  },
+  "related": ["online-booking", "ai-assistant", "hair-salons"],
+  "en": {
+    "nav": "Websites for beauty salons",
+    "teaser": "Websites for beauty salons, nail and lash studios in Switzerland: a clear treatment menu, online booking for long treatments and optional card payment.",
+    "title": "Website for Beauty Salons in Switzerland | Jordi Mora",
+    "desc": "A website for your beauty salon or nail studio: treatments with durations, online booking, optional card payment. Approve the design first. Free call.",
+    "h1": "Website for beauty salons: your treatments, clearly shown",
+    "intro": "Your salon's website has to show your treatments clearly and make them easy to book. I build websites for beauty salons, cosmetic studios, and nail and lash studios in Switzerland: treatments with duration and price, online booking, and optional card payment when clients book longer or costly treatments. It starts with a free 20-minute call, and you approve the design before paying anything. I work remotely and directly with you.",
+    "pains_title": "Where a beauty salon loses time",
+    "pains": [
+      "A facial takes an hour or more, and you can't stop halfway through to answer the phone. Clients who want to book can't reach you, and when the treatment is over, a list of missed calls is waiting.",
+      "Your treatment list lives in a PDF, on Instagram or only in your head. Clients can't see what a treatment involves, how long it takes or what it costs, so they message you to ask before they book.",
+      "A two-hour slot for an expensive treatment is a real loss when the client doesn't turn up. Without a firm booking, and without the option to pay in advance, you carry that risk on your own.",
+      "Before a first treatment, clients have questions: can I come wearing make-up, how should I prepare, how long do lash extensions last? Every week you type the same answers into messages, often late in the evening."
+    ],
+    "included_title": "What a website design for beauty salons includes",
+    "included": [
+      {
+        "title": "A treatment menu with durations",
+        "text": "Every treatment on one clear list: what it involves, how long it takes and what it costs, grouped the way clients think, for example face, body, nails and lashes. Clients understand what they're booking before they book it."
+      },
+      {
+        "title": "Online booking for longer treatments",
+        "text": "Clients choose the treatment first, then a day and time that fit its length. They get a confirmation by email or SMS, and the booking appears in your calendar without you taking a single call."
+      },
+      {
+        "title": "Consultations before a treatment",
+        "text": "For treatments that need a conversation first, clients can book a separate consultation instead of the treatment itself. You meet them, talk about what suits them, and then plan the treatment together with the time it really needs."
+      },
+      {
+        "title": "Optional card payment when booking",
+        "text": "For costly or long treatments, clients can pay by card when they book. It's optional: you decide whether to use it at all. On the call, we look at where it makes sense for your salon and where it doesn't."
+      },
+      {
+        "title": "Nails and lashes with their own sections",
+        "text": "Nail and lash services get their own space, with the details clients look for: techniques, infills, how long a new set takes. Useful if you run a nail studio or offer lashes alongside cosmetic treatments."
+      },
+      {
+        "title": "An assistant for pre-treatment questions",
+        "text": "The AI assistant answers common questions 24/7 using your salon's information: how to prepare, what to avoid beforehand, how long a treatment takes. It gives no medical advice. When someone wants to book, it saves their details and lets you know."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What should a beauty salon website include?",
+        "a": "The treatment menu comes first: what each treatment is, how long it takes and what it costs. Then online booking, photos of your salon and your work, opening hours, directions and a short text about you. If clients often ask the same things before a treatment, add a preparation page or an assistant that answers them."
+      },
+      {
+        "q": "Can clients book and pay for treatments online?",
+        "a": "Yes. Clients pick the treatment, a day and a time, and get a confirmation by email or SMS. Card payment when booking is optional. It makes most sense for long or costly treatments, where an empty slot costs you the most. Whether you switch it on is your decision, and we talk it through on the call."
+      },
+      {
+        "q": "Does it work for nail salons and lash studios?",
+        "a": "Yes. Nail and lash work has its own logic: new sets, infills, removals and appointments of very different lengths. The treatment menu and the booking are organised around those services, so a nail studio doesn't have to squeeze into a layout designed for facials."
+      },
+      {
+        "q": "Can the AI assistant answer pre-treatment questions?",
+        "a": "It can answer the practical ones, using the information you give it: how to prepare, how long a treatment takes, what happens during the appointment, which aftercare you recommend. It gives no medical advice, for example about skin conditions or allergies, and refers those questions to you. It answers 24/7 and lets you know when someone wants to book."
+      },
+      {
+        "q": "How should treatments and durations be presented?",
+        "a": "Grouped by category, each treatment with a short description, its duration and its price. Clients should see at a glance whether it fits their time and budget. For longer treatments, a short step-by-step description helps. The booking calendar uses the same durations, so nobody books a 90-minute treatment into a 30-minute gap."
+      },
+      {
+        "q": "How much does a beauty salon website cost?",
+        "a": "You get a personalised quote after the free call, not a fixed package price. For a beauty salon, the main cost factors are how many treatments and categories your menu has, whether you want online booking and card payment, how many languages the site needs, and whether the AI assistant is part of it."
+      }
+    ],
+    "service_type": "Web design for beauty salons and cosmetic studios"
+  },
+  "de": {
+    "nav": "Website für Kosmetikstudios",
+    "teaser": "Websites für Kosmetikstudios, Nagel- und Wimpernstudios in der Schweiz: Behandlungen mit Dauer, Online-Buchung für lange Termine und auf Wunsch Kartenzahlung.",
+    "title": "Website für Kosmetikstudios in der Schweiz | Jordi Mora",
+    "desc": "Website für Ihr Kosmetik- oder Nagelstudio: Behandlungen mit Dauer, Online-Buchung, optionale Kartenzahlung. Erst Design freigeben. Gratis-Erstgespräch.",
+    "h1": "Website für Kosmetikstudios – Ihr Angebot übersichtlich und buchbar",
+    "intro": "Ihre Website soll Ihre Behandlungen klar zeigen und das Buchen einfach machen. Genau dafür erstelle ich Websites für Kosmetikstudios, Beauty-Salons sowie Nagel- und Wimpernstudios in der ganzen Schweiz: Behandlungen mit Dauer und Preis, Online-Buchung und auf Wunsch Kartenzahlung bei langen oder teuren Behandlungen. Alles beginnt mit einem kostenlosen Erstgespräch von 20 Minuten, und das Design genehmigen Sie, bevor Sie etwas bezahlen. Ich arbeite remote und direkt mit Ihnen.",
+    "pains_title": "Wo im Kosmetikstudio Zeit verloren geht",
+    "pains": [
+      "Eine Gesichtsbehandlung dauert eine Stunde oder länger, und mittendrin gehen Sie nicht ans Telefon. Wer buchen möchte, erreicht Sie nicht, und nach der Behandlung warten mehrere verpasste Anrufe auf Sie.",
+      "Ihre Preisliste steckt in einem PDF, auf Instagram oder nur in Ihrem Kopf. Kundinnen sehen nicht, was eine Behandlung umfasst, wie lange sie dauert und was sie kostet, also fragen sie zuerst per Nachricht nach.",
+      "Ein Termin von zwei Stunden für eine aufwendige Behandlung ist ein grosser Ausfall, wenn die Kundin nicht erscheint. Ohne verbindliche Buchung und ohne die Möglichkeit, im Voraus zu bezahlen, tragen Sie dieses Risiko allein.",
+      "Vor der ersten Behandlung kommen Fragen: Darf ich geschminkt kommen? Wie bereite ich mich vor? Wie lange halten Wimpernverlängerungen? Jede Woche tippen Sie dieselben Antworten in Nachrichten, oft spät am Abend."
+    ],
+    "included_title": "Was zum Webdesign für Ihr Kosmetikstudio gehört",
+    "included": [
+      {
+        "title": "Behandlungen mit Dauer und Preis",
+        "text": "Alle Behandlungen in einer klaren Übersicht: was sie umfassen, wie lange sie dauern, was sie kosten. Gruppiert so, wie Kundinnen denken, etwa Gesicht, Körper, Nägel und Wimpern. So wissen sie vor dem Buchen, was sie erwartet."
+      },
+      {
+        "title": "Online-Buchung für lange Termine",
+        "text": "Kundinnen wählen zuerst die Behandlung und dann einen Tag und eine Uhrzeit, die zur Dauer passen. Sie erhalten eine Bestätigung per E-Mail oder SMS, und die Buchung steht in Ihrem Kalender, ohne dass Sie einen Anruf annehmen."
+      },
+      {
+        "title": "Beratung vor der Behandlung",
+        "text": "Für Behandlungen, die zuerst ein Gespräch brauchen, lässt sich ein eigener Beratungstermin buchen statt der Behandlung selbst. Sie lernen die Kundin kennen, besprechen, was zu ihr passt, und planen danach die Behandlung mit der Zeit, die sie wirklich braucht."
+      },
+      {
+        "title": "Kartenzahlung beim Buchen (optional)",
+        "text": "Bei teuren oder langen Behandlungen können Kundinnen schon beim Buchen mit Karte bezahlen. Das ist freiwillig: Sie entscheiden, ob Sie es überhaupt nutzen. Wo es für Ihr Studio sinnvoll ist und wo nicht, klären wir im Erstgespräch."
+      },
+      {
+        "title": "Eigene Bereiche für Nägel und Wimpern",
+        "text": "Nagel- und Wimpernbehandlungen bekommen eigene Abschnitte mit den Details, die Kundinnen suchen: Techniken, Auffüllen, Dauer einer Neumodellage. Das passt, wenn Sie ein Nagelstudio führen oder neben Ihren Kosmetikbehandlungen auch Wimpern anbieten."
+      },
+      {
+        "title": "Assistent für Fragen vor der Behandlung",
+        "text": "Der KI-Assistent beantwortet häufige Fragen rund um die Uhr, mit den Informationen Ihres Studios: Vorbereitung, was man vorher vermeiden sollte, Dauer einer Behandlung. Medizinische Ratschläge gibt er keine. Möchte jemand buchen, speichert er die Kontaktdaten und informiert Sie."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Was gehört auf die Website eines Kosmetikstudios?",
+        "a": "Das Wichtigste ist die Behandlungsübersicht: was, wie lange, zu welchem Preis. Dazu Online-Buchung, Fotos Ihrer Räume und Ihrer Arbeit, Öffnungszeiten, Anfahrt und ein kurzer Text über Sie. Kommen vor Behandlungen oft dieselben Fragen, gehört eine Seite zur Vorbereitung dazu oder ein Assistent, der diese Fragen beantwortet."
+      },
+      {
+        "q": "Können Kundinnen Behandlungen online buchen und direkt bezahlen?",
+        "a": "Ja. Sie wählen Behandlung, Tag und Uhrzeit und erhalten eine Bestätigung per E-Mail oder SMS. Die Kartenzahlung beim Buchen ist optional. Am meisten Sinn ergibt sie bei langen oder teuren Behandlungen, bei denen ein leerer Termin am meisten kostet. Ob Sie sie einschalten, entscheiden Sie; wir besprechen es im Erstgespräch."
+      },
+      {
+        "q": "Wie stelle ich Behandlungen und Dauer übersichtlich dar?",
+        "a": "Nach Kategorien geordnet, jede Behandlung mit kurzer Beschreibung, Dauer und Preis. Kundinnen sollen auf einen Blick sehen, ob sie in ihren Zeitplan und ihr Budget passt. Bei längeren Behandlungen hilft eine kurze Beschreibung des Ablaufs. Der Buchungskalender arbeitet mit denselben Zeiten, damit niemand eine 90-minütige Behandlung in eine Lücke von 30 Minuten bucht."
+      },
+      {
+        "q": "Kann der KI-Assistent Fragen vor einer Behandlung beantworten?",
+        "a": "Die praktischen, ja, mit den Informationen, die Sie ihm geben: Vorbereitung, Dauer, Ablauf, Ihre Pflegetipps für danach. Medizinische Ratschläge, etwa zu Hautproblemen oder Allergien, gibt er nicht; solche Fragen verweist er an Sie. Er antwortet rund um die Uhr und meldet Ihnen, wenn jemand buchen möchte."
+      },
+      {
+        "q": "Passt das auch für Nagelstudios und Beauty-Salons?",
+        "a": "Ja. Nagel- und Wimpernarbeit hat eigene Abläufe: Neumodellage, Auffüllen, Ablösen und sehr unterschiedlich lange Termine. Übersicht und Buchung werden nach diesen Leistungen aufgebaut, statt ein Nagelstudio in ein Layout für Gesichtsbehandlungen zu zwängen. Für Beauty-Salons mit gemischtem Angebot gilt dasselbe: Jeder Bereich bekommt seinen eigenen Platz."
+      },
+      {
+        "q": "Was kostet eine Website für ein Kosmetikstudio?",
+        "a": "Sie erhalten nach dem kostenlosen Erstgespräch eine persönliche Offerte, keinen Pauschalpreis. Bei einem Kosmetikstudio bestimmen vor allem diese Punkte den Aufwand: wie viele Behandlungen und Kategorien Ihr Angebot hat, ob Online-Buchung und Kartenzahlung dazugehören, in wie vielen Sprachen die Website erscheint und ob der KI-Assistent Teil davon ist."
+      }
+    ],
+    "service_type": "Webdesign für Kosmetikstudios und Beauty-Salons"
+  },
+  "es": {
+    "nav": "Webs para centros de estética",
+    "teaser": "Webs para centros de estética, uñas y pestañas en Suiza: tratamientos con duración, reservas online para citas largas y pago con tarjeta opcional.",
+    "title": "Diseño web para centros de estética | Jordi Mora",
+    "desc": "Web para tu centro de estética: tratamientos con duración, reservas online y pago con tarjeta opcional. Apruebas el diseño antes de pagar. Llamada gratis.",
+    "h1": "Diseño web para centros de estética y estudios de uñas",
+    "intro": "La web de tu centro tiene que mostrar bien tus tratamientos y hacer fácil reservarlos. Hago diseño web para centros de estética, salones de belleza y estudios de uñas y pestañas en toda Suiza: tratamientos con duración y precio, reservas online y, si quieres, pago con tarjeta al reservar los tratamientos largos o caros. Empezamos con una llamada gratuita de 20 minutos y apruebas el diseño antes de pagar nada. Trabajo en remoto y directamente contigo.",
+    "pains_title": "Dónde pierde tiempo un centro de estética",
+    "pains": [
+      "Un tratamiento facial dura una hora o más y no puedes pararlo a mitad para coger el teléfono. Quien quiere reservar no te encuentra, y al terminar tienes varias llamadas perdidas esperándote.",
+      "Tu lista de tratamientos está en un PDF, en Instagram o solo en tu cabeza. Tus clientas no ven qué incluye cada tratamiento, cuánto dura ni cuánto cuesta, así que te escriben para preguntar antes de reservar.",
+      "Una cita de dos horas para un tratamiento caro es una pérdida importante si la clienta no aparece. Sin una reserva en firme, y sin la opción de pagar por adelantado, ese riesgo lo asumes solo tú.",
+      "Antes del primer tratamiento siempre hay dudas: ¿puedo venir maquillada?, ¿cómo me preparo?, ¿cuánto duran las extensiones de pestañas? Cada semana escribes las mismas respuestas por mensaje, muchas veces ya de noche."
+    ],
+    "included_title": "Qué incluye la web de tu centro de estética o salón de belleza",
+    "included": [
+      {
+        "title": "Tratamientos con duración y precio",
+        "text": "Todos tus tratamientos en una lista clara: qué incluyen, cuánto duran y cuánto cuestan, agrupados como piensan tus clientas, por ejemplo facial, corporal, uñas y pestañas. Así saben qué están reservando antes de reservarlo."
+      },
+      {
+        "title": "Reservas online para citas largas",
+        "text": "Tus clientas eligen primero el tratamiento y después un día y una hora que encajen con su duración. Reciben la confirmación por email o SMS, y la reserva aparece en tu calendario sin que atiendas ni una llamada."
+      },
+      {
+        "title": "Citas de consulta previa",
+        "text": "Para los tratamientos que necesitan una conversación antes, tus clientas pueden reservar una consulta aparte en lugar del tratamiento. En esa cita conoces a la clienta, ves qué le conviene y después planificas el tratamiento con el tiempo que de verdad necesita."
+      },
+      {
+        "title": "Pago con tarjeta al reservar (opcional)",
+        "text": "En tratamientos caros o largos, tus clientas pueden pagar con tarjeta al hacer la reserva. Es opcional: tú decides si lo usas o no. En la llamada vemos dónde tiene sentido para tu centro y dónde no."
+      },
+      {
+        "title": "Secciones propias para uñas y pestañas",
+        "text": "Las uñas y las pestañas tienen su propio espacio, con los detalles que buscan tus clientas: técnicas, rellenos, cuánto dura una puesta nueva. Útil si tienes un estudio de uñas u ofreces pestañas junto a tus tratamientos de estética."
+      },
+      {
+        "title": "Asistente para dudas antes del tratamiento",
+        "text": "El asistente de IA responde las preguntas frecuentes 24/7 con la información de tu centro: cómo prepararse, qué evitar antes, cuánto dura cada tratamiento. No da consejos médicos. Si alguien quiere reservar, guarda sus datos y te avisa."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué debe tener la web de un centro de estética?",
+        "a": "Lo más importante es la lista de tratamientos: qué es cada uno, cuánto dura y cuánto cuesta. Además, reservas online, fotos de tu centro y de tus trabajos, horarios, cómo llegar y un texto breve sobre ti. Si antes de los tratamientos siempre te hacen las mismas preguntas, añade una página de preparación o un asistente que las responda."
+      },
+      {
+        "q": "¿Se pueden reservar y pagar tratamientos online?",
+        "a": "Sí. Tus clientas eligen tratamiento, día y hora, y reciben la confirmación por email o SMS. El pago con tarjeta al reservar es opcional. Tiene más sentido en tratamientos largos o caros, donde un hueco vacío te cuesta más. Tú decides si lo activas, y lo hablamos con calma en la llamada."
+      },
+      {
+        "q": "¿Sirve para centros de uñas y pestañas?",
+        "a": "Sí. Las uñas y las pestañas tienen su propia lógica: puesta nueva, relleno, retirada y citas de duración muy distinta. La lista de servicios y las reservas se organizan en torno a eso, en lugar de meter un estudio de uñas en un diseño pensado para tratamientos faciales."
+      },
+      {
+        "q": "¿El asistente de IA responde dudas antes del tratamiento?",
+        "a": "Las prácticas, sí, con la información que tú le das: cómo prepararse, cuánto dura, cómo es la sesión, qué cuidados recomiendas después. No da consejos médicos, por ejemplo sobre problemas de piel o alergias; esas preguntas te las deriva a ti. Responde 24/7 y te avisa cuando alguien quiere reservar."
+      },
+      {
+        "q": "¿Cómo mostrar tratamientos y duración?",
+        "a": "Por categorías, y cada tratamiento con una descripción corta, la duración y el precio. Tus clientas tienen que ver de un vistazo si encaja con su tiempo y su presupuesto. En los tratamientos largos ayuda explicar los pasos. El calendario de reservas usa las mismas duraciones, para que nadie reserve un tratamiento de 90 minutos en un hueco de 30."
+      },
+      {
+        "q": "¿Cuánto cuesta una web para un centro de estética?",
+        "a": "Recibes un presupuesto personalizado después de la llamada gratuita, no una tarifa cerrada. En un centro de estética, el coste depende sobre todo de cuántos tratamientos y categorías tienes, de si quieres reservas online y pago con tarjeta, de en cuántos idiomas estará la web y de si incluye el asistente de IA."
+      }
+    ],
+    "service_type": "Diseño web para centros de estética y salones de belleza"
+  }
+}

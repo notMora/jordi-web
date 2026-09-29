@@ -1,0 +1,217 @@
+{
+  "order": 13,
+  "type": "industry",
+  "slug": {
+    "en": "website-for-tradespeople",
+    "de": "website-fuer-handwerker",
+    "es": "diseno-web-para-empresas-de-reformas"
+  },
+  "related": ["web-design", "ai-assistant", "online-booking"],
+  "en": {
+    "nav": "Websites for tradespeople",
+    "teaser": "Websites for tradespeople in Switzerland: quote requests with photos, site visits booked online and enquiries that wait for you while you're on a job.",
+    "title": "Website for Tradespeople in Switzerland | Jordi Mora",
+    "desc": "A website for your trade business: quote requests with photos, site visits booked online, an assistant that answers while you work. Free 20-minute call.",
+    "h1": "Website for tradespeople: clear quote requests while you're on site",
+    "intro": "When you're on site all day, your website has to handle enquiries for you. I build websites for tradespeople in Switzerland, from painters and electricians to plumbers, joiners and gardeners. Customers see what you do and where you work, send a quote request with photos, or book a site visit online. It starts with a free 20-minute call, and you approve the design before paying anything. I work remotely and directly with you.",
+    "pains_title": "Where enquiries get lost today",
+    "pains": [
+      "You're up a ladder or under a sink when the phone rings. You can't answer, the caller doesn't leave a message, and by evening you have no idea who it was or what they needed.",
+      "Enquiries arrive as a vague 'can you come and have a look?' with no photos, measurements or address. You drive out and find a job that's too small, too far away or not your trade at all.",
+      "People who find you online can't tell exactly what you do or where you work. So you get calls about jobs you don't take on and from places well outside the area you cover.",
+      "Customers compare several companies before they decide, and they want to know what happens after they get in touch. If your website doesn't explain the steps from enquiry to quote to finished job, they pick someone whose website does."
+    ],
+    "included_title": "What's included in website design for tradespeople",
+    "included": [
+      {
+        "title": "Quote requests with photos and details",
+        "text": "A request form built around your trade: what needs doing, where, roughly how big and by when, with space to attach photos. You get enquiries you can price or plan, instead of a missed call and a guess."
+      },
+      {
+        "title": "Site visits booked online",
+        "text": "Customers pick a day and time for a site visit from the slots you make available, and get a confirmation by email or SMS. No more arranging visits by phone between two jobs."
+      },
+      {
+        "title": "Your trades and services, clearly shown",
+        "text": "Painting, electrical work, joinery, garden work: one section per trade or service, in plain words, with photos of jobs you've actually done. Customers see quickly whether you're the right company for their project."
+      },
+      {
+        "title": "Your service area",
+        "text": "A clear list or map of the regions and towns you cover. People outside your area know straight away, and people inside it can see at a glance that you work where they live."
+      },
+      {
+        "title": "How a job works, step by step",
+        "text": "From the first enquiry to the site visit, the written quote, the work itself and the final invoice: a short, honest overview of how you work. Customers know what to expect before they contact you."
+      },
+      {
+        "title": "An assistant while you're on the job",
+        "text": "While you're working, the AI assistant on your website answers common questions 24/7 from your information, saves the customer's details and lets you know when someone wants a quote. If they then go quiet, it follows up with them."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What should a tradesperson's website include?",
+        "a": "Your trades and services, the area you cover, photos of real jobs, a clear process from enquiry to quote, a quote request form and buttons to call or message you on WhatsApp. If you do site visits, let customers book them online. Keep it simple: people want to know quickly whether you can do their job."
+      },
+      {
+        "q": "How do I get more quote requests through my website?",
+        "a": "I can't promise a number of requests. What you can control is how easy it is to ask: a form that's quick to fill in on a phone, a call button that's always visible, your service area stated plainly, and photos of your work. Ask for the details you need to price a job, such as photos and rough measurements, so each request is one you can act on."
+      },
+      {
+        "q": "What happens to enquiries while I'm on a job?",
+        "a": "They wait for you instead of getting lost. Quote requests from the form reach you by email with all the details. If you add the AI assistant, it answers common questions on your website 24/7, saves the customer's details and lets you know when someone wants a quote. It works on your website only, not on your phone line."
+      },
+      {
+        "q": "Can customers book a site visit online?",
+        "a": "Yes. You decide which days and times are open for visits, and customers pick the one that suits them. They get a confirmation by email or SMS. When booking, they can add the address and a short description of the job, so you arrive knowing what you're going to look at."
+      },
+      {
+        "q": "Do you build websites for plumbers, electricians and painters?",
+        "a": "Yes, and for joiners, gardeners and other trades. The structure follows the trade: a painter shows photos of finished rooms, an electrician lists the kinds of installation they handle, a gardener presents seasonal work. If you offer several trades, each one gets its own section on the same website."
+      },
+      {
+        "q": "How much does a website for tradespeople cost?",
+        "a": "We go through it on the free call, and then you get a personalised quote. For a trade business, the cost depends mainly on how many trades and services you want to show, whether you need a quote form with photo upload, online booking for site visits or the AI assistant, and how many languages the site needs. Nothing is paid until you've approved the design."
+      }
+    ],
+    "service_type": "Web design for tradespeople and trade businesses"
+  },
+  "de": {
+    "nav": "Website für Handwerker",
+    "teaser": "Websites für Handwerksbetriebe in der Schweiz: Offertanfragen mit Fotos, Besichtigungen online gebucht und ein Assistent, der antwortet, während Sie auf der Baustelle sind.",
+    "title": "Website für Handwerker in der Schweiz | Jordi Mora",
+    "desc": "Website für Ihren Handwerksbetrieb: Offertanfragen mit Fotos, Besichtigungen online buchbar, KI-Assistent, während Sie arbeiten. Kostenloses Erstgespräch.",
+    "h1": "Website für Handwerker: klare Anfragen, auch während der Arbeit",
+    "intro": "Wenn Sie den ganzen Tag auf der Baustelle sind, muss Ihre Website Anfragen für Sie entgegennehmen. Ich erstelle Websites für Handwerker in der ganzen Schweiz, für Maler, Elektriker, Schreinereien, Gartenbau und andere Gewerke. Kundinnen und Kunden sehen, was Sie machen und wo Sie arbeiten, schicken eine Offertanfrage mit Fotos oder buchen online eine Besichtigung. Alles beginnt mit einem kostenlosen Erstgespräch von 20 Minuten; das Design genehmigen Sie vor jeder Zahlung.",
+    "pains_title": "Wo heute Anfragen verloren gehen",
+    "pains": [
+      "Sie stehen auf der Leiter oder liegen unter dem Lavabo, wenn das Telefon klingelt. Abnehmen geht nicht, eine Nachricht hinterlässt niemand, und am Abend wissen Sie nicht, wer angerufen hat und was er wollte.",
+      "Anfragen kommen als vages «Können Sie mal vorbeischauen?», ohne Fotos, Masse oder Adresse. Sie fahren hin und sehen erst dann: Der Auftrag ist zu klein, zu weit weg oder gar nicht Ihr Fachgebiet.",
+      "Wer Sie online findet, erkennt nicht, was Sie genau machen und in welcher Region Sie arbeiten. Also bekommen Sie Anrufe für Arbeiten, die Sie nicht übernehmen, und aus Orten weit ausserhalb Ihres Einsatzgebiets.",
+      "Kundinnen und Kunden holen mehrere Offerten ein und wollen wissen, was nach ihrer Anfrage passiert. Erklärt Ihre Website den Weg von der Anfrage über die Offerte bis zur Ausführung nicht, entscheiden sie sich für jemanden, dessen Website es tut."
+    ],
+    "included_title": "Was zum Webdesign für Handwerker gehört",
+    "included": [
+      {
+        "title": "Offertanfragen mit Fotos und Details",
+        "text": "Ein Anfrageformular, das zu Ihrem Handwerk passt: was zu tun ist, wo, ungefähr wie gross und bis wann, mit der Möglichkeit, Fotos anzuhängen. So erhalten Sie Anfragen, die Sie kalkulieren oder planen können, statt eines verpassten Anrufs."
+      },
+      {
+        "title": "Besichtigungstermine online buchen",
+        "text": "Kundinnen und Kunden wählen für die Besichtigung einen Tag und eine Uhrzeit aus den Zeiten, die Sie freigeben, und erhalten eine Bestätigung per E-Mail oder SMS. Termine zwischen zwei Einsätzen am Telefon abmachen entfällt."
+      },
+      {
+        "title": "Ihre Gewerke klar gezeigt",
+        "text": "Malerarbeiten, Elektroinstallationen, Schreinerarbeiten, Gartenbau: pro Gewerk oder Leistung ein eigener Abschnitt, in einfachen Worten und mit Fotos Ihrer eigenen Arbeiten. So sieht man schnell, ob Sie der richtige Betrieb für das Projekt sind."
+      },
+      {
+        "title": "Ihr Einsatzgebiet auf einen Blick",
+        "text": "Eine klare Liste oder Karte der Regionen und Gemeinden, in denen Sie arbeiten. Wer ausserhalb wohnt, weiss es sofort, und wer in Ihrer Nähe ist, sieht auf einen Blick, dass Sie in seiner Region tätig sind."
+      },
+      {
+        "title": "Ablauf Schritt für Schritt",
+        "text": "Von der ersten Anfrage über die Besichtigung, die schriftliche Offerte und die Ausführung bis zur Rechnung: eine kurze, ehrliche Übersicht über Ihren Ablauf. Kundinnen und Kunden wissen, was sie erwartet, bevor sie sich melden."
+      },
+      {
+        "title": "Assistent, während Sie arbeiten",
+        "text": "Während Sie auf der Baustelle sind, beantwortet der KI-Assistent auf Ihrer Website häufige Fragen rund um die Uhr, speichert die Kontaktdaten und meldet Ihnen, wenn jemand eine Offerte möchte. Meldet sich die Person danach nicht mehr, fasst er nach."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Was gehört auf eine Handwerker-Website?",
+        "a": "Ihre Gewerke und Leistungen, Ihr Einsatzgebiet, Fotos echter Arbeiten, ein klarer Ablauf von der Anfrage bis zur Offerte, ein Anfrageformular und Buttons für Anruf und WhatsApp. Machen Sie Besichtigungen, sollte man diese online buchen können. Halten Sie es einfach: Die Leute wollen schnell wissen, ob Sie ihren Auftrag übernehmen können."
+      },
+      {
+        "q": "Wie bekomme ich über die Website mehr Offertanfragen?",
+        "a": "Eine bestimmte Zahl kann ich nicht versprechen. Beeinflussen können Sie, wie einfach das Anfragen ist: ein Formular, das sich auf dem Handy schnell ausfüllen lässt, ein Anruf-Button, der immer sichtbar ist, ein klar genanntes Einsatzgebiet und Fotos Ihrer Arbeit. Fragen Sie nach den Angaben, die Sie für eine Offerte brauchen, etwa Fotos und ungefähre Masse. Dann ist jede Anfrage brauchbar."
+      },
+      {
+        "q": "Was passiert mit Anfragen, während ich auf der Baustelle bin?",
+        "a": "Sie warten auf Sie, statt verloren zu gehen. Anfragen über das Formular kommen per E-Mail mit allen Angaben bei Ihnen an. Mit dem KI-Assistenten werden auf Ihrer Website zudem häufige Fragen rund um die Uhr beantwortet und Kontaktdaten gespeichert, und Sie erfahren, wenn jemand eine Offerte möchte. Er arbeitet nur auf der Website, nicht am Telefon."
+      },
+      {
+        "q": "Können Kunden einen Besichtigungstermin online buchen?",
+        "a": "Ja. Sie legen fest, an welchen Tagen und zu welchen Zeiten Besichtigungen möglich sind, und die Kundschaft wählt einen passenden Termin. Danach kommt eine Bestätigung per E-Mail oder SMS. Beim Buchen lassen sich die Adresse und eine kurze Beschreibung des Auftrags angeben, damit Sie wissen, was Sie vor Ort erwartet."
+      },
+      {
+        "q": "Passt das für Maler, Elektriker, Schreiner und Gartenbau?",
+        "a": "Ja, und auch für andere Gewerke. Der Aufbau richtet sich nach Ihrem Handwerk: Ein Maler zeigt Fotos fertiger Räume, eine Elektrikerin die Arten von Installationen, die sie übernimmt, ein Gartenbaubetrieb seine saisonalen Arbeiten. Bieten Sie mehrere Gewerke an, bekommt jedes einen eigenen Abschnitt auf derselben Website."
+      },
+      {
+        "q": "Was kostet eine Website für Handwerker?",
+        "a": "Das schauen wir im kostenlosen Erstgespräch an; danach bekommen Sie eine persönliche Offerte. Bei einem Handwerksbetrieb hängt der Aufwand vor allem davon ab, wie viele Gewerke und Leistungen Sie zeigen möchten, ob ein Anfrageformular mit Foto-Upload, eine Online-Buchung für Besichtigungen oder der KI-Assistent dazugehören und in wie vielen Sprachen die Website erscheint. Bezahlt wird erst, wenn Sie das Design freigegeben haben."
+      }
+    ],
+    "service_type": "Webdesign für Handwerker und Handwerksbetriebe"
+  },
+  "es": {
+    "nav": "Webs para empresas de reformas",
+    "teaser": "Webs para empresas de reformas y oficios en Suiza: solicitudes de presupuesto con fotos, visitas reservadas online y un asistente que responde mientras trabajas.",
+    "title": "Diseño web para empresas de reformas | Jordi Mora",
+    "desc": "Web para tu empresa de reformas: solicitudes de presupuesto con fotos, visitas online y un asistente que responde mientras trabajas. Llamada gratis.",
+    "h1": "Diseño web para empresas de reformas, fontaneros y electricistas",
+    "intro": "Si pasas el día en obra, tu web tiene que recoger las solicitudes por ti. Hago diseño web para empresas de reformas y oficios en toda Suiza: fontaneros, electricistas, pintores, carpinteros o jardineros. Tus clientes ven qué haces y dónde trabajas, te envían una solicitud de presupuesto con fotos o reservan una visita online. Empezamos con una llamada gratuita de 20 minutos y apruebas el diseño antes de pagar nada.",
+    "pains_title": "Dónde se pierden hoy las solicitudes",
+    "pains": [
+      "Estás en una escalera o debajo de un lavabo cuando suena el teléfono. No puedes contestar, nadie deja mensaje y por la noche no sabes quién llamó ni qué necesitaba.",
+      "Las consultas llegan como un vago «¿puedes venir a echar un vistazo?», sin fotos, medidas ni dirección. Vas hasta allí y resulta que el trabajo es demasiado pequeño, está demasiado lejos o no es de tu oficio.",
+      "Quien te encuentra en internet no ve con claridad qué haces ni en qué zona trabajas. Así recibes llamadas por trabajos que no haces y desde lugares que quedan muy fuera de tu zona.",
+      "Los clientes piden varios presupuestos antes de decidir y quieren saber qué pasa después de contactarte. Si tu web no explica los pasos desde la consulta hasta el presupuesto y la obra, eligen a alguien cuya web sí lo explica."
+    ],
+    "included_title": "Qué incluye el diseño web para fontaneros, electricistas y reformas",
+    "included": [
+      {
+        "title": "Solicitudes de presupuesto con fotos",
+        "text": "Un formulario pensado para tu oficio: qué hay que hacer, dónde, de qué tamaño más o menos y para cuándo, con opción de adjuntar fotos. Recibes solicitudes que puedes presupuestar o planificar, en lugar de una llamada perdida."
+      },
+      {
+        "title": "Visitas reservadas online",
+        "text": "Tus clientes eligen día y hora para la visita entre los huecos que tú dejas libres y reciben la confirmación por email o SMS. Se acabó cuadrar citas por teléfono entre un trabajo y otro."
+      },
+      {
+        "title": "Tus oficios y servicios, bien explicados",
+        "text": "Fontanería, electricidad, pintura, carpintería, jardinería: una sección por oficio o servicio, con palabras sencillas y fotos de tus propios trabajos. Así se ve rápido si eres la empresa adecuada para cada proyecto."
+      },
+      {
+        "title": "Tu zona de trabajo, clara",
+        "text": "Una lista o un mapa claro con las regiones y localidades donde trabajas. Quien vive fuera lo sabe al momento, y quien vive cerca ve de un vistazo que trabajas en su zona."
+      },
+      {
+        "title": "Cómo trabajas, paso a paso",
+        "text": "Desde la primera consulta hasta la visita, el presupuesto por escrito, la obra y la factura: un resumen breve y honesto de tu forma de trabajar. Tus clientes saben qué esperar antes de contactarte."
+      },
+      {
+        "title": "Un asistente mientras trabajas",
+        "text": "Mientras estás en obra, el asistente de IA de tu web responde las preguntas frecuentes 24/7, guarda los datos de contacto y te avisa cuando alguien quiere un presupuesto. Si después esa persona no responde, le hace seguimiento."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué debe tener la web de una empresa de reformas?",
+        "a": "Tus oficios y servicios, la zona donde trabajas, fotos de trabajos reales, un proceso claro desde la consulta hasta el presupuesto, un formulario de solicitud y botones para llamar o escribir por WhatsApp. Si haces visitas, que se puedan reservar online. Mejor sencillo: la gente quiere saber rápido si puedes hacer su trabajo."
+      },
+      {
+        "q": "¿Cómo conseguir más solicitudes de presupuesto?",
+        "a": "No puedo prometerte una cifra. Lo que sí puedes controlar es lo fácil que resulta pedirte presupuesto: un formulario cómodo de rellenar en el móvil, un botón de llamada siempre visible, tu zona de trabajo bien indicada y fotos de tus obras. Pide los datos que necesitas para presupuestar, como fotos y medidas aproximadas, y cada solicitud te servirá."
+      },
+      {
+        "q": "¿Qué pasa con las consultas mientras estoy en una obra?",
+        "a": "Te esperan en lugar de perderse. Las solicitudes del formulario te llegan por email con todos los datos. Si añades el asistente de IA, responde en tu web las preguntas frecuentes 24/7, guarda los datos del cliente y te avisa cuando alguien quiere un presupuesto. Funciona solo en la web, no en tu teléfono."
+      },
+      {
+        "q": "¿Pueden reservar una visita online?",
+        "a": "Sí. Tú decides qué días y horas hay disponibles para visitas, y tus clientes eligen el hueco que les va bien. Reciben la confirmación por email o SMS. Al reservar pueden indicar la dirección y una breve descripción del trabajo, para que llegues sabiendo qué vas a ver."
+      },
+      {
+        "q": "¿Sirve para fontaneros y electricistas?",
+        "a": "Sí, y también para pintores, carpinteros, jardineros y otros oficios. La estructura se adapta a cada uno: un pintor enseña fotos de espacios terminados, una electricista explica qué tipos de instalación hace y un jardinero muestra sus trabajos de temporada. Si ofreces varios oficios, cada uno tiene su propia sección en la misma web."
+      },
+      {
+        "q": "¿Cuánto cuesta una web para una empresa de reformas?",
+        "a": "Lo vemos en la llamada gratuita y después recibes un presupuesto personalizado. En una empresa de reformas, el coste depende sobre todo de cuántos oficios y servicios quieres mostrar, de si necesitas un formulario con fotos, reservas online para visitas o el asistente de IA, y de en cuántos idiomas estará la web. No pagas nada hasta aprobar el diseño."
+      }
+    ],
+    "service_type": "Diseño web para empresas de reformas y oficios"
+  }
+}

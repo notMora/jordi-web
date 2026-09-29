@@ -8,7 +8,7 @@ This project uses the Web Creation System. Its only purpose is building, analysi
 
 ## System map
 - Entry point: `web-orchestrator` agent (run `claude --agent web-orchestrator`, or @-mention it).
-- Subagents: `web-researcher`, `reference-analyst`, `ux-ui-designer`, `web-builder`, `visual-qa` (in `.claude/agents/`).
+- Subagents: `web-researcher`, `reference-analyst`, `ux-ui-designer`, `web-builder`, `visual-qa`, `seo-specialist` (in `.claude/agents/`).
 - Skills: `.claude/skills/*/SKILL.md`. They load on demand or are preloaded into the agent that needs them.
-- Working state for the current website: `.web-work/` (brief, research, reference analysis, design direction, decision log, QA report). Read it before redoing any phase.
+- Working state for the current website: `.web-work/` (brief, research, reference analysis, design direction, decision log, QA report, SEO brief/keyword map/report). Read it before redoing any phase.
 - Workflow: intake → research → reference analysis → design direction → plan → build → browser QA → final audit → handoff.

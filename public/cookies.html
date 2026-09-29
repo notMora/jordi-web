@@ -4,9 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cookie Policy | Jordi Mora — Web Design &amp; AI Automation</title>
-  <meta name="description" content="This website sets no cookies. It only stores your language preference in your browser.">
+  <meta name="description" content="Cookies on this website: Google Analytics only with your consent, plus technical storage of your language and cookie choice.">
+  <link rel="canonical" href="https://moradesign.shop/cookies.html">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="assets/css/legal.css?v=3d17b4c9be">
+  <link rel="stylesheet" href="assets/css/legal.css?v=84aadfd8af">
 </head>
 <body class="bg-background font-sans text-on-surface antialiased selection:bg-primary-container selection:text-on-primary-fixed">
 
@@ -14,7 +15,7 @@
   <header class="fixed top-0 left-0 right-0 z-50 bg-[#0e0e0e]/95 backdrop-blur border-b border-[#262626]">
     <div class="h-20 max-w-[1200px] mx-auto px-4 sm:px-6 flex items-center justify-between gap-3">
       <div class="flex items-center gap-4">
-        <a href="./" class="text-xs font-semibold uppercase tracking-[0.25em] text-white hover:text-primary-container transition-colors">JORDI MORA</a>
+        <a href="/" data-home class="text-xs font-semibold uppercase tracking-[0.25em] text-white hover:text-primary-container transition-colors">JORDI MORA</a>
         <span class="hidden md:inline-block text-[11px] uppercase tracking-widest text-[#8E8E8E] pl-3 border-l border-[#333333]">
           <span data-lang="en">Legal / Cookies</span><span data-lang="es" hidden>Legal / Cookies</span><span data-lang="de" hidden>Rechtliches / Cookies</span>
         </span>
@@ -25,7 +26,7 @@
           <button type="button" class="lang-btn" data-set-lang="es" aria-pressed="false">ES</button>
           <button type="button" class="lang-btn" data-set-lang="de" aria-pressed="false">DE</button>
         </div>
-        <a href="./" class="relative inline-flex items-center gap-2 text-xs uppercase tracking-wider text-[#8E8E8E] hover:text-white transition-colors border border-[#333333] px-2.5 sm:px-3.5 py-1.5 sm:py-2 hover:border-[#C6FF3D]">
+        <a href="/" data-home class="relative inline-flex items-center gap-2 text-xs uppercase tracking-wider text-[#8E8E8E] hover:text-white transition-colors border border-[#333333] px-2.5 sm:px-3.5 py-1.5 sm:py-2 hover:border-[#C6FF3D]">
           <span class="material-symbols-outlined text-[16px]" aria-hidden="true">arrow_back</span>
           <span class="sr-only sm:not-sr-only"><span data-lang="en">Back to site</span><span data-lang="es" hidden>Volver a la web</span><span data-lang="de" hidden>Zur Website</span></span>
         </a>
@@ -56,8 +57,9 @@
           <span class="material-symbols-outlined text-[20px]" aria-hidden="true">verified_user</span>
           <span>Do I have to accept cookies?</span>
         </p>
-        <h2 class="text-xl sm:text-2xl font-bold text-white mb-3">No. This website sets no cookies, so you won't see a cookie banner.</h2>
-        <p class="text-sm leading-relaxed text-[#C6C6C7]">It only stores the language you choose, and only once you pick one. That is technical storage that identifies no one, so under European rules (Art. 5(3) of the ePrivacy Directive 2002/58/EC) and Swiss rules (Art. 45c of the Telecommunications Act) it does not need your consent — you only need to be informed, which is what this page does.</p>
+        <h2 class="text-xl sm:text-2xl font-bold text-white mb-3">No. Analytics cookies are only set if you click "Accept" in the cookie banner.</h2>
+        <p class="text-sm leading-relaxed text-[#C6C6C7]">If you reject them, or simply ignore the banner, no cookies are set and the site works exactly the same. Apart from that, the site only stores the language you choose and your cookie choice. That is technical storage that identifies no one, so under European rules (Art. 5(3) of the ePrivacy Directive 2002/58/EC) and Swiss rules (Art. 45c of the Telecommunications Act) it does not need your consent — you only need to be informed, which is what this page does.</p>
+        <button type="button" data-consent-open class="hidden mt-5 border border-primary-container text-primary-container font-mono text-xs uppercase font-bold px-5 py-3 tracking-wider hover:bg-primary-container hover:text-black transition-colors">Change my cookie choice</button>
       </div>
 
       <div class="space-y-8 text-[15px] leading-relaxed text-[#C6C6C7]">
@@ -70,7 +72,27 @@
           <h2 class="sec">02 // What is stored in your browser</h2>
           <div class="box mb-4">
             <dl class="spec">
-              <dt>Cookies</dt><dd><strong class="text-primary-container">None</strong></dd>
+              <dt>Cookies</dt><dd><strong class="text-primary-container">None, unless you accept analytics cookies</strong></dd>
+            </dl>
+          </div>
+          <div class="box mb-4">
+            <dl class="spec">
+              <dt>Name</dt><dd class="text-primary-container font-bold">_ga · _ga_&lt;ID&gt;</dd>
+              <dt>Type</dt><dd>Cookies (analytics)</dd>
+              <dt>Provider</dt><dd>Google Analytics 4 (Google Ireland Limited / Google LLC)</dd>
+              <dt>Purpose</dt><dd>Tell visits apart and keep the session, to measure which pages are visited and which ones lead to enquiries (form sent, call booked, WhatsApp or email tapped).</dd>
+              <dt>Duration</dt><dd>Up to 2 years, or until you reject them or clear your browser data.</dd>
+              <dt>Consent needed</dt><dd class="text-primary-container font-semibold">Yes — only set after you click "Accept"</dd>
+            </dl>
+          </div>
+          <div class="box mb-4">
+            <dl class="spec">
+              <dt>Name</dt><dd class="text-primary-container font-bold">consent</dd>
+              <dt>Type</dt><dd>localStorage</dd>
+              <dt>Provider</dt><dd>This website (first party)</dd>
+              <dt>Purpose</dt><dd>Remembers whether you accepted or rejected analytics cookies, so the banner does not appear on every page.</dd>
+              <dt>Duration</dt><dd>Until you clear your browser data.</dd>
+              <dt>Consent needed</dt><dd class="text-primary-container font-semibold">No (technical storage)</dd>
             </dl>
           </div>
           <div class="box">
@@ -83,13 +105,14 @@
               <dt>Consent needed</dt><dd class="text-primary-container font-semibold">No (technical storage)</dd>
             </dl>
           </div>
-          <p class="mt-4 text-xs text-[#8E8E8E]">It contains no identifiers, IP address or location. Checked on 29 September 2026 by loading every page of the site in a clean browser.</p>
+          <p class="mt-4 text-xs text-[#8E8E8E]"><code>consent</code> and <code>lang</code> contain no identifiers, IP address or location.</p>
         </section>
 
         <section class="legal-card">
           <h2 class="sec">03 // External services the site connects to</h2>
-          <p class="mb-4">These services do not set cookies through this website, but they receive your IP address when your browser connects to them (needed to send you the content):</p>
+          <p class="mb-4">Your browser connects to these services, which receive your IP address in order to respond:</p>
           <ul class="space-y-3 text-sm">
+            <li class="box"><strong class="text-white">Google Analytics</strong> — only after you click "Accept" in the cookie banner. It sets the cookies listed above.</li>
             <li class="box"><strong class="text-white">Cal.com</strong> — checks available call times when you reach the booking section, and receives your booking details when you confirm a call.</li>
             <li class="box"><strong class="text-white">Formspree</strong> — only when you send the contact form.</li>
             <li class="box"><strong class="text-white">WhatsApp and Instagram</strong> — only if you tap their links; their own cookies apply on their sites.</li>
@@ -99,7 +122,7 @@
 
         <section class="legal-card">
           <h2 class="sec">04 // How to delete or block it</h2>
-          <p class="mb-4">You can delete local storage and block cookies for any website in your browser settings:</p>
+          <p class="mb-4">You can change your choice at any time with "Cookie settings" at the bottom of every page. Rejecting deletes the analytics cookies. You can also delete local storage and block cookies for any website in your browser settings:</p>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
             <div class="box"><strong class="text-white block mb-1">Google Chrome</strong><span class="text-[#8E8E8E]">Settings → Privacy and security → Third-party cookies / Site data.</span></div>
             <div class="box"><strong class="text-white block mb-1">Apple Safari</strong><span class="text-[#8E8E8E]">Settings → Privacy → Manage Website Data.</span></div>
@@ -110,7 +133,7 @@
 
         <section class="legal-card">
           <h2 class="sec">05 // Future changes</h2>
-          <p>If this website ever adds analytics (such as Google Analytics) or advertising pixels, I will update this policy and <strong>add a cookie banner first</strong>, so you can accept, reject or choose those cookies before any are set.</p>
+          <p>If this website ever adds other tools that set cookies, such as advertising pixels, I will update this policy and <strong>ask for your consent first</strong>, before any of them are set.</p>
         </section>
       </div>
 
@@ -144,8 +167,9 @@
           <span class="material-symbols-outlined text-[20px]" aria-hidden="true">verified_user</span>
           <span>¿Tengo que aceptar cookies?</span>
         </p>
-        <h2 class="text-xl sm:text-2xl font-bold text-white mb-3">No. Esta web no instala cookies, por eso no verás ningún aviso de cookies.</h2>
-        <p class="text-sm leading-relaxed text-[#C6C6C7]">Solo guarda el idioma que eliges, y solo cuando lo eliges. Es almacenamiento técnico que no identifica a nadie, así que según la normativa europea (art. 5.3 de la Directiva ePrivacy 2002/58/CE) y suiza (art. 45c de la Ley de Telecomunicaciones) no necesita tu consentimiento: basta con informarte, que es lo que hace esta página.</p>
+        <h2 class="text-xl sm:text-2xl font-bold text-white mb-3">No. Las cookies de analítica solo se instalan si pulsas «Aceptar» en el aviso de cookies.</h2>
+        <p class="text-sm leading-relaxed text-[#C6C6C7]">Si las rechazas, o simplemente ignoras el aviso, no se instala ninguna cookie y la web funciona exactamente igual. Aparte de eso, solo guarda el idioma que eliges y tu elección sobre las cookies. Es almacenamiento técnico que no identifica a nadie, así que según la normativa europea (art. 5.3 de la Directiva ePrivacy 2002/58/CE) y suiza (art. 45c de la Ley de Telecomunicaciones) no necesita tu consentimiento: basta con informarte, que es lo que hace esta página.</p>
+        <button type="button" data-consent-open class="hidden mt-5 border border-primary-container text-primary-container font-mono text-xs uppercase font-bold px-5 py-3 tracking-wider hover:bg-primary-container hover:text-black transition-colors">Cambiar mi elección de cookies</button>
       </div>
 
       <div class="space-y-8 text-[15px] leading-relaxed text-[#C6C6C7]">
@@ -158,7 +182,27 @@
           <h2 class="sec">02 // Qué se guarda en tu navegador</h2>
           <div class="box mb-4">
             <dl class="spec">
-              <dt>Cookies</dt><dd><strong class="text-primary-container">Ninguna</strong></dd>
+              <dt>Cookies</dt><dd><strong class="text-primary-container">Ninguna, salvo que aceptes las de analítica</strong></dd>
+            </dl>
+          </div>
+          <div class="box mb-4">
+            <dl class="spec">
+              <dt>Nombre</dt><dd class="text-primary-container font-bold">_ga · _ga_&lt;ID&gt;</dd>
+              <dt>Tipo</dt><dd>Cookies (analítica)</dd>
+              <dt>Proveedor</dt><dd>Google Analytics 4 (Google Ireland Limited / Google LLC)</dd>
+              <dt>Finalidad</dt><dd>Distinguir las visitas y mantener la sesión, para medir qué páginas se visitan y cuáles generan consultas (formulario enviado, llamada reservada, clic en WhatsApp o email).</dd>
+              <dt>Duración</dt><dd>Hasta 2 años, o hasta que las rechaces o borres los datos de tu navegador.</dd>
+              <dt>¿Requiere consentimiento?</dt><dd class="text-primary-container font-semibold">Sí — solo se instalan después de pulsar «Aceptar»</dd>
+            </dl>
+          </div>
+          <div class="box mb-4">
+            <dl class="spec">
+              <dt>Nombre</dt><dd class="text-primary-container font-bold">consent</dd>
+              <dt>Tipo</dt><dd>localStorage</dd>
+              <dt>Proveedor</dt><dd>Esta web (propia)</dd>
+              <dt>Finalidad</dt><dd>Recuerda si aceptaste o rechazaste las cookies de analítica, para que el aviso no aparezca en cada página.</dd>
+              <dt>Duración</dt><dd>Hasta que borres los datos de tu navegador.</dd>
+              <dt>¿Requiere consentimiento?</dt><dd class="text-primary-container font-semibold">No (almacenamiento técnico)</dd>
             </dl>
           </div>
           <div class="box">
@@ -171,13 +215,14 @@
               <dt>¿Requiere consentimiento?</dt><dd class="text-primary-container font-semibold">No (almacenamiento técnico)</dd>
             </dl>
           </div>
-          <p class="mt-4 text-xs text-[#8E8E8E]">No contiene identificadores, dirección IP ni ubicación. Comprobado el 29 de septiembre de 2026 cargando todas las páginas de la web en un navegador limpio.</p>
+          <p class="mt-4 text-xs text-[#8E8E8E]"><code>consent</code> y <code>lang</code> no contienen identificadores, dirección IP ni ubicación.</p>
         </section>
 
         <section class="legal-card">
           <h2 class="sec">03 // Servicios externos a los que se conecta la web</h2>
-          <p class="mb-4">Estos servicios no instalan cookies a través de esta web, pero reciben tu dirección IP cuando tu navegador se conecta a ellos (necesario para enviarte el contenido):</p>
+          <p class="mb-4">Tu navegador se conecta a estos servicios, que reciben tu dirección IP para poder responder:</p>
           <ul class="space-y-3 text-sm">
+            <li class="box"><strong class="text-white">Google Analytics</strong> — solo después de pulsar «Aceptar» en el aviso de cookies. Instala las cookies indicadas arriba.</li>
             <li class="box"><strong class="text-white">Cal.com</strong> — consulta los horarios libres cuando llegas a la sección de reservas y recibe tus datos de reserva cuando confirmas una llamada.</li>
             <li class="box"><strong class="text-white">Formspree</strong> — solo cuando envías el formulario de contacto.</li>
             <li class="box"><strong class="text-white">WhatsApp e Instagram</strong> — solo si pulsas sus enlaces; en sus sitios se aplican sus propias cookies.</li>
@@ -187,7 +232,7 @@
 
         <section class="legal-card">
           <h2 class="sec">04 // Cómo borrarlo o bloquearlo</h2>
-          <p class="mb-4">Puedes borrar el almacenamiento local y bloquear las cookies de cualquier web desde la configuración de tu navegador:</p>
+          <p class="mb-4">Puedes cambiar tu elección en cualquier momento con «Configurar cookies», al pie de cada página. Si las rechazas, se borran las cookies de analítica. También puedes borrar el almacenamiento local y bloquear las cookies de cualquier web desde la configuración de tu navegador:</p>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
             <div class="box"><strong class="text-white block mb-1">Google Chrome</strong><span class="text-[#8E8E8E]">Configuración → Privacidad y seguridad → Cookies de terceros / Datos de sitios.</span></div>
             <div class="box"><strong class="text-white block mb-1">Apple Safari</strong><span class="text-[#8E8E8E]">Ajustes → Privacidad → Gestionar datos de sitios web.</span></div>
@@ -198,7 +243,7 @@
 
         <section class="legal-card">
           <h2 class="sec">05 // Cambios futuros</h2>
-          <p>Si algún día esta web añade analítica (como Google Analytics) o píxeles publicitarios, actualizaré esta política y <strong>añadiré antes un aviso de cookies</strong> para que puedas aceptarlas, rechazarlas o elegir cuáles antes de que se instale ninguna.</p>
+          <p>Si algún día esta web añade otras herramientas que instalen cookies, como píxeles publicitarios, actualizaré esta política y <strong>te pediré antes tu consentimiento</strong>, antes de que se instale ninguna.</p>
         </section>
       </div>
 
@@ -232,8 +277,9 @@
           <span class="material-symbols-outlined text-[20px]" aria-hidden="true">verified_user</span>
           <span>Muss ich Cookies akzeptieren?</span>
         </p>
-        <h2 class="text-xl sm:text-2xl font-bold text-white mb-3">Nein. Diese Website setzt keine Cookies, deshalb sehen Sie auch keinen Cookie-Banner.</h2>
-        <p class="text-sm leading-relaxed text-[#C6C6C7]">Sie speichert nur die Sprache, die Sie auswählen – und erst, wenn Sie eine auswählen. Das ist technische Speicherung, die niemanden identifiziert; nach europäischem Recht (Art. 5 Abs. 3 der ePrivacy-Richtlinie 2002/58/EG) und Schweizer Recht (Art. 45c Fernmeldegesetz) ist dafür keine Einwilligung nötig — Sie müssen nur informiert werden, und genau das tut diese Seite.</p>
+        <h2 class="text-xl sm:text-2xl font-bold text-white mb-3">Nein. Analyse-Cookies werden nur gesetzt, wenn Sie im Cookie-Banner auf «Akzeptieren» klicken.</h2>
+        <p class="text-sm leading-relaxed text-[#C6C6C7]">Lehnen Sie ab oder ignorieren Sie den Banner, wird kein Cookie gesetzt und die Website funktioniert genau gleich. Ansonsten speichert sie nur die gewählte Sprache und Ihre Cookie-Entscheidung. Das ist technische Speicherung, die niemanden identifiziert; nach europäischem Recht (Art. 5 Abs. 3 der ePrivacy-Richtlinie 2002/58/EG) und Schweizer Recht (Art. 45c Fernmeldegesetz) ist dafür keine Einwilligung nötig — Sie müssen nur informiert werden, und genau das tut diese Seite.</p>
+        <button type="button" data-consent-open class="hidden mt-5 border border-primary-container text-primary-container font-mono text-xs uppercase font-bold px-5 py-3 tracking-wider hover:bg-primary-container hover:text-black transition-colors">Cookie-Entscheidung ändern</button>
       </div>
 
       <div class="space-y-8 text-[15px] leading-relaxed text-[#C6C6C7]">
@@ -246,7 +292,27 @@
           <h2 class="sec">02 // Was in Ihrem Browser gespeichert wird</h2>
           <div class="box mb-4">
             <dl class="spec">
-              <dt>Cookies</dt><dd><strong class="text-primary-container">Keine</strong></dd>
+              <dt>Cookies</dt><dd><strong class="text-primary-container">Keine, ausser Sie akzeptieren Analyse-Cookies</strong></dd>
+            </dl>
+          </div>
+          <div class="box mb-4">
+            <dl class="spec">
+              <dt>Name</dt><dd class="text-primary-container font-bold">_ga · _ga_&lt;ID&gt;</dd>
+              <dt>Typ</dt><dd>Cookies (Analyse)</dd>
+              <dt>Anbieter</dt><dd>Google Analytics 4 (Google Ireland Limited / Google LLC)</dd>
+              <dt>Zweck</dt><dd>Besuche unterscheiden und die Sitzung halten, um zu messen, welche Seiten besucht werden und welche zu Anfragen führen (Formular gesendet, Gespräch gebucht, Klick auf WhatsApp oder E-Mail).</dd>
+              <dt>Dauer</dt><dd>Bis zu 2 Jahre oder bis Sie ablehnen bzw. Ihre Browserdaten löschen.</dd>
+              <dt>Einwilligung nötig?</dt><dd class="text-primary-container font-semibold">Ja — erst nach Klick auf «Akzeptieren» gesetzt</dd>
+            </dl>
+          </div>
+          <div class="box mb-4">
+            <dl class="spec">
+              <dt>Name</dt><dd class="text-primary-container font-bold">consent</dd>
+              <dt>Typ</dt><dd>localStorage</dd>
+              <dt>Anbieter</dt><dd>Diese Website (eigener)</dd>
+              <dt>Zweck</dt><dd>Merkt sich, ob Sie Analyse-Cookies akzeptiert oder abgelehnt haben, damit der Banner nicht auf jeder Seite erscheint.</dd>
+              <dt>Dauer</dt><dd>Bis Sie Ihre Browserdaten löschen.</dd>
+              <dt>Einwilligung nötig?</dt><dd class="text-primary-container font-semibold">Nein (technische Speicherung)</dd>
             </dl>
           </div>
           <div class="box">
@@ -259,13 +325,14 @@
               <dt>Einwilligung nötig?</dt><dd class="text-primary-container font-semibold">Nein (technische Speicherung)</dd>
             </dl>
           </div>
-          <p class="mt-4 text-xs text-[#8E8E8E]">Enthält keine Kennungen, IP-Adresse oder Standortdaten. Geprüft am 29. September 2026 durch Aufruf aller Seiten der Website in einem neuen, leeren Browser.</p>
+          <p class="mt-4 text-xs text-[#8E8E8E]"><code>consent</code> und <code>lang</code> enthalten keine Kennungen, IP-Adresse oder Standortdaten.</p>
         </section>
 
         <section class="legal-card">
           <h2 class="sec">03 // Externe Dienste, mit denen sich die Website verbindet</h2>
-          <p class="mb-4">Diese Dienste setzen über diese Website keine Cookies, erhalten aber Ihre IP-Adresse, wenn Ihr Browser sich mit ihnen verbindet (nötig, um Ihnen die Inhalte zu senden):</p>
+          <p class="mb-4">Ihr Browser verbindet sich mit diesen Diensten, die Ihre IP-Adresse erhalten, um antworten zu können:</p>
           <ul class="space-y-3 text-sm">
+            <li class="box"><strong class="text-white">Google Analytics</strong> — erst nachdem Sie im Cookie-Banner auf «Akzeptieren» geklickt haben. Setzt die oben genannten Cookies.</li>
             <li class="box"><strong class="text-white">Cal.com</strong> — ruft freie Termine ab, sobald Sie den Buchungsbereich erreichen, und erhält Ihre Buchungsdaten, wenn Sie ein Gespräch bestätigen.</li>
             <li class="box"><strong class="text-white">Formspree</strong> — nur wenn Sie das Kontaktformular absenden.</li>
             <li class="box"><strong class="text-white">WhatsApp und Instagram</strong> — nur wenn Sie deren Links antippen; auf deren Seiten gelten deren eigene Cookies.</li>
@@ -275,7 +342,7 @@
 
         <section class="legal-card">
           <h2 class="sec">04 // Löschen oder blockieren</h2>
-          <p class="mb-4">Sie können den lokalen Speicher löschen und Cookies für jede Website in Ihren Browsereinstellungen blockieren:</p>
+          <p class="mb-4">Sie können Ihre Entscheidung jederzeit über «Cookie-Einstellungen» unten auf jeder Seite ändern. Beim Ablehnen werden die Analyse-Cookies gelöscht. Zudem können Sie den lokalen Speicher löschen und Cookies für jede Website in Ihren Browsereinstellungen blockieren:</p>
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
             <div class="box"><strong class="text-white block mb-1">Google Chrome</strong><span class="text-[#8E8E8E]">Einstellungen → Datenschutz und Sicherheit → Drittanbieter-Cookies / Websitedaten.</span></div>
             <div class="box"><strong class="text-white block mb-1">Apple Safari</strong><span class="text-[#8E8E8E]">Einstellungen → Datenschutz → Websitedaten verwalten.</span></div>
@@ -286,7 +353,7 @@
 
         <section class="legal-card">
           <h2 class="sec">05 // Künftige Änderungen</h2>
-          <p>Sollte diese Website künftig Analyse-Tools (z. B. Google Analytics) oder Werbe-Pixel einsetzen, aktualisiere ich diese Richtlinie und <strong>füge vorher einen Cookie-Banner hinzu</strong>, damit Sie diese Cookies akzeptieren, ablehnen oder auswählen können, bevor sie gesetzt werden.</p>
+          <p>Sollte diese Website künftig weitere Tools einsetzen, die Cookies setzen, etwa Werbe-Pixel, aktualisiere ich diese Richtlinie und <strong>hole vorher Ihre Einwilligung ein</strong>, bevor eines davon gesetzt wird.</p>
         </section>
       </div>
 
@@ -311,7 +378,8 @@
     </div>
   </footer>
 
-  <script type="application/json" id="legal-meta">{"en": {"title": "Cookie Policy | Jordi Mora — Web Design & AI Automation", "desc": "This website sets no cookies. It only stores your language preference in your browser."}, "es": {"title": "Política de Cookies | Jordi Mora — Web Design & AI Automation", "desc": "Esta web no instala cookies. Solo guarda tu preferencia de idioma en tu navegador."}, "de": {"title": "Cookie-Richtlinie | Jordi Mora — Web Design & AI Automation", "desc": "Diese Website setzt keine Cookies. Sie speichert nur Ihre Spracheinstellung im Browser."}}</script>
-  <script src="assets/js/legal.js?v=d83249d487"></script>
+  <script type="application/json" id="legal-meta">{"en": {"title": "Cookie Policy | Jordi Mora — Web Design & AI Automation", "desc": "Cookies on this website: Google Analytics only with your consent, plus technical storage of your language and cookie choice."}, "es": {"title": "Política de Cookies | Jordi Mora — Web Design & AI Automation", "desc": "Cookies de esta web: Google Analytics solo con tu consentimiento, y almacenamiento técnico de tu idioma y tu elección de cookies."}, "de": {"title": "Cookie-Richtlinie | Jordi Mora — Web Design & AI Automation", "desc": "Cookies auf dieser Website: Google Analytics nur mit Ihrer Einwilligung, dazu technische Speicherung von Sprache und Cookie-Entscheidung."}}</script>
+  <script src="assets/js/legal.js?v=13c1e207e3"></script>
+  <script src="assets/js/consent.js?v=d1fae44807"></script>
 </body>
 </html>

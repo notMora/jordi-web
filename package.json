@@ -1,9 +1,10 @@
 {
   "name": "jordi-web",
   "private": true,
-  "description": "Jordi Mora — web design & AI automation site. Static site in public/, Tailwind compiled from src/.",
+  "description": "Jordi Mora — web design & AI automation site. Static site in public/, pages and Tailwind built from src/.",
   "scripts": {
-    "build": "npm run build:site && npm run build:legal && node scripts/version-assets.mjs",
+    "build": "npm run build:pages && npm run build:site && npm run build:legal && node scripts/version-assets.mjs",
+    "build:pages": "node scripts/build-pages.mjs",
     "build:site": "tailwindcss -c tailwind.site.config.js -i src/site.css -o public/assets/css/site.css --minify",
     "build:legal": "tailwindcss -c tailwind.legal.config.js -i src/legal.css -o public/assets/css/legal.css --minify"
   },

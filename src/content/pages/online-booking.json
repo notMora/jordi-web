@@ -1,0 +1,217 @@
+{
+  "order": 2,
+  "type": "service",
+  "slug": {
+    "en": "services/online-booking",
+    "de": "leistungen/online-terminbuchung",
+    "es": "servicios/reservas-online"
+  },
+  "related": ["physiotherapy", "beauty-salons", "hair-salons"],
+  "en": {
+    "nav": "Website with online booking",
+    "teaser": "Let customers book appointments themselves on your website, day or night, with automatic confirmation by email or SMS and optional card payment.",
+    "title": "Website with Online Booking System | Jordi Mora",
+    "desc": "Customers book themselves on your website and get automatic confirmation by email or SMS. Optional card payment. Set up for you. Free 20-minute call.",
+    "h1": "A website with an online booking system, set up for you",
+    "intro": "A website with an online booking system lets your customers pick a time and book themselves, without calling or messaging you first. I set it up for SMEs across Switzerland that work by appointment: a booking calendar on your website, automatic confirmation by email or SMS, and optional card payment when booking. You work directly with me, remotely, in English, German or Spanish. The first step is a free 20-minute call.",
+    "pains_title": "Still taking bookings by phone and WhatsApp?",
+    "pains": [
+      "You're with a customer and the phone rings again. Someone wants an appointment, so you either interrupt what you're doing or call back later, and by then they may already have booked somewhere else.",
+      "Some customers want to book in the evening or at the weekend, when you're closed. If the only way to get an appointment is to call during opening hours, not all of them will wait until tomorrow.",
+      "Bookings arrive by phone, WhatsApp, email and in person, and end up in a paper diary or in your head. Keeping track takes effort, and one slip is enough for a double booking or a forgotten appointment.",
+      "Someone books a slot and simply doesn't turn up. The time is blocked, you can't give it to anyone else, and nothing in your current process makes customers think twice before missing an appointment."
+    ],
+    "included_title": "What your online booking system includes",
+    "included": [
+      {
+        "title": "Booking calendar on your website",
+        "text": "Customers see the times you've made available and book the slot that suits them, directly on your website. They can do it at any hour, and you no longer have to answer a call or message for every single booking."
+      },
+      {
+        "title": "Automatic confirmation by email or SMS",
+        "text": "As soon as someone books, they automatically receive a confirmation by email or SMS with the details of their appointment. You don't have to confirm anything by hand, and your customer has everything in writing."
+      },
+      {
+        "title": "Optional card payment when booking",
+        "text": "If you want, customers can pay by card when they book, for example a deposit. It's entirely optional and you decide whether to use it. Paying something upfront can make a booking feel more binding for your customer."
+      },
+      {
+        "title": "Part of your own website",
+        "text": "The calendar sits on your own website, right next to your services, prices and contact details. Everything a customer needs to decide and book is in one place, within reach of the pages they're already reading."
+      },
+      {
+        "title": "Easy to book on a phone",
+        "text": "Booking is part of a website designed for phones first. Choosing a time and confirming it is designed to be simple on a small screen, with buttons that are easy to tap with a thumb."
+      },
+      {
+        "title": "Set up and handed over for you",
+        "text": "You don't have to configure any software yourself. I set up the booking system, test it on real devices and hand it over live, explaining in plain language how it works. Maintenance afterwards is optional."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can online booking be added to my existing website?",
+        "a": "It depends on how your current website is built. On the free 20-minute call, we look at it together and I tell you honestly whether adding online booking makes sense or whether a new website would serve you better. Either way, you get a personalised quote and see the design before paying anything."
+      },
+      {
+        "q": "Can customers pay when they book?",
+        "a": "Yes, if you want them to. Card payment when booking is optional: you can use it, for example, to take a deposit, or leave it out so customers pay the way they always have. We work out together on the call what fits your business and your customers."
+      },
+      {
+        "q": "How can I reduce no-shows?",
+        "a": "There's no magic fix, but two things help. First, customers who book online get a clear confirmation by email or SMS, so the appointment is in writing and easy to find again. Second, the optional card payment lets you ask for a deposit when someone books, which makes the booking more binding. Which combination suits you depends on your business."
+      },
+      {
+        "q": "Do customers get an automatic confirmation?",
+        "a": "Yes. Right after booking, your customer automatically gets a confirmation by email or SMS with the date, time and key details. You save yourself confirming each appointment by hand, and because everything is in writing, there's less room for misunderstandings about when the appointment is."
+      },
+      {
+        "q": "What does a website with a booking system cost?",
+        "a": "It depends on the scope, so you get a personalised quote after the free call. The main factors: whether you need a complete new website or mainly the booking part, how many pages and languages, whether you want card payment when booking, and whether it's combined with other features such as an AI assistant. That way you only pay for what your business will actually use."
+      },
+      {
+        "q": "Is online booking right for my kind of business?",
+        "a": "It suits businesses that work with appointments or fixed time slots: physiotherapy and therapy practices, beauty and hair salons, consultations, or tradespeople who arrange site visits. If most of your enquiries need a conversation or a quote first, a simple contact option or an AI assistant may fit better. We work that out together on the free call."
+      }
+    ],
+    "service_type": "Online booking system setup"
+  },
+  "de": {
+    "nav": "Website mit Online-Terminbuchung",
+    "teaser": "Ihre Kundschaft bucht Termine selbst auf Ihrer Website, auch abends und am Wochenende – mit automatischer Bestätigung per E-Mail oder SMS und optionaler Kartenzahlung.",
+    "title": "Website mit Online-Terminbuchung für KMU | Jordi Mora",
+    "desc": "Ihre Kundschaft bucht selbst auf Ihrer Website und erhält automatisch eine Bestätigung per E-Mail oder SMS. Kartenzahlung optional. Gratis Erstgespräch.",
+    "h1": "Website mit Online-Terminbuchung – Ihre Kundschaft bucht selbst",
+    "intro": "Eine Website mit Online-Terminbuchung heisst: Ihre Kundinnen und Kunden wählen selbst einen freien Termin und buchen ihn direkt, ohne vorher anzurufen oder zu schreiben. Ich richte das für KMU in der ganzen Schweiz ein, die mit Terminen arbeiten: Buchungskalender auf Ihrer Website, automatische Bestätigung per E-Mail oder SMS und auf Wunsch Kartenzahlung bei der Buchung. Sie arbeiten direkt mit mir, remote. Der erste Schritt ist ein kostenloses 20-minütiges Erstgespräch.",
+    "pains_title": "Termine noch per Telefon und WhatsApp?",
+    "pains": [
+      "Sie sind mitten in einer Behandlung oder einem Auftrag, und das Telefon klingelt schon wieder. Jemand möchte einen Termin – also unterbrechen Sie oder rufen später zurück. Bis dahin hat die Person vielleicht schon woanders gebucht.",
+      "Manche möchten abends oder am Wochenende buchen, wenn Ihr Geschäft geschlossen ist. Gibt es nur den Weg übers Telefon während der Öffnungszeiten, warten nicht alle geduldig bis zum nächsten Tag.",
+      "Anfragen kommen per Telefon, WhatsApp, E-Mail und persönlich – und landen in einer Agenda aus Papier oder im Kopf. Den Überblick zu behalten kostet Energie, und ein Versehen reicht für eine Doppelbuchung oder einen vergessenen Termin.",
+      "Jemand bucht einen Termin und erscheint einfach nicht. Der Slot ist blockiert, Sie können ihn niemand anderem mehr geben, und nichts in Ihrem heutigen Ablauf sorgt dafür, dass sich ein Termin verbindlich anfühlt."
+    ],
+    "included_title": "Das umfasst Ihr Buchungssystem für die Website",
+    "included": [
+      {
+        "title": "Buchungskalender auf Ihrer Website",
+        "text": "Ihre Kundschaft sieht die Zeiten, die Sie freigeben, und bucht den passenden Termin direkt auf Ihrer Website. Das geht zu jeder Tageszeit, und Sie müssen nicht mehr für jede einzelne Buchung ans Telefon."
+      },
+      {
+        "title": "Automatische Bestätigung per E-Mail oder SMS",
+        "text": "Sobald jemand bucht, erhält die Person automatisch eine Bestätigung per E-Mail oder SMS mit allen Angaben zum Termin. Sie müssen nichts von Hand bestätigen, und Ihre Kundschaft hat alles schriftlich."
+      },
+      {
+        "title": "Optionale Kartenzahlung bei der Buchung",
+        "text": "Auf Wunsch zahlen Kundinnen und Kunden schon beim Buchen per Karte, zum Beispiel eine Anzahlung. Ob Sie das nutzen, entscheiden Sie selbst. Eine Zahlung im Voraus kann eine Buchung für Ihre Kundschaft verbindlicher machen."
+      },
+      {
+        "title": "Teil Ihrer eigenen Website",
+        "text": "Der Kalender steht auf Ihrer eigenen Website, direkt bei Ihren Leistungen, Preisen und Kontaktangaben. Alles, was man zum Entscheiden und Buchen braucht, ist an einem Ort und von den Seiten aus erreichbar, die man gerade liest."
+      },
+      {
+        "title": "Einfach buchen auf dem Handy",
+        "text": "Die Buchung ist fester Teil einer Website, die zuerst fürs Handy gestaltet wird. Termin wählen und bestätigen soll auf kleinen Bildschirmen einfach gehen, mit Buttons, die sich mit dem Daumen gut antippen lassen."
+      },
+      {
+        "title": "Eingerichtet und live übergeben",
+        "text": "Sie müssen keine Software selbst einrichten. Ich richte das Buchungssystem ein, teste es auf echten Geräten und übergebe es live – und erkläre Ihnen verständlich, wie alles funktioniert. Wartung danach ist optional."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kann ich die Online-Terminbuchung in meine bestehende Website einbinden?",
+        "a": "Das hängt davon ab, wie Ihre heutige Website gebaut ist. Im kostenlosen 20-minütigen Erstgespräch schauen wir sie gemeinsam an, und ich sage Ihnen ehrlich, ob sich das Einbinden lohnt oder ob eine neue Website sinnvoller ist. In beiden Fällen erhalten Sie eine persönliche Offerte und sehen das Design, bevor Sie etwas bezahlen."
+      },
+      {
+        "q": "Können Kunden beim Buchen direkt bezahlen?",
+        "a": "Ja, wenn Sie das möchten. Die Kartenzahlung bei der Buchung ist optional: Sie können damit zum Beispiel eine Anzahlung verlangen oder sie weglassen, sodass wie gewohnt bezahlt wird. Was zu Ihrem Geschäft und Ihrer Kundschaft passt, besprechen wir gemeinsam im Erstgespräch."
+      },
+      {
+        "q": "Was hilft gegen No-Shows?",
+        "a": "Ein Patentrezept gibt es nicht, aber zwei Dinge helfen. Erstens erhält Ihre Kundschaft nach der Online-Buchung eine klare Bestätigung per E-Mail oder SMS – der Termin ist schriftlich festgehalten und leicht wiederzufinden. Zweitens können Sie mit der optionalen Kartenzahlung beim Buchen eine Anzahlung verlangen, was die Buchung verbindlicher macht. Welche Kombination passt, hängt von Ihrem Geschäft ab."
+      },
+      {
+        "q": "Bekommen Kunden automatisch eine Bestätigung?",
+        "a": "Ja. Direkt nach der Buchung geht automatisch eine Bestätigung per E-Mail oder SMS mit Datum, Uhrzeit und den wichtigsten Angaben hinaus. Sie sparen sich das Bestätigen von Hand, und weil alles schriftlich vorliegt, gibt es weniger Raum für Missverständnisse rund um den Termin."
+      },
+      {
+        "q": "Was kostet eine Website mit Buchungssystem?",
+        "a": "Die Kosten hängen vom Umfang ab, deshalb erhalten Sie nach dem kostenlosen Erstgespräch eine persönliche Offerte. Die wichtigsten Faktoren: ob Sie eine komplett neue Website brauchen oder vor allem die Buchung, wie viele Seiten und Sprachen, ob Kartenzahlung beim Buchen dazugehört und ob ein KI-Assistent dazukommt. So bezahlen Sie nur für das, was Ihr Geschäft wirklich nutzt."
+      },
+      {
+        "q": "Passt Online-Terminbuchung zu meinem Geschäft?",
+        "a": "Sie eignet sich vor allem für Betriebe, die mit Terminen oder festen Zeitfenstern arbeiten: Physiotherapie- und Therapiepraxen, Kosmetikstudios, Coiffeursalons, Beratungen oder Handwerksbetriebe, die Besichtigungen vereinbaren. Braucht es bei den meisten Anfragen zuerst ein Gespräch oder eine Offerte, passt eine einfache Kontaktmöglichkeit oder ein KI-Assistent oft besser. Das klären wir gemeinsam im Erstgespräch."
+      }
+    ],
+    "service_type": "Online-Terminbuchung"
+  },
+  "es": {
+    "nav": "Sistema de reservas online",
+    "teaser": "Tus clientes reservan cita solos en tu web, a cualquier hora, con confirmación automática por email o SMS y pago con tarjeta opcional.",
+    "title": "Sistema de reservas online para tu web | Jordi Mora",
+    "desc": "Tus clientes reservan solos en tu web y reciben confirmación automática por email o SMS. Pago con tarjeta opcional. Llamada gratuita de 20 minutos.",
+    "h1": "Sistema de reservas online en tu web: tus clientes reservan solos",
+    "intro": "Con un sistema de reservas online en tu web, tus clientes eligen un horario libre y reservan por su cuenta, sin tener que llamarte ni escribirte antes. Lo configuro para pymes de toda Suiza que trabajan con cita previa: una agenda online para citas dentro de tu web, confirmación automática por email o SMS y, si quieres, pago con tarjeta al reservar. Trabajas directamente conmigo, en remoto y en español. Empezamos con una llamada gratuita de 20 minutos.",
+    "pains_title": "¿Sigues gestionando las citas por teléfono y WhatsApp?",
+    "pains": [
+      "Estás atendiendo a un cliente y vuelve a sonar el teléfono. Alguien quiere cita, así que interrumpes lo que haces o devuelves la llamada más tarde, y para entonces quizá ya ha reservado en otro sitio.",
+      "Hay clientes que quieren reservar por la noche o el fin de semana, cuando tienes cerrado. Si la única forma de pedir cita es llamar en horario de apertura, no todos van a esperar al día siguiente.",
+      "Las citas te llegan por teléfono, WhatsApp, email y en persona, y acaban en una agenda de papel o en tu cabeza. Llevar el control cuesta, y basta un despiste para una cita duplicada o una cita olvidada.",
+      "Alguien reserva y luego no aparece. Ese horario queda bloqueado, ya no se lo puedes dar a nadie más, y nada en tu forma de trabajar hace que una cita se sienta como un compromiso."
+    ],
+    "included_title": "Qué incluye tu agenda online para citas",
+    "included": [
+      {
+        "title": "Agenda de citas en tu web",
+        "text": "Tus clientes ven los horarios que tienes disponibles y reservan el que mejor les va, directamente en tu web. Pueden hacerlo a cualquier hora, y tú ya no tienes que atender una llamada o un mensaje por cada reserva."
+      },
+      {
+        "title": "Confirmación automática por email o SMS",
+        "text": "En cuanto alguien reserva, recibe automáticamente una confirmación por email o SMS con los datos de su cita. No tienes que confirmar nada a mano, y tu cliente lo tiene todo por escrito."
+      },
+      {
+        "title": "Pago con tarjeta opcional al reservar",
+        "text": "Si quieres, tus clientes pueden pagar con tarjeta al reservar, por ejemplo un anticipo. Es totalmente opcional y tú decides si lo usas. Pagar algo por adelantado puede hacer que la reserva se tome más en serio."
+      },
+      {
+        "title": "Dentro de tu propia web",
+        "text": "La agenda está en tu propia web, junto a tus servicios, precios y datos de contacto. Todo lo que alguien necesita para decidirse y reservar está en un solo lugar, a mano desde las páginas que ya está leyendo."
+      },
+      {
+        "title": "Fácil de reservar desde el móvil",
+        "text": "La reserva forma parte de una web pensada primero para el móvil. Elegir la hora y confirmar está pensado para ser sencillo en pantallas pequeñas, con botones fáciles de pulsar con el pulgar."
+      },
+      {
+        "title": "Configurado y entregado por mí",
+        "text": "No tienes que configurar ningún programa. Yo preparo el sistema de reservas, lo pruebo en dispositivos reales y lo dejo funcionando contigo, explicándote con palabras claras cómo va todo. El mantenimiento posterior es opcional."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Puedo añadir reservas online a mi web actual?",
+        "a": "Depende de cómo esté hecha tu web actual. En la llamada gratuita de 20 minutos la miramos juntos y te digo con sinceridad si tiene sentido añadir las reservas o si te conviene más una web nueva. En los dos casos recibes un presupuesto personalizado y ves el diseño antes de pagar nada."
+      },
+      {
+        "q": "¿Mis clientes pueden pagar al reservar?",
+        "a": "Sí, si tú quieres. El pago con tarjeta al reservar es opcional: puedes usarlo, por ejemplo, para cobrar un anticipo, o no activarlo y que tus clientes paguen como siempre. En la llamada vemos juntos qué encaja mejor con tu negocio y con tus clientes."
+      },
+      {
+        "q": "¿Cómo evitar que los clientes no se presenten?",
+        "a": "No hay una solución mágica, pero dos cosas ayudan. Primero, quien reserva online recibe una confirmación clara por email o SMS, así que la cita queda por escrito y es fácil de encontrar. Segundo, con el pago opcional con tarjeta puedes pedir un anticipo al reservar, lo que da más compromiso a la cita. Qué combinación te conviene depende de tu negocio."
+      },
+      {
+        "q": "¿Reciben confirmación automática?",
+        "a": "Sí. Justo después de reservar, tu cliente recibe automáticamente una confirmación por email o SMS con la fecha, la hora y los datos importantes. Te ahorras confirmar cada cita a mano, y al tenerlo todo por escrito hay menos margen para malentendidos con los horarios."
+      },
+      {
+        "q": "¿Cuánto cuesta un sistema de reservas online?",
+        "a": "Depende del alcance, así que recibes un presupuesto personalizado después de la llamada gratuita. Lo que más influye: si necesitas una web nueva completa o sobre todo la parte de reservas, cuántas páginas e idiomas, si quieres pago con tarjeta al reservar y si se combina con un asistente de IA. Así solo pagas por lo que tu negocio va a usar de verdad."
+      },
+      {
+        "q": "¿Las reservas online encajan con mi negocio?",
+        "a": "Encajan sobre todo si trabajas con cita previa o franjas horarias fijas: fisioterapia y terapias, centros de estética, peluquerías y barberías, consultas o profesionales que programan visitas para dar presupuesto. Si la mayoría de tus consultas necesitan antes una conversación o un presupuesto, quizá te sirva más una forma de contacto sencilla o un asistente de IA. Lo vemos juntos en la llamada."
+      }
+    ],
+    "service_type": "Sistema de reservas online"
+  }
+}

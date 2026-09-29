@@ -194,7 +194,7 @@
     if (!/^\+[0-9]{8,15}$/.test(phone)) { showMsg(t('bk_err_phone')); f.phone.focus(); return; }
 
     var details = 'Servicio: ' + SERVICE_NOTE[service] + '\nTeléfono / WhatsApp: ' + phone +
-      '\nIdioma: ' + currentLang.toUpperCase() + (notes ? '\n\n' + notes : '');
+      '\nIdioma: ' + currentLang.toUpperCase() + '\nPágina: ' + location.pathname + (notes ? '\n\n' + notes : '');
     showMsg('');
     elSubmit.disabled = true;
     elSubmit.textContent = t('bk_booking');
@@ -215,6 +215,7 @@
       })
       .then(function () {
         booked = { start: iso, email: email };
+        if (window.track) window.track('generate_lead', { method: 'booking' });
         elPanel.classList.add('hidden');
         elSuccess.classList.remove('hidden');
         render();

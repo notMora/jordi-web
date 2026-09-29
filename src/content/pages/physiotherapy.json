@@ -1,0 +1,217 @@
+{
+  "order": 10,
+  "type": "industry",
+  "slug": {
+    "en": "website-for-physiotherapy-clinics",
+    "de": "website-fuer-physiotherapie",
+    "es": "diseno-web-para-fisioterapeutas"
+  },
+  "related": ["online-booking", "ai-assistant", "web-design"],
+  "en": {
+    "nav": "Websites for physiotherapy",
+    "teaser": "Websites for physiotherapy, massage and therapy practices in Switzerland, with online appointments, clear information for new patients and no health questions in forms.",
+    "title": "Website for Physiotherapy Clinics | Jordi Mora",
+    "desc": "A website for your physio or therapy practice: online appointments, clear info for patients, an AI assistant. Approve the design before paying. Free call.",
+    "h1": "Website for physiotherapy clinics: clear for patients, easy to book",
+    "intro": "I build websites for physiotherapy clinics and therapy practices in Switzerland: clear pages about your therapies, an online calendar where patients choose their own appointment, and an optional AI assistant for common questions. We start with a free 20-minute call. You see and approve the design before paying anything, then I build and test the site and hand it over live. I work remotely, directly with you, in English, German or Spanish.",
+    "pains_title": "What slows a practice down today",
+    "pains": [
+      "The phone rings while you're treating someone. You can't answer in the middle of a session, so new patients leave a voicemail or try another practice, and your breaks go on calling people back.",
+      "Before a first visit, patients ask the same things: what manual therapy is, how long a session takes, whether they need a referral, what to bring. Your team answers these questions by phone, again and again, every week.",
+      "Questions about insurance come up constantly, and every patient's situation is different. Without a clear page written by your practice, people guess, call to ask, or arrive at their first appointment unsure what they will have to pay.",
+      "Some patients describe their symptoms in detail in a contact form or an email. That puts sensitive health information where it was never meant to be, when all you needed was a name, a phone number and a preferred time."
+    ],
+    "included_title": "What a website for physiotherapy and massage practices includes",
+    "included": [
+      {
+        "title": "Online appointments without phone calls",
+        "text": "Patients pick a day and time in your calendar and get a confirmation by email or SMS. If you prefer to check first visits personally before confirming them, a short appointment request form can take the place of direct booking."
+      },
+      {
+        "title": "Therapy pages patients understand",
+        "text": "One clear section for each therapy you offer: what it is, who it's for, how a session works and how long it lasts. Written in plain language from the information you give me, without medical jargon."
+      },
+      {
+        "title": "Information for the first visit",
+        "text": "A page that tells new patients what to bring, how to find your practice, where to park and what happens at the first appointment. It answers the questions your reception hears most, so patients arrive prepared."
+      },
+      {
+        "title": "Insurance information from your practice",
+        "text": "A section where you explain, in your own words, how billing and insurance work at your practice. I lay it out so it's easy to read; the content comes from you, so patients get accurate information instead of guesses."
+      },
+      {
+        "title": "Forms that don't ask about health",
+        "text": "Contact and appointment forms only ask for what you need to get in touch: name, contact details and a preferred time. A short note explains what the data is used for. Symptoms are discussed at the practice, not online."
+      },
+      {
+        "title": "An AI assistant for practical questions",
+        "text": "It answers common questions 24/7 using only the information your practice provides: opening hours, therapies, directions, how booking works. It gives no medical advice and doesn't ask about symptoms. When someone wants an appointment, it saves their contact details and lets you know."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can patients book physiotherapy appointments online?",
+        "a": "Yes. Patients choose a day and time in your online calendar and receive a confirmation by email or SMS. You decide which appointment types can be booked online. If you'd rather confirm first visits yourself, for example to check a referral, a short request form goes there instead. We set it up to match how your practice already works."
+      },
+      {
+        "q": "How is patient data handled on the website?",
+        "a": "The rule is simple: collect only what's needed to arrange an appointment. Forms ask for name, contact details and a preferred time, never for symptoms or diagnoses. The AI assistant is set up not to ask health questions either. Each form explains in plain words what the information is used for, so patients know what they are sharing and why."
+      },
+      {
+        "q": "Does this work for massage therapists and other therapy practices?",
+        "a": "Yes. The same structure suits massage, osteopathy and other therapy practices: a page for each treatment, session lengths, online appointments and information for the first visit. What changes is the content and the tone, which we shape together around how you work and who comes to you."
+      },
+      {
+        "q": "Can the AI assistant answer common patient questions?",
+        "a": "Yes, the practical ones: opening hours, directions, which therapies you offer, what to bring, how booking works. It answers 24/7 using only the information your practice provides. It doesn't give medical advice or assess symptoms; for anything clinical it refers people to your practice. When someone wants an appointment, it saves their details and lets you know."
+      },
+      {
+        "q": "Can I show what insurance covers?",
+        "a": "You can explain it in your own words. I don't write insurance rules for you, because what is covered depends on each patient's insurance and on how your practice bills. You provide the text, for example what patients should check with their insurer before a first visit, and I present it clearly on its own page."
+      },
+      {
+        "q": "What should a physiotherapy clinic website include?",
+        "a": "At a minimum: your therapies explained simply, your team, opening hours and location, a clear way to book or request an appointment, information for first visits, and call and WhatsApp buttons that work well on a phone. If your team spends a lot of time on the phone, add an insurance page and an assistant for common questions."
+      }
+    ],
+    "service_type": "Web design for physiotherapy practices"
+  },
+  "de": {
+    "nav": "Website für Physiotherapie",
+    "teaser": "Websites für Physiotherapie-, Massage- und Therapiepraxen in der Schweiz: Online-Termine, klare Infos für neue Patientinnen und Patienten, keine Gesundheitsfragen im Formular.",
+    "title": "Website für Physiotherapie in der Schweiz | Jordi Mora",
+    "desc": "Website für Ihre Physio- oder Therapiepraxis: Online-Termine, klare Patienteninfos, KI-Assistent. Design freigeben, dann zahlen. Kostenloses Erstgespräch.",
+    "h1": "Website für Physiotherapie – mit Online-Terminen und klaren Infos",
+    "intro": "Ich erstelle Websites für Physiotherapie-, Massage- und Therapiepraxen in der ganzen Schweiz: verständliche Seiten zu Ihren Therapien, einen Online-Kalender, in dem Patientinnen und Patienten ihren Termin selbst wählen, und auf Wunsch einen KI-Assistenten für häufige Fragen. Wir beginnen mit einem kostenlosen Erstgespräch von 20 Minuten. Sie sehen und genehmigen das Design, bevor Sie etwas bezahlen. Ich arbeite remote und direkt mit Ihnen, auf Deutsch, Englisch oder Spanisch.",
+    "pains_title": "Was im Praxisalltag bremst",
+    "pains": [
+      "Das Telefon klingelt, während Sie behandeln. Mitten in der Therapie nehmen Sie nicht ab, also landen neue Patientinnen und Patienten auf dem Anrufbeantworter oder rufen bei einer anderen Praxis an. Ihre Pausen gehen fürs Zurückrufen drauf.",
+      "Vor dem ersten Termin kommen immer dieselben Fragen: Was ist manuelle Therapie? Wie lange dauert eine Sitzung? Brauche ich eine Verordnung? Was soll ich mitbringen? Ihr Team beantwortet sie am Telefon, jeden Tag aufs Neue.",
+      "Fragen zur Krankenkasse kommen ständig, und jede Situation ist anders. Fehlt auf der Website eine klare Erklärung Ihrer Praxis, rätseln die Leute, rufen an oder kommen verunsichert zum ersten Termin, ohne zu wissen, was sie bezahlen müssen.",
+      "Manche schreiben ihre Beschwerden ausführlich ins Kontaktformular oder in eine E-Mail. So landen sensible Gesundheitsangaben dort, wo sie nicht hingehören – obwohl Sie eigentlich nur Name, Telefonnummer und Wunschtermin gebraucht hätten."
+    ],
+    "included_title": "Was eine Website für Therapeuten und Physio-Praxen enthält",
+    "included": [
+      {
+        "title": "Online-Termine ohne Telefon",
+        "text": "Patientinnen und Patienten wählen Tag und Uhrzeit im Kalender und erhalten eine Bestätigung per E-Mail oder SMS. Möchten Sie Ersttermine lieber persönlich prüfen, bevor Sie sie bestätigen, ersetzt ein kurzes Anfrageformular die direkte Buchung."
+      },
+      {
+        "title": "Therapien verständlich erklärt",
+        "text": "Pro Therapie ein klarer Abschnitt: was sie ist, für wen sie sich eignet, wie eine Sitzung abläuft und wie lange sie dauert. Geschrieben in einfacher Sprache, auf Basis Ihrer Angaben und ohne Fachchinesisch."
+      },
+      {
+        "title": "Infos für den ersten Termin",
+        "text": "Eine Seite, die neuen Patientinnen und Patienten sagt, was sie mitbringen sollen, wie sie zur Praxis finden, wo sie parkieren können und was beim ersten Termin passiert. So kommen sie vorbereitet."
+      },
+      {
+        "title": "Krankenkasse: Ihre Angaben, klar dargestellt",
+        "text": "Ein Abschnitt, in dem Sie in eigenen Worten erklären, wie Abrechnung und Versicherung bei Ihnen funktionieren. Ich gestalte ihn übersichtlich; der Inhalt kommt von Ihrer Praxis, damit er stimmt und niemand raten muss."
+      },
+      {
+        "title": "Formulare ohne Gesundheitsfragen",
+        "text": "Kontakt- und Terminformulare fragen nur, was für die Kontaktaufnahme nötig ist: Name, Kontaktdaten, Wunschzeit. Ein kurzer Hinweis erklärt, wofür die Daten verwendet werden. Beschwerden werden in der Praxis besprochen, nicht online."
+      },
+      {
+        "title": "KI-Assistent für praktische Fragen",
+        "text": "Er beantwortet häufige Fragen rund um die Uhr, ausschliesslich mit den Informationen Ihrer Praxis: Öffnungszeiten, Therapien, Anfahrt, Ablauf der Buchung. Er gibt keine medizinischen Ratschläge und fragt nicht nach Beschwerden. Möchte jemand einen Termin, speichert er die Kontaktdaten und informiert Sie."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Können Patientinnen und Patienten online einen Termin buchen?",
+        "a": "Ja. Sie wählen Tag und Uhrzeit im Online-Kalender und erhalten eine Bestätigung per E-Mail oder SMS. Welche Terminarten online buchbar sind, legen Sie fest. Wenn Sie Ersttermine lieber selbst bestätigen, zum Beispiel um eine Verordnung zu prüfen, kommt dort ein kurzes Anfrageformular zum Einsatz. Wir richten es so ein, wie Ihre Praxis heute schon arbeitet."
+      },
+      {
+        "q": "Wie gehe ich auf der Website mit Gesundheitsdaten um?",
+        "a": "Mit einer einfachen Regel: nur erfassen, was für die Terminvereinbarung nötig ist. Formulare fragen nach Name, Kontaktdaten und Wunschzeit, nie nach Beschwerden oder Diagnosen. Auch der KI-Assistent stellt keine Gesundheitsfragen. Jedes Formular erklärt in klaren Worten, wofür die Angaben verwendet werden, damit Patientinnen und Patienten wissen, was sie mitteilen und warum."
+      },
+      {
+        "q": "Kann ich zeigen, welche Leistungen die Grund- oder Zusatzversicherung übernimmt?",
+        "a": "Sie können es in eigenen Worten erklären. Ich formuliere keine Versicherungsregeln, denn was übernommen wird, hängt von der Versicherung der einzelnen Person und von Ihrer Abrechnung ab. Sie liefern den Text, etwa was Patientinnen und Patienten vor dem ersten Termin mit ihrer Krankenkasse klären sollten, und ich stelle ihn übersichtlich auf einer eigenen Seite dar."
+      },
+      {
+        "q": "Eignet sich das auch für Massage- und Therapiepraxen?",
+        "a": "Ja. Der Aufbau passt genauso für Massage, Osteopathie oder andere Therapien: eine Seite pro Behandlung, die Dauer der Sitzungen, Online-Termine und Infos für den ersten Besuch. Anders sind Inhalt und Tonalität. Die richten wir gemeinsam danach aus, wie Sie arbeiten und wer zu Ihnen kommt."
+      },
+      {
+        "q": "Kann der KI-Assistent häufige Patientenfragen beantworten?",
+        "a": "Ja, die praktischen: Öffnungszeiten, Anfahrt, angebotene Therapien, was mitzubringen ist, wie die Buchung funktioniert. Er antwortet rund um die Uhr, nur auf Basis der Angaben Ihrer Praxis. Medizinische Ratschläge gibt er nicht, und Beschwerden beurteilt er nicht; dafür verweist er an Sie. Will jemand einen Termin, speichert er die Kontaktdaten und benachrichtigt Sie."
+      },
+      {
+        "q": "Was gehört auf die Website einer Physiotherapie-Praxis?",
+        "a": "Mindestens: Ihre Therapien, einfach erklärt, Ihr Team, Öffnungszeiten und Standort, ein klarer Weg zum Termin, Infos für den ersten Besuch und Buttons für Anruf und WhatsApp, die auf dem Handy gut funktionieren. Verbringt Ihr Team viel Zeit am Telefon, lohnen sich zusätzlich eine Seite zur Krankenkasse und ein Assistent für häufige Fragen."
+      }
+    ],
+    "service_type": "Webdesign für Physiotherapie- und Therapiepraxen"
+  },
+  "es": {
+    "nav": "Webs para fisioterapeutas",
+    "teaser": "Webs para clínicas de fisioterapia, masajistas y terapeutas en Suiza: citas online, información clara para pacientes y formularios que no piden datos de salud.",
+    "title": "Diseño web para fisioterapeutas en Suiza | Jordi Mora",
+    "desc": "Web para tu clínica de fisioterapia o terapia: citas online, información clara y asistente de IA. Apruebas el diseño antes de pagar. Llamada gratis.",
+    "h1": "Diseño web para fisioterapeutas: citas online e información clara",
+    "intro": "Me dedico al diseño web para fisioterapeutas, masajistas y terapeutas en toda Suiza: páginas claras sobre tus terapias, un calendario online donde los pacientes eligen su cita y, si quieres, un asistente de IA para las preguntas frecuentes. Empezamos con una llamada gratuita de 20 minutos. Ves y apruebas el diseño antes de pagar nada. Trabajo en remoto y directamente contigo, en español, alemán o inglés.",
+    "pains_title": "Lo que complica el día a día en la consulta",
+    "pains": [
+      "Suena el teléfono mientras estás tratando a alguien. No puedes contestar en mitad de una sesión, así que los pacientes nuevos dejan un mensaje o llaman a otra consulta. Y tus pausas se van en devolver llamadas.",
+      "Antes de la primera cita siempre llegan las mismas preguntas: qué es la terapia manual, cuánto dura una sesión, si hace falta prescripción médica, qué hay que traer. Tu equipo las responde por teléfono una y otra vez.",
+      "Las dudas sobre el seguro médico son constantes y cada caso es distinto. Si tu web no lo explica con las palabras de tu consulta, la gente adivina, llama para preguntar o llega a la primera cita sin saber qué va a pagar.",
+      "Hay pacientes que describen sus síntomas con todo detalle en el formulario de contacto o en un correo. Así acaban datos de salud sensibles donde no deberían estar, cuando solo necesitabas un nombre, un teléfono y una hora preferida."
+    ],
+    "included_title": "Qué incluye el diseño web para clínicas de fisioterapia y masajistas",
+    "included": [
+      {
+        "title": "Citas online sin llamadas",
+        "text": "Tus pacientes eligen día y hora en el calendario y reciben la confirmación por email o SMS. Si prefieres revisar tú las primeras visitas antes de confirmarlas, en su lugar ponemos un formulario breve de solicitud de cita."
+      },
+      {
+        "title": "Terapias explicadas con claridad",
+        "text": "Una sección por cada terapia que ofreces: qué es, para quién es, cómo es una sesión y cuánto dura. Escrita en un lenguaje sencillo a partir de la información que me das, sin tecnicismos innecesarios."
+      },
+      {
+        "title": "Información para la primera visita",
+        "text": "Una página que explica a los pacientes nuevos qué deben traer, cómo llegar a tu consulta, dónde aparcar y qué pasa en la primera cita. Responde las dudas que más se oyen en recepción, así que llegan preparados."
+      },
+      {
+        "title": "Seguros, explicados por tu consulta",
+        "text": "Una sección donde explicas, con tus propias palabras, cómo funcionan la facturación y los seguros en tu consulta. Yo me encargo de que se lea con claridad; el contenido lo pones tú, para que sea correcto y nadie tenga que adivinar."
+      },
+      {
+        "title": "Formularios sin preguntas de salud",
+        "text": "Los formularios de contacto y de cita solo piden lo necesario para ponerte en contacto: nombre, datos de contacto y hora preferida. Una nota breve explica para qué se usan los datos. Los síntomas se hablan en la consulta, no online."
+      },
+      {
+        "title": "Asistente de IA para dudas prácticas",
+        "text": "Responde las preguntas frecuentes 24/7 usando solo la información de tu consulta: horarios, terapias, cómo llegar, cómo reservar. No da consejos médicos ni pregunta por síntomas. Si alguien quiere cita, guarda sus datos de contacto y te avisa."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Pueden los pacientes pedir cita online?",
+        "a": "Sí. Eligen día y hora en tu calendario online y reciben la confirmación por email o SMS. Tú decides qué tipos de cita se pueden reservar online. Si prefieres confirmar tú las primeras visitas, por ejemplo para revisar una prescripción médica, ahí usamos un formulario breve de solicitud. Lo configuramos según cómo funciona ya tu consulta."
+      },
+      {
+        "q": "¿Cómo se tratan los datos de salud?",
+        "a": "Con una regla sencilla: recoger solo lo necesario para organizar la cita. Los formularios piden nombre, datos de contacto y hora preferida, nunca síntomas ni diagnósticos. El asistente de IA tampoco hace preguntas de salud. Cada formulario explica con palabras claras para qué se usan los datos, para que tus pacientes sepan qué comparten y por qué."
+      },
+      {
+        "q": "¿Sirve también para masajistas y terapeutas?",
+        "a": "Sí. La misma estructura funciona para masaje, osteopatía u otras terapias: una página por tratamiento, la duración de las sesiones, citas online e información para la primera visita. Lo que cambia es el contenido y el tono, que definimos juntos según cómo trabajas y quién acude a tu consulta."
+      },
+      {
+        "q": "¿El asistente de IA puede responder preguntas frecuentes de pacientes?",
+        "a": "Sí, las prácticas: horarios, cómo llegar, qué terapias ofreces, qué traer, cómo se reserva. Responde 24/7 y solo con la información que le da tu consulta. No da consejos médicos ni valora síntomas; para eso remite a tu consulta. Si alguien quiere una cita, guarda sus datos y te avisa."
+      },
+      {
+        "q": "¿Puedo indicar qué cubre el seguro?",
+        "a": "Puedes explicarlo con tus propias palabras. Yo no redacto normas de seguros, porque lo que se cubre depende del seguro de cada paciente y de cómo factura tu consulta. Tú aportas el texto, por ejemplo qué conviene consultar con la aseguradora antes de la primera visita, y yo lo presento de forma clara en su propia página."
+      },
+      {
+        "q": "¿Qué debe tener la web de una clínica de fisioterapia?",
+        "a": "Como mínimo: tus terapias explicadas de forma sencilla, tu equipo, horarios y ubicación, una forma clara de pedir cita, información para la primera visita y botones de llamada y WhatsApp que funcionen bien en el móvil. Si tu equipo pasa mucho tiempo al teléfono, suma una página sobre seguros y un asistente para las preguntas frecuentes."
+      }
+    ],
+    "service_type": "Diseño web para clínicas de fisioterapia y terapeutas"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "order": 12,
+  "type": "industry",
+  "slug": {
+    "en": "website-for-hair-salons",
+    "de": "website-fuer-coiffeure",
+    "es": "diseno-web-para-peluquerias"
+  },
+  "related": ["online-booking", "ai-assistant", "beauty-salons"],
+  "en": {
+    "nav": "Websites for hair salons",
+    "teaser": "Websites for hair salons and barbershops in Switzerland: clients book their stylist, see prices by service and know when walk-ins are welcome.",
+    "title": "Website for Hair Salons and Barbershops | Jordi Mora",
+    "desc": "A website for your hair salon or barbershop: clients book their stylist, see prices by service and your walk-in times. Approve the design first. Free call.",
+    "h1": "Website for hair salons and barbershops, made for quick bookings",
+    "intro": "Your salon's website has one main job: getting clients into the chair with as little back-and-forth as possible. I build websites for hair salons and barbershops in Switzerland where clients see prices by service, book the stylist they want and know when walk-ins are welcome. Already using salon software or a booking platform? On a free 20-minute call, we work out how the website fits alongside it. You approve the design before paying.",
+    "pains_title": "What gets in the way at a busy salon",
+    "pains": [
+      "Your hands are full of foils and colour when the phone rings. Short appointments mean lots of bookings, and every booking taken by phone interrupts the client sitting in your chair.",
+      "Clients want to book with their stylist, not just any free slot. When they can't see who is available and when, they call or message to ask, and the back-and-forth takes longer than the booking itself.",
+      "Prices depend on the service and on hair length, and many clients don't know what to expect. Without a clear price list online, they ask before booking or get a surprise at the till.",
+      "You're listed on a booking platform, but people looking for your salon land on a profile that looks like everyone else's. Your style, your team and your walk-in times don't come across."
+    ],
+    "included_title": "What's included in a website for hair salons and barbershops",
+    "included": [
+      {
+        "title": "Booking with a specific stylist",
+        "text": "Clients choose the service, then the person they want, then a time when that person is free. They get a confirmation by email or SMS. Regulars book their usual stylist in a few taps, without having to call."
+      },
+      {
+        "title": "Prices by service and hair length",
+        "text": "Cut, colour, highlights, blow-dry, beard trim: each service with its price, and price ranges by hair length where that applies. Clients know roughly what to expect before they sit down, and fewer of them need to ask."
+      },
+      {
+        "title": "Walk-in times for barbershops",
+        "text": "If you take walk-ins, the website says so clearly: which days, which hours, and when it's better to book instead. Clients who don't want to wait can still reserve a slot online from their phone."
+      },
+      {
+        "title": "Works alongside your salon software",
+        "text": "If you already use salon software or a booking platform, the website doesn't replace it. We decide together whether clients book through the website's own calendar or through the system you already have, in which case the site links straight to it."
+      },
+      {
+        "title": "Your team and your style",
+        "text": "A short introduction to each stylist or barber, with their specialities and photos of their work. Regulars find their person, and new clients get a feel for your salon before they walk in for the first time."
+      },
+      {
+        "title": "An assistant for quick questions",
+        "text": "The AI assistant answers common questions 24/7 from your salon's information: opening hours, prices, walk-in times, parking. When someone wants an appointment, it saves their details and lets you know, and it follows up if they don't reply."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does a hair salon need its own website if it already uses a booking app?",
+        "a": "A booking app handles appointments, but it shows your salon in the app's own layout, often next to other salons. Your website is your own address online: your prices, your photos, your team and buttons to call or message you on WhatsApp. It can link to the app you already use or have its own booking calendar, whichever suits you better."
+      },
+      {
+        "q": "Can clients book a specific stylist online?",
+        "a": "Yes. The booking can be set up so clients choose the service first, then the stylist, and only see times when that person is free. After booking, they get a confirmation by email or SMS. We set up your team, the services each person offers and their working hours together before the site goes live."
+      },
+      {
+        "q": "What can I do about no-shows on short appointments?",
+        "a": "I can't promise a number, but the website can make bookings more binding. Every booking is confirmed by email or SMS with the date, time and stylist, and your cancellation rules, such as a no-show fee if you charge one, are shown clearly before clients book. For longer services like colour, you can also ask for card payment when booking."
+      },
+      {
+        "q": "How should I show prices that depend on hair length?",
+        "a": "Price ranges per service are the clearest option: short, medium and long hair, each with its own price. If the final price is set in the salon, a short note says so. What matters most is that the list is easy to read on a phone, without zooming in or opening a PDF."
+      },
+      {
+        "q": "Do you build barbershop websites?",
+        "a": "Yes. A barbershop often needs something different from a hair salon: walk-in times front and centre, a clear list of cuts and beard services, and online booking for clients who don't want to wait. The design follows the style of your shop, not a generic salon template."
+      },
+      {
+        "q": "Can the AI assistant answer questions about opening hours and prices?",
+        "a": "Yes. It answers 24/7 from the information you provide: opening hours, prices, walk-in times, parking, which stylist does what. When someone wants an appointment, it saves their details and lets you know. If that person then goes quiet, it follows up with them, so the enquiry doesn't just fade away."
+      }
+    ],
+    "service_type": "Web design for hair salons and barbershops"
+  },
+  "de": {
+    "nav": "Website für Coiffeure",
+    "teaser": "Websites für Coiffeursalons und Barbershops in der Schweiz: Termin bei der gewünschten Person, Preise pro Leistung und klare Zeiten für Besuche ohne Termin.",
+    "title": "Website für Coiffeure und Barbershops | Jordi Mora",
+    "desc": "Website für Ihren Salon oder Barbershop: Termin bei der Wunschperson, Preise pro Leistung, Zeiten ohne Termin. Design vor Zahlung. Gratis-Erstgespräch.",
+    "h1": "Website für Coiffeure und Barbershops – gemacht für schnelle Termine",
+    "intro": "Im Salon zählt jede Minute, und die Website soll Ihnen Arbeit abnehmen, nicht machen. Ich erstelle Websites für Coiffeure und Barbershops in der ganzen Schweiz: Ihre Kundschaft sieht Preise pro Leistung, bucht bei der gewünschten Person und weiss, wann sie ohne Termin vorbeikommen kann. Nutzen Sie bereits eine Salonsoftware oder Buchungsplattform, klären wir im kostenlosen Erstgespräch von 20 Minuten, wie die Website dazu passt. Das Design genehmigen Sie, bevor Sie bezahlen.",
+    "pains_title": "Was im Salonalltag stört",
+    "pains": [
+      "Sie haben Farbe und Folien in den Händen, wenn das Telefon klingelt. Kurze Termine heissen viele Buchungen, und jede telefonische Buchung unterbricht die Kundin, die gerade auf Ihrem Stuhl sitzt.",
+      "Kundinnen und Kunden wollen zu ihrer Coiffeuse oder ihrem Coiffeur, nicht in irgendeine freie Lücke. Sehen sie nicht, wer wann frei ist, fragen sie per Telefon oder Nachricht nach, und das Hin und Her dauert länger als die Buchung selbst.",
+      "Der Preis hängt von Leistung und Haarlänge ab, und viele wissen nicht, womit sie rechnen müssen. Ohne klare Preisliste online fragen sie vor dem Buchen nach oder sind an der Kasse überrascht.",
+      "Sie sind auf einer Buchungsplattform gelistet, doch wer nach Ihrem Salon sucht, landet auf einem Profil, das aussieht wie alle anderen. Ihr Stil, Ihr Team und Ihre Zeiten ohne Termin gehen dabei unter."
+    ],
+    "included_title": "Was zur Website für Ihren Coiffeursalon gehört",
+    "included": [
+      {
+        "title": "Termin bei der gewünschten Person",
+        "text": "Kundinnen und Kunden wählen die Leistung, dann die Person und dann eine Zeit, in der diese Person frei ist. Sie erhalten eine Bestätigung per E-Mail oder SMS. Stammkundschaft bucht so ihren gewohnten Termin mit wenigen Klicks, ohne anzurufen."
+      },
+      {
+        "title": "Preise nach Leistung und Haarlänge",
+        "text": "Schneiden, Färben, Strähnen, Föhnen, Bart: jede Leistung mit ihrem Preis, wo nötig mit Preisspannen nach Haarlänge. So weiss die Kundschaft ungefähr, womit sie rechnen kann, bevor sie Platz nimmt, und muss seltener nachfragen."
+      },
+      {
+        "title": "Zeiten ohne Termin für Barbershops",
+        "text": "Wenn Sie Kundschaft ohne Termin bedienen, zeigt die Website das deutlich: an welchen Tagen, zu welchen Zeiten und wann eine Buchung sinnvoller ist. Wer nicht warten will, reserviert trotzdem online, direkt vom Handy aus."
+      },
+      {
+        "title": "Passt neben Ihre Salonsoftware",
+        "text": "Nutzen Sie bereits eine Salonsoftware oder Buchungsplattform, ersetzt die Website sie nicht. Wir entscheiden gemeinsam, ob über den Kalender der Website gebucht wird oder über Ihr bestehendes System. Im zweiten Fall verlinkt die Website direkt dorthin."
+      },
+      {
+        "title": "Ihr Team und Ihr Stil",
+        "text": "Eine kurze Vorstellung jeder Coiffeuse, jedes Coiffeurs oder Barbers, mit Spezialgebieten und Fotos ihrer Arbeit. Die Stammkundschaft findet ihre Person, und neue Kundinnen und Kunden bekommen ein Gefühl für Ihren Salon, bevor sie zum ersten Mal kommen."
+      },
+      {
+        "title": "Assistent für schnelle Fragen",
+        "text": "Der KI-Assistent beantwortet häufige Fragen rund um die Uhr mit den Angaben Ihres Salons: Öffnungszeiten, Preise, Zeiten ohne Termin, Parkplätze. Möchte jemand einen Termin, speichert er die Kontaktdaten und informiert Sie. Antwortet jemand nicht mehr, fasst er nach."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Braucht ein Coiffeursalon eine eigene Website, wenn er schon auf Buchungsplattformen ist?",
+        "a": "Eine Plattform verwaltet Termine, zeigt Ihren Salon aber in ihrem eigenen Layout, oft neben anderen Salons. Die eigene Website ist Ihre Adresse im Netz: mit Ihren Preisen, Ihren Fotos, Ihrem Team und Buttons für Anruf und WhatsApp. Sie kann auf Ihre Plattform verlinken oder einen eigenen Buchungskalender haben, je nachdem, was besser zu Ihnen passt."
+      },
+      {
+        "q": "Können Kundinnen online bei einer bestimmten Person einen Termin buchen?",
+        "a": "Ja. Die Buchung lässt sich so einrichten, dass zuerst die Leistung und dann die Coiffeuse oder der Coiffeur gewählt wird. Angezeigt werden nur Zeiten, in denen diese Person frei ist. Danach folgt eine Bestätigung per E-Mail oder SMS. Team, Leistungen und Arbeitszeiten richten wir gemeinsam ein, bevor die Website online geht."
+      },
+      {
+        "q": "Was hilft gegen No-Shows im Salon?",
+        "a": "Eine Zahl kann ich Ihnen nicht versprechen, aber die Website kann Buchungen verbindlicher machen. Jede Buchung wird per E-Mail oder SMS mit Datum, Zeit und Person bestätigt, und Ihre Regeln für Absagen, etwa eine allfällige No-Show-Gebühr, stehen gut sichtbar vor dem Buchen. Bei längeren Leistungen wie Färben können Sie zusätzlich eine Kartenzahlung beim Buchen verlangen."
+      },
+      {
+        "q": "Wie zeige ich Preise, die von der Haarlänge abhängen?",
+        "a": "Am klarsten mit Preisspannen pro Leistung: kurz, mittel und lang, jeweils mit eigenem Preis. Wird der genaue Preis erst im Salon festgelegt, sagt das ein kurzer Hinweis. Am wichtigsten ist, dass die Liste auf dem Handy gut lesbar ist, ohne Zoomen und ohne ein PDF öffnen zu müssen."
+      },
+      {
+        "q": "Erstellen Sie auch Websites für Barbershops?",
+        "a": "Ja. Ein Barbershop braucht oft etwas anderes als ein Coiffeursalon: Zeiten ohne Termin gut sichtbar, eine klare Liste von Schnitten und Bartpflege und eine Online-Buchung für alle, die nicht warten wollen. Das Design richtet sich nach dem Stil Ihres Shops, nicht nach einer beliebigen Salon-Vorlage."
+      },
+      {
+        "q": "Kann der KI-Assistent Fragen zu Öffnungszeiten und Preisen beantworten?",
+        "a": "Ja. Er antwortet rund um die Uhr auf Basis Ihrer Angaben: Öffnungszeiten, Preise, Zeiten ohne Termin, Parkmöglichkeiten, wer im Team was macht. Möchte jemand einen Termin, speichert er die Kontaktdaten und meldet sich bei Ihnen. Antwortet die Person danach nicht mehr, fasst er bei ihr nach, damit die Anfrage nicht einfach versandet."
+      }
+    ],
+    "service_type": "Webdesign für Coiffeursalons und Barbershops"
+  },
+  "es": {
+    "nav": "Webs para peluquerías",
+    "teaser": "Webs para peluquerías y barberías en Suiza: tus clientes reservan con su estilista, ven los precios por servicio y saben cuándo pueden venir sin cita.",
+    "title": "Diseño web para peluquerías y barberías | Jordi Mora",
+    "desc": "Web para tu peluquería o barbería: citas con su estilista, precios por servicio y horario sin cita. Apruebas el diseño antes de pagar. Llamada gratis.",
+    "h1": "Diseño web para peluquerías y barberías, pensado para citas rápidas",
+    "intro": "En una peluquería cada minuto cuenta, y la web tiene que ahorrarte trabajo, no dártelo. Hago diseño web para peluquerías y barberías en toda Suiza: tus clientes ven los precios por servicio, reservan con el estilista que quieren y saben cuándo pueden pasar sin cita. Si ya usas un programa de gestión o una plataforma de reservas, en la llamada gratuita de 20 minutos vemos cómo encaja la web. Apruebas el diseño antes de pagar.",
+    "pains_title": "Lo que complica el día a día en la peluquería",
+    "pains": [
+      "Tienes las manos llenas de tinte y papel de aluminio cuando suena el teléfono. Las citas cortas implican muchas reservas, y cada una que atiendes por teléfono interrumpe a la clienta que tienes en la silla.",
+      "Tus clientes quieren ir con su estilista, no a cualquier hueco libre. Si no ven quién está libre y cuándo, llaman o escriben para preguntar, y el ir y venir de mensajes tarda más que la propia reserva.",
+      "El precio depende del servicio y del largo del pelo, y mucha gente no sabe qué esperar. Sin una lista de precios clara en internet, preguntan antes de reservar o se llevan una sorpresa al pagar.",
+      "Estás en una plataforma de reservas, pero quien busca tu peluquería acaba en un perfil igual que todos los demás. Tu estilo, tu equipo y tu horario sin cita no se ven por ningún lado."
+    ],
+    "included_title": "Qué incluye la página web de tu peluquería o barbería",
+    "included": [
+      {
+        "title": "Cita con el estilista elegido",
+        "text": "Tus clientes eligen el servicio, después la persona y después una hora en la que esa persona está libre. Reciben la confirmación por email o SMS. Así, los habituales reservan con su estilista de siempre en pocos toques y sin llamar."
+      },
+      {
+        "title": "Precios por servicio y largo de pelo",
+        "text": "Corte, color, mechas, peinado, barba: cada servicio con su precio y, cuando haga falta, con rangos según el largo del pelo. Tus clientes saben más o menos qué van a pagar antes de sentarse, y menos gente tiene que preguntar."
+      },
+      {
+        "title": "Horario sin cita para barberías",
+        "text": "Si atiendes sin cita, la web lo dice claramente: qué días, en qué horario y cuándo conviene más reservar. Quien no quiere esperar puede reservar su hueco online igualmente, directamente desde el móvil."
+      },
+      {
+        "title": "Convive con tu programa de peluquería",
+        "text": "Si ya usas un programa de gestión o una plataforma de reservas, la web no lo sustituye. Decidimos juntos si tus clientes reservan desde el calendario de la web o desde el sistema que ya tienes; en ese caso, la web enlaza directamente a él."
+      },
+      {
+        "title": "Tu equipo y tu estilo",
+        "text": "Una presentación breve de cada estilista o barbero, con sus especialidades y fotos de su trabajo. Los habituales encuentran a su persona, y los clientes nuevos se hacen una idea de tu peluquería antes de venir por primera vez."
+      },
+      {
+        "title": "Asistente para dudas rápidas",
+        "text": "El asistente de IA responde las preguntas frecuentes 24/7 con la información de tu peluquería: horarios, precios, horario sin cita, dónde aparcar. Si alguien quiere cita, guarda sus datos y te avisa; si luego no responde, le hace seguimiento."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesita mi peluquería una web si ya uso una app de reservas?",
+        "a": "La app gestiona las citas, pero muestra tu peluquería con su propio diseño y, a menudo, junto a otras. Tu web es tu propia dirección en internet: con tus precios, tus fotos, tu equipo y botones para llamar o escribir por WhatsApp. Puede enlazar a la app que ya usas o tener su propio calendario de reservas, lo que mejor te encaje."
+      },
+      {
+        "q": "¿Pueden reservar cita online con un estilista concreto?",
+        "a": "Sí. La reserva se puede configurar para que primero elijan el servicio y después el estilista, viendo solo las horas en que esa persona está libre. Luego reciben la confirmación por email o SMS. Antes de publicar la web, configuramos juntos tu equipo, los servicios de cada persona y sus horarios."
+      },
+      {
+        "q": "¿Qué puedo hacer si hay clientes que no se presentan a su cita?",
+        "a": "No puedo prometerte una cifra, pero la web ayuda a que las reservas sean más firmes. Cada cita se confirma por email o SMS con fecha, hora y estilista, y tus normas de cancelación se ven con claridad antes de reservar. En servicios largos, como el color, además puedes pedir el pago con tarjeta al reservar."
+      },
+      {
+        "q": "¿Cómo muestro precios que dependen del largo del pelo?",
+        "a": "Lo más claro son rangos por servicio: pelo corto, medio y largo, cada uno con su precio. Si en tu peluquería el precio final se ajusta en el momento, lo indicamos con una nota breve. Lo importante es que la lista se lea bien en el móvil, sin hacer zoom ni tener que abrir un PDF."
+      },
+      {
+        "q": "¿También haces webs para barberías?",
+        "a": "Sí. Una barbería suele necesitar algo distinto a una peluquería: el horario sin cita bien visible, una lista clara de cortes y servicios de barba, y reservas online para quien no quiere esperar. El diseño sigue el estilo de tu barbería, no una plantilla genérica de peluquería."
+      },
+      {
+        "q": "¿Cuánto cuesta una web para peluquería?",
+        "a": "Lo vemos en la llamada gratuita y después recibes un presupuesto personalizado. En una peluquería, el coste depende sobre todo de cuántos servicios y estilistas hay que mostrar, de si las reservas se hacen desde la web o enlazan a tu plataforma actual, de cuántos idiomas necesitas y de si quieres el asistente de IA."
+      }
+    ],
+    "service_type": "Diseño web para peluquerías y barberías"
+  }
+}

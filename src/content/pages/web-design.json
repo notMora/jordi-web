@@ -1,0 +1,217 @@
+{
+  "order": 1,
+  "type": "service",
+  "slug": {
+    "en": "services/web-design",
+    "de": "leistungen/website-erstellen-lassen",
+    "es": "servicios/pagina-web"
+  },
+  "related": ["online-booking", "ai-assistant", "tradespeople"],
+  "en": {
+    "nav": "Website design",
+    "teaser": "A mobile-first website for your small business, prepared for Google, with one-tap call and WhatsApp buttons, and a design you approve before paying.",
+    "title": "Website Design for Small Businesses | Jordi Mora",
+    "desc": "Mobile-first websites for small businesses across Switzerland, prepared for Google. You approve the design before paying. Book a free 20-minute call.",
+    "h1": "Website design for small businesses in Switzerland",
+    "intro": "This is website design for small business owners across Switzerland who want a site that simply works: mobile-first, prepared for Google, with buttons to call you or message you on WhatsApp in one tap. You work directly with me, remotely, in English, German or Spanish. It starts with a free 20-minute call, and you see and approve the design before you pay anything.",
+    "pains_title": "Sounds familiar? Signs your business website needs work",
+    "pains": [
+      "Customers look you up on their phone, but your current site is hard to use there: tiny text, menus that don't open, pages that take ages to load. Instead of calling you, they go back to Google and call someone else.",
+      "You don't have a website at all, just a social media profile or a directory listing. People who hear about you can't quickly check what you offer, where you work or how to reach you, so some never get in touch.",
+      "Your phone number is tucked away at the bottom of a page, there's no WhatsApp button and the contact form feels like a black hole. Interested visitors want to reach you in seconds, not hunt for a way to do it.",
+      "You keep putting off a new website because it sounds expensive, technical and slow, and you don't want to pay upfront for a design you might not like. So the old site stays online, or there's still none at all."
+    ],
+    "included_title": "What your mobile-friendly business website includes",
+    "included": [
+      {
+        "title": "Designed for phones first",
+        "text": "The layout is designed for small screens first and then adapted to tablets and larger screens. Text is easy to read, buttons are easy to tap, and nobody has to zoom in or scroll sideways to find what they need."
+      },
+      {
+        "title": "One-tap call and WhatsApp buttons",
+        "text": "Visitors can call you or message you on WhatsApp with a single tap, right when they decide they want your service. The easier it is to reach you, the fewer interested people give up and look elsewhere."
+      },
+      {
+        "title": "Prepared for Google",
+        "text": "Every page gets a clear structure, a descriptive title and a short summary for search results, so Google can understand what you offer and who it's for. Nobody can promise rankings, but the groundwork is done properly."
+      },
+      {
+        "title": "You approve the design first",
+        "text": "After our free 20-minute call, I prepare the design and show it to you. You only pay once you've approved it: 50% to continue with the build, and the other 50% when the website is finished."
+      },
+      {
+        "title": "Tested on real devices, handed over live",
+        "text": "Before launch, I test the website on real devices, not just in a simulator on my screen. Then we take it live together and I walk you through everything. Ongoing maintenance afterwards is optional, if you'd like it."
+      },
+      {
+        "title": "Ready for booking and an AI assistant",
+        "text": "If it helps your business, the website can include an online booking system or an AI assistant that answers common questions. You can also start with the website on its own; we decide together on the call what makes sense."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What affects the cost of a small business website?",
+        "a": "Every website gets a personalised quote after the free call, because the price depends on what you actually need. The main factors are the overall scope, how many pages and languages the site has, whether it includes extras like online booking or an AI assistant, and whether your texts and photos are ready or still need work. Knowing this upfront also helps you decide what's essential now and what can wait."
+      },
+      {
+        "q": "Why hire a freelancer instead of an agency?",
+        "a": "An agency can make sense for large projects with many people involved. With a freelancer, you talk directly to the person who designs and builds your website: no account managers, no messages passed along. You explain what you need once, to the person doing the work. And the process is still clear: you approve the design before paying, then 50% to continue and 50% at completion."
+      },
+      {
+        "q": "How long until my website shows up on Google?",
+        "a": "Honestly, it depends, and nobody can promise you a date or a position. A new website first has to be discovered and indexed by Google, and where it appears after that depends on things like competition in your field and area. What I can control is the groundwork: your site is prepared for Google from day one, so it's technically ready to be found."
+      },
+      {
+        "q": "Will my website work properly on phones?",
+        "a": "Yes, that's where the design starts. The website is built mobile-first, which means it's designed for small screens before being adapted to larger ones. Before it goes live, I test it on real devices, and the call and WhatsApp buttons are placed where visitors can easily reach them with a thumb."
+      },
+      {
+        "q": "What should a small business website include?",
+        "a": "At minimum: what you offer and who it's for, the area you serve, how customers can reach you, and a clear next step, such as calling, sending a WhatsApp message or booking. Add whatever builds trust that you genuinely have, like photos of your work or your team, and answers to the questions customers ask most. On the free call, we work out which pages your business really needs."
+      },
+      {
+        "q": "Do I need any technical knowledge?",
+        "a": "No. I explain everything in plain language, without jargon. You tell me about your business and your customers, you look at the design and approve it, and I take care of building and testing. When the website goes live, I show you how everything works, so you know exactly what you're getting."
+      }
+    ],
+    "service_type": "Web design"
+  },
+  "de": {
+    "nav": "Website erstellen lassen",
+    "teaser": "Lassen Sie Ihre KMU-Website direkt beim Freelancer erstellen: zuerst fürs Handy gestaltet, bereit für Google, und bezahlt wird erst nach Ihrer Design-Freigabe.",
+    "title": "Website erstellen lassen beim Freelancer | Jordi Mora",
+    "desc": "Ihre KMU-Website vom Freelancer: zuerst fürs Handy gestaltet, bereit für Google. Bezahlt wird erst nach der Design-Freigabe. Kostenloses Erstgespräch.",
+    "h1": "Website erstellen lassen – direkt beim Freelancer, für Ihr KMU",
+    "intro": "Sie möchten eine Website erstellen lassen, ohne sich mit Technik und Fachbegriffen herumzuschlagen? Ich gestalte und baue Websites für KMU in der ganzen Schweiz: zuerst fürs Handy optimiert, bereit für Google und mit Buttons, über die Ihre Kundschaft Sie mit einem Tipp anruft oder per WhatsApp erreicht. Sie arbeiten direkt mit mir, remote und auf Deutsch, Englisch oder Spanisch. Der erste Schritt ist ein kostenloses 20-minütiges Erstgespräch, und das Design sehen und genehmigen Sie, bevor Sie etwas bezahlen.",
+    "pains_title": "Kommt Ihnen das bekannt vor?",
+    "pains": [
+      "Kundinnen und Kunden suchen Sie auf dem Handy, doch Ihre Website ist dort kaum zu gebrauchen: winzige Schrift, Menüs, die nicht aufgehen, lange Ladezeiten. Statt Sie anzurufen, gehen sie zurück zu Google und rufen die Konkurrenz an.",
+      "Sie haben noch gar keine Website, nur ein Social-Media-Profil oder einen Eintrag in einem Verzeichnis. Wer von Ihnen hört, sieht nicht auf einen Blick, was Sie anbieten, wo Sie tätig sind und wie man Sie erreicht.",
+      "Die Telefonnummer steht irgendwo ganz unten, einen WhatsApp-Button gibt es nicht, und das Kontaktformular wirkt wie ein schwarzes Loch. Interessierte wollen Sie in Sekunden erreichen, nicht erst lange nach einem Weg suchen.",
+      "Eine neue Website schieben Sie seit Langem vor sich her: Agenturen wirken teuer und kompliziert, und Sie möchten nicht im Voraus für ein Design bezahlen, das Ihnen am Ende vielleicht gar nicht gefällt."
+    ],
+    "included_title": "Was Sie von mir als Webdesigner bekommen",
+    "included": [
+      {
+        "title": "Zuerst fürs Handy gestaltet",
+        "text": "Das Layout wird zuerst für kleine Bildschirme entworfen und danach für Tablet und grössere Bildschirme angepasst. Texte sind gut lesbar, Buttons leicht zu treffen, und niemand muss zoomen oder seitlich scrollen, um etwas zu finden."
+      },
+      {
+        "title": "Anrufen und WhatsApp mit einem Tipp",
+        "text": "Besucherinnen und Besucher rufen Sie mit einem einzigen Tipp an oder schreiben Ihnen per WhatsApp – genau in dem Moment, in dem sie sich für Sie entscheiden. Je einfacher der Kontakt, desto weniger Interessierte springen ab."
+      },
+      {
+        "title": "Bereit für Google",
+        "text": "Jede Seite bekommt eine klare Struktur, einen aussagekräftigen Titel und eine kurze Beschreibung für die Suchergebnisse. So versteht Google, was Sie anbieten und für wen. Platzierungen kann niemand garantieren, aber die Grundlage stimmt."
+      },
+      {
+        "title": "Design-Freigabe vor jeder Zahlung",
+        "text": "Nach dem kostenlosen Erstgespräch entwerfe ich das Design und zeige es Ihnen. Bezahlt wird erst, wenn Sie es freigegeben haben: 50 % für die Umsetzung, die restlichen 50 % bei Fertigstellung der Website."
+      },
+      {
+        "title": "Auf echten Geräten getestet, live übergeben",
+        "text": "Vor dem Launch teste ich die Website auf echten Geräten, nicht nur in einer Simulation am Bildschirm. Danach schalten wir sie gemeinsam live, und ich zeige Ihnen alles Wichtige. Eine laufende Wartung ist optional."
+      },
+      {
+        "title": "Bereit für Terminbuchung und KI",
+        "text": "Wenn es Ihrem Geschäft hilft, kann die Website eine Online-Terminbuchung oder einen KI-Assistenten für häufige Fragen enthalten. Sie können aber auch nur mit der Website starten – was sinnvoll ist, klären wir gemeinsam im Gespräch."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Wovon hängen die Kosten ab, wenn ich eine Website erstellen lasse?",
+        "a": "Nach dem kostenlosen Erstgespräch erhalten Sie eine persönliche Offerte, weil der Preis davon abhängt, was Sie wirklich brauchen. Die wichtigsten Faktoren: der Umfang, wie viele Seiten und Sprachen die Website hat, ob Extras wie Online-Terminbuchung oder ein KI-Assistent dazukommen und ob Texte und Bilder schon bereit sind. So sehen Sie auch, was jetzt nötig ist und was warten kann."
+      },
+      {
+        "q": "Warum einen Freelancer statt einer Agentur beauftragen?",
+        "a": "Eine Agentur kann bei grossen Projekten mit vielen Beteiligten sinnvoll sein. Beim Freelancer sprechen Sie direkt mit der Person, die Ihre Website gestaltet und baut – ohne Kundenberater dazwischen. Sie erklären Ihr Anliegen einmal, und zwar der Person, die es umsetzt. Dazu kommt ein klarer Ablauf: Design-Freigabe vor jeder Zahlung, dann 50 % für die Umsetzung und 50 % bei Fertigstellung."
+      },
+      {
+        "q": "Wie lange dauert es, bis meine Website bei Google erscheint?",
+        "a": "Ehrlich gesagt: Das hängt von vielen Faktoren ab, und ein Datum oder eine Platzierung kann Ihnen niemand seriös versprechen. Eine neue Website muss zuerst von Google gefunden und aufgenommen werden. Wo sie danach erscheint, hängt etwa von der Konkurrenz in Ihrer Branche und Region ab. Was ich beeinflussen kann, ist die Grundlage: Ihre Website ist von Anfang an bereit für Google."
+      },
+      {
+        "q": "Funktioniert die Website auch auf dem Handy?",
+        "a": "Ja, dort beginnt das Design sogar. Die Website wird «mobile first» gebaut: zuerst für kleine Bildschirme, danach für Tablet und grössere Bildschirme. Vor dem Launch teste ich sie auf echten Geräten, und die Buttons zum Anrufen und für WhatsApp sind so platziert, dass man sie mit dem Daumen leicht erreicht."
+      },
+      {
+        "q": "Was gehört auf die Website eines KMU?",
+        "a": "Mindestens: was Sie anbieten und für wen, in welcher Region Sie tätig sind, wie man Sie erreicht und ein klarer nächster Schritt – anrufen, per WhatsApp schreiben oder einen Termin buchen. Dazu alles, was echtes Vertrauen schafft und was Sie tatsächlich haben, etwa Fotos Ihrer Arbeit oder Ihres Teams und Antworten auf häufige Fragen. Welche Seiten Ihr Geschäft braucht, klären wir im Erstgespräch."
+      },
+      {
+        "q": "Brauche ich technisches Wissen?",
+        "a": "Nein. Ich erkläre alles verständlich und ohne Fachchinesisch. Sie erzählen mir von Ihrem Geschäft und Ihrer Kundschaft, prüfen das Design und geben es frei – den Bau und die Tests übernehme ich. Wenn die Website live geht, zeige ich Ihnen, wie alles funktioniert, damit Sie genau wissen, was Sie bekommen."
+      }
+    ],
+    "service_type": "Webdesign"
+  },
+  "es": {
+    "nav": "Página web para negocios",
+    "teaser": "Una página web para tu negocio pensada primero para el móvil, preparada para Google y con botones para llamarte o escribirte por WhatsApp.",
+    "title": "Página web para negocios en Suiza | Jordi Mora",
+    "desc": "Webs para negocios y pymes en Suiza, pensadas para el móvil y preparadas para Google. No pagas nada hasta aprobar el diseño. Llamada gratis de 20 minutos.",
+    "h1": "Página web para negocios en Suiza, pensada primero para el móvil",
+    "intro": "Una buena página web para negocios no tiene por qué ser complicada. Diseño y creo webs para pymes de toda Suiza, pensadas primero para el móvil, preparadas para Google y con botones para que tus clientes te llamen o te escriban por WhatsApp con un solo toque. Trabajas directamente conmigo, en remoto y en español, alemán o inglés. Empezamos con una llamada gratuita de 20 minutos, y no pagas nada hasta ver y aprobar el diseño.",
+    "pains_title": "¿Te suena de algo?",
+    "pains": [
+      "Tus clientes te buscan desde el móvil, pero tu web actual casi no se puede usar: letra diminuta, menús que no se abren, páginas que tardan en cargar. En vez de llamarte, vuelven a Google y llaman a otro.",
+      "Todavía no tienes web, solo un perfil en redes sociales o una ficha en un directorio. Quien oye hablar de ti no ve de un vistazo qué ofreces, dónde trabajas ni cómo contactarte, y a veces ni lo intenta.",
+      "Hablar de tu web con una agencia en alemán te cuesta, entre tecnicismos y propuestas que no terminas de entender. Al final no sabes bien qué te están ofreciendo, y preferirías explicarlo todo en tu idioma.",
+      "Llevas tiempo aplazando la web porque parece cara, técnica y lenta, y no quieres pagar por adelantado un diseño que quizá no te guste. Así que la web vieja sigue ahí, o sigues sin tener ninguna."
+    ],
+    "included_title": "Qué incluye crear la web de tu negocio conmigo",
+    "included": [
+      {
+        "title": "Pensada primero para el móvil",
+        "text": "Diseño primero para pantallas pequeñas y después adapto la web a tablets y pantallas grandes. Los textos se leen bien, los botones se pulsan sin esfuerzo y nadie tiene que hacer zoom ni desplazarse de lado para encontrar lo que busca."
+      },
+      {
+        "title": "Llamada y WhatsApp con un toque",
+        "text": "Tus visitantes pueden llamarte o escribirte por WhatsApp con un solo toque, justo en el momento en que deciden contactar contigo. Cuanto más fácil es contactarte, menos gente interesada se rinde y se va a otro sitio."
+      },
+      {
+        "title": "Preparada para Google",
+        "text": "Cada página tiene una estructura clara, un título descriptivo y un resumen breve para los resultados de búsqueda, para que Google entienda qué ofreces y a quién. Nadie puede garantizar posiciones, pero la base queda bien hecha."
+      },
+      {
+        "title": "Apruebas el diseño antes de pagar",
+        "text": "Después de la llamada gratuita preparo el diseño y te lo enseño. Solo pagas cuando lo apruebas: un 50 % para seguir adelante con la construcción y el otro 50 % cuando la web está terminada."
+      },
+      {
+        "title": "Probada en dispositivos reales",
+        "text": "Antes de publicarla, pruebo la web en dispositivos reales, no solo en un simulador en mi pantalla. Después la ponemos en marcha juntos y te explico todo lo importante. El mantenimiento posterior es opcional, si lo necesitas."
+      },
+      {
+        "title": "Lista para reservas y asistente de IA",
+        "text": "Si le sirve a tu negocio, la web puede incluir un sistema de reservas online o un asistente de IA que responde las preguntas frecuentes. También puedes empezar solo con la web; lo vemos juntos en la llamada."
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿De qué depende el precio de una página web para mi negocio?",
+        "a": "Después de la llamada gratuita recibes un presupuesto personalizado, porque el precio depende de lo que de verdad necesitas. Lo que más influye: el alcance del proyecto, cuántas páginas e idiomas tiene la web, si incluye extras como reservas online o un asistente de IA, y si ya tienes los textos y las fotos o hay que prepararlos. Así también ves qué es imprescindible ahora y qué puede esperar."
+      },
+      {
+        "q": "¿Por qué un freelance y no una agencia?",
+        "a": "Una agencia puede tener sentido en proyectos grandes con muchas personas implicadas. Con un freelance hablas directamente con quien diseña y construye tu web, sin intermediarios ni gestores de cuenta. Explicas lo que necesitas una sola vez, a la persona que lo hace, y en tu idioma. Además, el proceso es claro: apruebas el diseño antes de pagar, luego un 50 % para continuar y un 50 % al terminar."
+      },
+      {
+        "q": "¿Cuándo aparecerá mi web en Google?",
+        "a": "Depende, y nadie puede prometerte una fecha ni una posición. Una web nueva primero tiene que ser encontrada e indexada por Google, y dónde aparece después depende, por ejemplo, de la competencia en tu sector y en tu zona. Lo que sí está en mi mano es la base: tu web sale preparada para Google desde el primer día, lista a nivel técnico para que la encuentren."
+      },
+      {
+        "q": "¿Funciona bien en el móvil?",
+        "a": "Sí, el diseño empieza precisamente por ahí. La web se construye pensando primero en pantallas pequeñas y luego se adapta a tablets y pantallas grandes. Antes de publicarla la pruebo en dispositivos reales, y los botones para llamar o escribir por WhatsApp quedan donde se pulsan fácilmente con el pulgar."
+      },
+      {
+        "q": "¿Qué debe tener la página web de una empresa?",
+        "a": "Como mínimo: qué ofreces y a quién, en qué zona trabajas, cómo contactarte y un paso siguiente claro, como llamar, escribir por WhatsApp o reservar. Suma todo lo que genere confianza y sea real, como fotos de tu trabajo o de tu equipo y respuestas a las preguntas que más te hacen. En la llamada gratuita vemos qué páginas necesita tu negocio."
+      },
+      {
+        "q": "¿Necesito saber de tecnología?",
+        "a": "No. Te lo explico todo con palabras claras, sin tecnicismos. Tú me cuentas cómo es tu negocio y cómo son tus clientes, revisas el diseño y lo apruebas; yo me encargo de construir la web y de probarla. Cuando la publicamos, te enseño cómo funciona todo, para que sepas exactamente qué tienes."
+      }
+    ],
+    "service_type": "Diseño web"
+  }
+}

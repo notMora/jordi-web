@@ -2,9 +2,12 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./public/index.html",
+    "./src/pages/**/*.html",
+    "./src/partials/**/*.html",
+    "./scripts/build-pages.mjs",
     "./public/assets/js/main.js",
-    "./public/assets/js/booking.js"
+    "./public/assets/js/booking.js",
+    "./public/assets/js/consent.js"
   ],
   darkMode: "class",
   theme: {
