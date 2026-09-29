@@ -6,6 +6,10 @@ set -e
 git rev-parse --verify -q source >/dev/null || { echo "Missing branch 'source'"; exit 1; }
 [ -z "$(git status --porcelain)" ] || { echo "Commit or stash your changes first"; exit 1; }
 
+# The committed build must be current (compiled CSS + versioned asset URLs)
+npm run -s build >/dev/null
+[ -z "$(git status --porcelain)" ] || { echo "Build output changed: commit it, then deploy again"; exit 1; }
+
 git fetch -q origin main
 git push -q origin source
 
