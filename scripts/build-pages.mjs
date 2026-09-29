@@ -160,8 +160,8 @@ const jsonLd = (p, lang, meta) => {
       { '@type': 'ListItem', position: 1, name: T[lang].breadcrumb_home, item: SITE + PREFIX[lang] },
       { '@type': 'ListItem', position: 2, name: c.nav, item: url }] };
     const service = { '@type': 'Service', '@id': `${url}#service`, name: c.h1, serviceType: c.service_type, description: meta.desc, url,
-      provider: { '@id': `${SITE}/#org` }, areaServed: { '@type': 'Country', name: 'Switzerland' }, availableLanguage: ['en', 'de', 'es'] };
-    graph = [org, { ...page, breadcrumb: { '@id': `${url}#breadcrumb` }, mainEntity: { '@id': `${url}#service` } }, service, crumbs, faqNode(url, c.faq.map((f) => [f.q, f.a]))];
+      provider: { '@id': `${SITE}/#org` }, areaServed: { '@type': 'Country', name: 'Switzerland' } };
+    graph = [org, website, { ...page, breadcrumb: { '@id': `${url}#breadcrumb` }, mainEntity: { '@id': `${url}#service` } }, service, crumbs, faqNode(url, c.faq.map((f) => [f.q, f.a]))];
   }
   return JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replace(/</g, '\\u003c');
 };
