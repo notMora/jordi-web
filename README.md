@@ -12,7 +12,7 @@ Static site for Jordi Mora — web design & AI automation (moradesign.shop). EN 
 npm install
 npm run build
 ```
-Run it after changing classes in `public/*.html` or `public/assets/js/*.js`, and commit the generated CSS.
+It compiles the CSS and stamps every CSS/JS URL in `public/*.html` with `?v=<content hash>` (assets are cached for a week, so each change needs a new URL). `./deploy.sh` runs it and refuses to deploy if the committed build is out of date.
 
 ## Branches and deploy (Hostinger Git)
 - `source` — this full project. Work and commit here.
