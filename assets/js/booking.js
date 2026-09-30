@@ -204,7 +204,7 @@
       body: JSON.stringify({
         start: new Date(iso).toISOString(),
         eventTypeId: CAL_EVENT_TYPE_ID,
-        attendee: { name: name, email: email, timeZone: TZ, language: currentLang },
+        attendee: { name: name, email: email, timeZone: TZ, language: currentLang, phoneNumber: phone },
         bookingFieldsResponses: { notes: details }
       })
     })
@@ -220,10 +220,14 @@
         elSuccess.classList.remove('hidden');
         render();
       })
-      .catch(function () {
+      .catch(function (err) {
         elSubmit.disabled = false;
         elSubmit.textContent = t('bk_submit');
-        showMsg(t('bk_error_book'));
+        // Cal.com checks that the phone number exists and that the email domain can receive mail
+        var why = JSON.stringify(err) || '';
+        var field = /attendeePhoneNumber/.test(why) ? 'phone' : /cannot_receive_mail/.test(why) ? 'email' : null;
+        showMsg(t(field ? 'bk_err_' + field : 'bk_error_book'));
+        if (field) f[field].focus();
       });
   });
 
