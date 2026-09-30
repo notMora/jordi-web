@@ -2,8 +2,8 @@
 // and runtime strings for main.js / booking.js. German follows Swiss spelling (no sharp s).
 const i18nData = {
   en: {
-    page_title: "Web Design for SMEs in Switzerland | Jordi Mora",
-    page_desc: "Websites with online booking and an AI assistant for small businesses across Switzerland. Remote, in English, German or Spanish. Free 20-min call.",
+    page_title: "Web Design for Swiss SMEs: More Enquiries, Less Admin",
+    page_desc: "A website that turns visitors into enquiries and bookings, with an AI assistant that answers 24/7. Pay nothing until you approve the design. Free call.",
     hero_tag: "WEB DESIGN & AI AUTOMATION",
     hero_headline: "Turn clicks into clients.",
     hero_subtitle: "Custom websites and practical AI automations that help your business win more enquiries, simplify bookings and save time. Built with precision, down to the last detail.",
@@ -202,8 +202,8 @@ const i18nData = {
     footer_cookie_settings: "Cookie settings"
   },
   es: {
-    page_title: "Diseño web para pymes en Suiza | Jordi Mora",
-    page_desc: "Webs con reservas online y asistente de IA para pymes en toda Suiza. En remoto, en español, alemán o inglés. Llamada gratuita de 20 minutos.",
+    page_title: "Diseño web para pymes en Suiza: más consultas y reservas",
+    page_desc: "Una web que convierte visitas en consultas y reservas, con un asistente de IA que responde 24/7. No pagas nada hasta aprobar el diseño. Llamada gratis.",
     hero_tag: "DISEÑO WEB Y AUTOMATIZACIÓN IA",
     hero_headline: "Convierte visitas en clientes.",
     hero_subtitle: "Sitios web a medida y automatizaciones de IA prácticas que ayudan a tu negocio a captar más consultas, simplificar reservas y ahorrar tiempo. Construido con precisión, hasta el último detalle.",
@@ -402,8 +402,8 @@ const i18nData = {
     footer_cookie_settings: "Configurar cookies"
   },
   de: {
-    page_title: "Webdesign für KMU in der Schweiz | Jordi Mora",
-    page_desc: "Websites mit Online-Terminbuchung und KI-Assistent für KMU in der ganzen Schweiz. Remote, auf Deutsch, Englisch oder Spanisch. Kostenloses Erstgespräch.",
+    page_title: "Webdesign für Schweizer KMU – mehr Anfragen, weniger Aufwand",
+    page_desc: "Eine Website, die aus Besuchern Anfragen und Buchungen macht, mit KI-Assistent, der rund um die Uhr antwortet. Zahlung erst nach Design-Freigabe.",
     hero_tag: "WEBDESIGN & KI-AUTOMATISIERUNG",
     hero_headline: "Besucher in Kunden verwandeln.",
     hero_subtitle: "Massgeschneiderte Websites und praktische KI-Automatisierungen, die Ihrem Unternehmen helfen, mehr Anfragen zu gewinnen, Buchungen zu vereinfachen und Zeit zu sparen. Mit Präzision gebaut – bis ins letzte Detail.",
