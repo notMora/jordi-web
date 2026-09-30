@@ -62,7 +62,9 @@ document.addEventListener('DOMContentLoaded', () => {
           body: new FormData(form),
           headers: { Accept: 'application/json' }
         });
-        if (!res.ok) throw new Error(res.status);
+        // Formspree refuses script submissions while its reCAPTCHA is on: send the form normally,
+        // so Formspree shows its check and then delivers the message
+        if (!res.ok) { form.submit(); return; }
         form.reset();
         formOk.classList.remove('hidden');
         if (window.track) window.track('generate_lead', { method: 'contact_form' });
